@@ -1,7 +1,8 @@
+
+
 ##  Requirements for the Major
 
-For the Asian studies major, a student must complete 10 courses (9.25
-credits):
+For the Asian studies major, a student must complete 10 courses (9.25 credits):
 
 Two courses in Chinese or Japanese above 112 or its equivalent  |  2.00  
 ---|---  
@@ -28,8 +29,7 @@ No level I or level II language courses may count.
 |  
 Total Credits  |  9.25  
   
-Students who fulfill the language requirement through proficiency testing in
-an Asian language must take 9 courses (8.25 credits):
+Students who fulfill the language requirement through proficiency testing in an Asian language must take 9 courses (8.25 credits):
 
 ASIAN 275  |  Interdisciplinary Approaches to Asia (0.25)  |  0.25  
 ---|---|---  
@@ -55,15 +55,11 @@ No level I or level II language courses may count.
 |  
 Total Credits  |  8.25  
   
-Students interested in a major focused on a region of Asia other than China
-and Japan should contact the chair of the Asian Studies Department about the
-possibility of doing a contract major.
+Students interested in a major focused on a region of Asia other than China and Japan should contact the chair of the Asian Studies Department about the possibility of doing a contract major.
 
 ##  Requirements for the Concentrations
 
-Students with a major in another department may choose a concentration in
-Asian studies, China studies, or Japan studies. Students with Asian studies
-majors may also choose to do a concentration in China and/or Japan studies.
+Students with a major in another department may choose a concentration in Asian studies, China studies, or Japan studies. Students with Asian studies majors may also choose to do a concentration in China and/or Japan studies.
 
 An Asian studies concentration consists of six courses focused on Asia:
 

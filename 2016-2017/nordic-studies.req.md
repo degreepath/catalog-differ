@@ -1,12 +1,11 @@
-The Nordic studies concentration consists of five courses. At least two of the
-five courses must have a focus on at least one Nordic country other than
-Norway.
+  
+  
+The Nordic studies concentration consists of five courses. At least two of the five courses must have a focus on at least one Nordic country other than Norway.
 
 One Norwegian language course beyond FOL-N:  |  
 ---|---  
 NORW 232  |  Intermediate Norwegian II (or above)  1  |  1.00  
-Select one or two other courses from Norwegian department offerings selected
-from the following:  |  1.00-2.00  
+Select one or two other courses from Norwegian department offerings selected from the following:  |  1.00-2.00  
   
 NORW 130
 
@@ -56,9 +55,7 @@ PHIL 233
 Other courses with significant content relating to the Nordic countries
 
 |  
-Up to three courses from study abroad programs such as DIS, HECUA: The New
-Norway, and university direct-enroll programs may be counted toward the Nordic
-studies concentration  |  3.00  
+Up to three courses from study abroad programs such as DIS, HECUA: The New Norway, and university direct-enroll programs may be counted toward the Nordic studies concentration  |  3.00  
 One course may be taken S/U.  |  
 1  |
 
@@ -66,7 +63,5 @@ Or advanced intermediate knowledge of a different Nordic language
   
 ---|---  
   
-To become a Nordic studies concentrator, contact the Director of Nordic
-Studies and inform the registrar by filling out the form at the Registrar's
-Office.
+To become a Nordic studies concentrator, contact the Director of Nordic Studies and inform the registrar by filling out the form at the Registrar's Office.
 

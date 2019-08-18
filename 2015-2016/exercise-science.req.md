@@ -1,5 +1,6 @@
-Students majoring in exercise science complete eight core courses and two
-electives. The courses include:
+
+
+Students majoring in exercise science complete eight core courses and two electives. The courses include:
 
 Core courses  |  
 ---|---  
@@ -63,8 +64,5 @@ ESTH 398 Independent Research
 
 CHEM 121 General Chemistry
 
-and completion of the [ biomedical studies ](/archive/2015-2016/academic-
-programs/biomedical-studies/) concentration (available to students through
-class of 2016) or [ neuroscience ](/archive/2015-2016/academic-
-programs/neuroscience/) concentration.
+and completion of the  biomedical studies  concentration (available to students through class of 2016) or  neuroscience  concentration.
 

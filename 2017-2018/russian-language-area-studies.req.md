@@ -1,3 +1,5 @@
+
+
 ##  Requirements for the Major in Russian Language
 
 RUSSN 111  |  Beginning Russian I  |  1.00  
@@ -8,8 +10,7 @@ RUSSN 232  |  Intermediate Russian II  |  1.00
 RUSSN 251  |  Conversation and Composition  |  1.00  
 RUSSN 254  |  Russian Culture and Civilization  |  1.00  
 RUSSN 372  |  The Russian Press  |  1.00  
-Two additional courses taught in Russian, normally taken in Russia during
-senior year  |  2.00  
+Two additional courses taught in Russian, normally taken in Russia during senior year  |  2.00  
   
 ##  Requirements for the Major in Russian Area Studies
 
@@ -19,8 +20,7 @@ RUSSN 111  |  Beginning Russian I  |  1.00
 RUSSN 112  |  Beginning Russian II  |  1.00  
 RUSSN 231  |  Intermediate Russian I  |  1.00  
 RUSSN 232  |  Intermediate Russian II  |  1.00  
-Select five of the following political science, history, literature, or film
-courses approved for Russian language and area studies credit:  2  |  5.00  
+Select five of the following political science, history, literature, or film courses approved for Russian language and area studies credit:  2  |  5.00  
   
 HIST 230
 
@@ -73,19 +73,14 @@ Senior project  3  |
 Total Credits  |  9  
 1  |
 
-A minimum of four semesters of Russian language is required, though more is
-encouraged.  
+A minimum of four semesters of Russian language is required, though more is encouraged.  
   
 ---|---  
 2  |
 
-For students who are not simultaneously working toward the Russian language
-major, two advanced Russian language courses (RUSSN 251, RUSSN 254) may be
-counted toward the Russian area studies major.  
+For students who are not simultaneously working toward the Russian language major, two advanced Russian language courses (RUSSN 251, RUSSN 254) may be counted toward the Russian area studies major.  
   
 3  |
 
-This may be taken for course credit as RUSSN 398 Independent Research.
-Guidelines are available from the department chair. The project is due on
-April 15.
+This may be taken for course credit as RUSSN 398 Independent Research. Guidelines are available from the department chair. The project is due on April 15.
 

@@ -1,19 +1,14 @@
+
+
 Requirements for the Graduation Major
 
-The graduation major consists of a minimum of eight (8) courses in French
-above FREN 112, as follows:
+The graduation major consists of a minimum of eight (8) courses in French above FREN 112, as follows:
 
-Two 250-level courses, at least one of which must be taught by a St. Olaf
-instructor  |  2.00  
+Two 250-level courses, at least one of which must be taught by a St. Olaf instructor  |  2.00  
 ---|---  
-Two 270-level courses, at least one of which must be taught by a St. Olaf
-instructor  |  2.00  
-Two 300-level courses taken on-campus and taught by a St. Olaf instructor  |
-2.00  
-Two additional relevant courses of the student's choosing (may include: FREN
-231; FREN 232 or FREN 235; a maximum of one course with a significant
-French/Francopone focus from another department or program on campus.)  |
-2.00  
+Two 270-level courses, at least one of which must be taught by a St. Olaf instructor  |  2.00  
+Two 300-level courses taken on-campus and taught by a St. Olaf instructor  |  2.00  
+Two additional relevant courses of the student's choosing (may include: FREN 231; FREN 232 or FREN 235; a maximum of one course with a significant French/Francopone focus from another department or program on campus.)  |  2.00  
   
 Sample Courses include:
 
@@ -68,14 +63,11 @@ THEAT 270
 |  History of Theater up to 1700  |  
 Total Credits  |  8  
   
-Independent study or research may not be counted in lieu of any of the courses
-referred to above. Transfer credit must be approved in advance by the
-Department chair.
+Independent study or research may not be counted in lieu of any of the courses referred to above. Transfer credit must be approved in advance by the Department chair.
 
 ##  Requirements for a French Major with K-12 Teaching Licensure
 
-Eight courses in French above FREN 112 (two 250-level; two 270-level; two
-300-level French courses)  |  8.00  
+Eight courses in French above FREN 112 (two 250-level; two 270-level; two 300-level French courses)  |  8.00  
 ---|---  
   
 Of the eight courses, one must be an immersion course of the following:
@@ -97,16 +89,14 @@ FREN 275 Interdisciplinary French Studies in Paris (abroad)
 Other approved immersion course
 
 |  
-One approved applied linguistics course (LNGST 250: English Language and
-Linguistics, or other approved course, which may be taken abroad)  |  1.00  
+One approved applied linguistics course (LNGST 250: English Language and Linguistics, or other approved course, which may be taken abroad)  |  1.00  
 One course in French/Francophone history  |  1.00  
 EDUC 353  |  Teaching of World Languages, K-12  |  1.00  
 All other requirements for the K-12 teaching licensure program in French  1  |  
-Attainment of Intermediate High, or above, on the OPIc (Oral Proficiency
-Interview Computerized)  |  
+Attainment of Intermediate High, or above, on the OPIc (Oral Proficiency Interview Computerized)  |  
 1  |
 
-See [ Education ](/archive/2016-2017/academic-programs/education/)  
+See  Education  
   
 ---|---  
   

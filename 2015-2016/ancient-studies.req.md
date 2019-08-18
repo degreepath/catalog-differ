@@ -1,3 +1,5 @@
+  
+  
 Students majoring in ancient studies must complete the following:
 
 Fourth semester (or higher) of ancient Greek or Latin  |  1.00  

@@ -1,3 +1,5 @@
+  
+  
 ##  Requirements for the Greek Major
 
 Seven Greek courses  1  |  7.00  
@@ -7,8 +9,7 @@ One ancient Greek history course  |  1.00
 Total Credits  |  9  
 1  |
 
-Students who begin Greek at GREEK 231 or higher have the option of taking six
-courses in Greek  
+Students who begin Greek at GREEK 231 or higher have the option of taking six courses in Greek  
   
 ---|---  
   
@@ -21,8 +22,7 @@ One ancient Roman history course  |  1.00
 Total Credits  |  9  
 1  |
 
-Students who begin Latin at LATIN 231 or higher have the option of taking six
-courses in Latin  
+Students who begin Latin at LATIN 231 or higher have the option of taking six courses in Latin  
   
 ---|---  
   
@@ -36,8 +36,7 @@ One ancient history course  |  1.00
 Total Credits  |  11  
 1  |
 
-Students who begin one of the languages at the 231 level or higher have the
-option of taking five courses in that language  
+Students who begin one of the languages at the 231 level or higher have the option of taking five courses in that language  
   
 ---|---  
   
@@ -51,8 +50,7 @@ All other requirements of the K-12 teaching licensure program in Latin  |
   
 1  |
 
-Students who begin Latin at LATIN 231 or higher have the option of taking six
-courses in Latin  
+Students who begin Latin at LATIN 231 or higher have the option of taking six courses in Latin  
   
 ---|---
 

@@ -1,5 +1,6 @@
-Students majoring in exercise science complete eight core courses and two
-electives. The courses include:
+
+
+Students majoring in exercise science complete eight core courses and two electives. The courses include:
 
 Core courses  |  
 ---|---  

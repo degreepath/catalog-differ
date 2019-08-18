@@ -1,3 +1,5 @@
+
+
 ##  Requirements for the Major
 
 For the Asian studies major, a student must complete 9 courses (9 credits):
@@ -26,8 +28,7 @@ No level I or level II language courses may count.
 |  
 Total Credits  |  9  
   
-Students who fulfill the language requirement through proficiency testing in
-an Asian language must take 8 courses (8 credits):
+Students who fulfill the language requirement through proficiency testing in an Asian language must take 8 courses (8 credits):
 
 Senior Seminar:  |  
 ---|---  
@@ -52,25 +53,13 @@ No level I or level II language courses may count.
 |  
 Total Credits  |  8  
   
-Students interested in a major focused on a region of Asia other than China
-and Japan should contact the chair of the Asian Studies Department about the
-possibility of doing a contract major.
+Students interested in a major focused on a region of Asia other than China and Japan should contact the chair of the Asian Studies Department about the possibility of doing a contract major.
 
-For students double-majoring in Asian Studies and Chinese or Japanese, the
-following rules apply: 231 and 232 can count for both the language and area
-studies majors; one 300-level course can count for both the language and area
-studies major; two level three language courses can count for both the
-language and area studies major; and two of the three Asian Conversations
-courses can count towards the language majors with the third course counting
-for the area studies major.
+For students double-majoring in Asian Studies and Chinese or Japanese, the following rules apply: 231 and 232 can count for both the language and area studies majors; one 300-level course can count for both the language and area studies major; two level three language courses can count for both the language and area studies major; and two of the three Asian Conversations courses can count towards the language majors with the third course counting for the area studies major.
 
 ##  Requirements for the Concentrations
 
-Students with a major in another department may choose a concentration in
-Asian studies, China studies, or Japan studies. Students with Asian studies
-majors may also choose to do a concentration in China and/or Japan studies
-(this option available only to students entering before fall 2017 (classes of
-2017-2020).
+Students with a major in another department may choose a concentration in Asian studies, China studies, or Japan studies. Students with Asian studies majors may also choose to do a concentration in China and/or Japan studies (this option available only to students entering before fall 2017 (classes of 2017-2020).
 
 ###  Asian Studies Concentration
 

@@ -1,3 +1,5 @@
+  
+  
 Every student majoring in medieval studies must complete the following:
 
 Fourth semester (or higher) of Latin  |  1.00  

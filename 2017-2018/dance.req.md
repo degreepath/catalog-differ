@@ -1,3 +1,5 @@
+
+
 Language-Intensive Courses (Theory)  |  6.00  
 ---|---  
 DANCE 100  |  Introduction to Dance  |  1.00  
@@ -126,15 +128,12 @@ Select at least two credits from within or outside the department.
 Dance Companies and Productions  |  
 Dance company participation  |  
   
-Majors are required to participate in one of the dance companies
-(Companydance™ or Veselica™ International Dance Ensemble) for a minimum of
-three semesters.
+Majors are required to participate in one of the dance companies (Companydance™ or Veselica™ International Dance Ensemble) for a minimum of three semesters.
 
 |  
 Dance production management  |  
   
-Majors are required to contribute in managing a dance production for a minimum
-of one semester.
+Majors are required to contribute in managing a dance production for a minimum of one semester.
 
 |  
 Total Credits  |  10.50  
@@ -145,15 +144,11 @@ These will be selected in consultation with dance faculty.
 ---|---  
 2  |
 
-Must be taken fall of senior year. Final projects may take the form of a
-research paper, performance, choreography, or blended project.  
+Must be taken fall of senior year. Final projects may take the form of a research paper, performance, choreography, or blended project.  
   
 3  |
 
-Each student designs an individualized area of specialty derived from their
-own interests and investigation.  
+Each student designs an individualized area of specialty derived from their own interests and investigation.  
   
-The dance major curriculum is compatible with other majors. Recent and current
-double majors include physics, exercise science, anthropology and sociology,
-theater, English and more.
+The dance major curriculum is compatible with other majors. Recent and current double majors include physics, exercise science, anthropology and sociology, theater, English and more.
 

@@ -1,24 +1,18 @@
+  
+  
 ##  Requirements for the German Majors/Teaching Licensure
 
 ###  Graduation Major
 
-A student must complete nine (9) courses beyond GERM 231, including at least
-one level III course. One course with a focus on the culture of a German-
-speaking country may be taken in English. This course must be chosen in
-consultation with the chair and can be at any level. One course may be taken
-S/U. For further information regarding credits from St. Olaf study abroad
-opportunities in Germany, see the Special Programs section.
+A student must complete nine (9) courses beyond GERM 231, including at least one level III course. One course with a focus on the culture of a German-speaking country may be taken in English. This course must be chosen in consultation with the chair and can be at any level. One course may be taken S/U. For further information regarding credits from St. Olaf study abroad opportunities in Germany, see the Special Programs section.
 
 ###  Requirements for a German major with K-12 Teaching License
 
-A student must complete the German major, including a semester/year of study
-in Germany or the equivalent experience, plus EDUC 353 and other courses
-required for certification.
+A student must complete the German major, including a semester/year of study in Germany or the equivalent experience, plus EDUC 353 and other courses required for certification.
 
 ##  Requirements for the German Studies Concentration
 
-The German studies concentration consists of a minimum of five courses with
-cultural content from one or more German-speaking countries:
+The German studies concentration consists of a minimum of five courses with cultural content from one or more German-speaking countries:
 
   1. Two courses must be in German at the level of 232 or above. 
   2. The other three courses may be taken in either the German or English language and may be chosen from offerings in the St. Olaf German department as well as other departments, including art history, history, music, political science, philosophy, and religion. 
@@ -38,8 +32,7 @@ GERM 249  |  German Cinema (in English)  |  1.00
 GERM 263  |  Topics in German Arts (in English)  |  1.00  
 GERM 266  |  Urbanization in Germany (in English)  |  1.00  
   
-###  Examples of courses outside the department (with major focus on German
-cultural content)
+###  Examples of courses outside the department (with major focus on German cultural content)
 
 ART 252  |  Art 1880-1945 "The Shock of the New"  |  1.00  
 ---|---|---  

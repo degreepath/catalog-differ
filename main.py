@@ -3,7 +3,7 @@ import requests
 import glob
 import urllib.parse as urlparse
 from bs4 import BeautifulSoup
-from html2text import html2text
+from html2text import HTML2Text
 
 
 def fetch_all():
@@ -46,6 +46,10 @@ def fetch_all():
 
 
 def extract_requirements():
+    markdown = HTML2Text()
+    markdown.ignore_links = True
+    markdown.body_width = 100_000
+
     for filename in glob.iglob('./*-*/*.html'):
         if '.req' in filename:
             continue
@@ -81,6 +85,9 @@ def extract_requirements():
         for e in el.select('thead, caption, colgroup'):
             e.decompose()
 
+        for e in el.select('br'):
+            e.replace_with(' ')
+
         el.smooth()
 
         output = el.prettify()
@@ -88,7 +95,7 @@ def extract_requirements():
         with open(filename.replace('.html', '.req.html'), 'w', encoding='utf-8') as outfile:
             outfile.write(output)
 
-        mdified = html2text(output)
+        mdified = markdown.handle(output)
 
         with open(filename.replace('.html', '.req.md'), 'w', encoding='utf-8') as outfile:
             outfile.write(mdified)

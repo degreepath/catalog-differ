@@ -1,20 +1,19 @@
+  
+  
 S/U Policy: No required course in the major can be taken S/U.
 
-Music majors who study off-campus may petition the vice-chair of the
-department for approval of a maximum of two (2) courses, plus performance
-studies. Independent study or research may count as one of these courses.
+Music majors who study off-campus may petition the vice-chair of the department for approval of a maximum of two (2) courses, plus performance studies. Independent study or research may count as one of these courses.
 
 ##  BA General Music Major
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BAGeneral13.pdf)
+Worksheet
 
 #####  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BAMusApplic20061.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 #####  Degree Requirements
@@ -94,13 +93,11 @@ MUSIC 345
 
 |  Advanced Study in Music History  |  
 Performance Studies  |  
-6 semesters (0.25 each); 4 in the same instrument/voice. Vocalists may count
-MUSIC 164 as the first semester of voice study.  |  1.5  
+6 semesters (0.25 each); 4 in the same instrument/voice. Vocalists may count MUSIC 164 as the first semester of voice study.  |  1.5  
 Keyboard Proficiency  2  |  
 Level II  3  |  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on official student recitals; one must be in junior or
-senior year.  |  
+2 solo performances on official student recitals; one must be in junior or senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
 Concert Attendance  5  |  
@@ -109,48 +106,40 @@ Total Credits  |  9.5
   
 1  |
 
-See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-ba/)  
+See the  Bachelor of Arts General Education Requirements  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level II
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
+See  Keyboard Proficiency Level II  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+See  music handbook  .  
   
 ##  BA with Theory-Composition Emphasis
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BATheoryComp13.pdf)
+Worksheet
 
 #####  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BAMusApplic20061.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 #####  Additional Admissions Requirements
 
-  * [ complete application ](http://wp.stolaf.edu/music/files/2013/06/BATheoryCompAppl20061.pdf)
+  * complete application 
   * consult and register with theory-composition faculty by end of junior year, preferably earlier 
 
 #####  Degree Requirements
@@ -212,13 +201,11 @@ MUSIC 325
 
 |  Composition III  |  
 Performance Studies  |  
-6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as
-the first semester of voice study.  |  
+6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as the first semester of voice study.  |  
 Keyboard Proficiency  2  |  
 Level II  3  |  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on official student recitals; one must be in junior or
-senior year.  |  
+2 solo performances on official student recitals; one must be in junior or senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
 Concert Attendance  5  |  
@@ -226,47 +213,40 @@ Documented attendance at 60 concerts.  |
 Total Credits  |  11.5  
 1  |
 
-See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-ba/)  
+See the  Bachelor of Arts General Education Requirements  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level II
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
+See  Keyboard Proficiency Level II  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) .  
+See  music handbook  .  
   
 ##  BA with History Literature Emphasis
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BAHistLit13.pdf)
+Worksheet
 
 #####  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BAMusApplic20061.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 #####  Additional Admissions Requirements
 
-  * [ complete application ](http://wp.stolaf.edu/music/files/2013/06/BAHistLitApplic20061.pdf)
+  * complete application 
   * consult and register with a music history faculty member by end of junior year, preferably earlier 
 
 #####  Degree Requirements
@@ -343,16 +323,13 @@ MUSIC 314
 
 |  Analysis of Post-Tonal Music  |  
 Performance Studies  |  
-6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as
-the first semester of voice study.  |  
+6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as the first semester of voice study.  |  
 Additional non-course requirements  |  
-Senior Writing Portfolio: 3 Level III music papers, one revised with faculty
-supervision.  |  
+Senior Writing Portfolio: 3 Level III music papers, one revised with faculty supervision.  |  
 Keyboard Proficiency  2  |  
 Level II  3  |  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on official student recitals; one must be in junior or
-senior year.  |  
+2 solo performances on official student recitals; one must be in junior or senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
 Concert Attendance  5  |  
@@ -360,67 +337,52 @@ Documented attendance at 60 concerts.  |
 Total Credits  |  11  
 1  |
 
-See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-ba/) .  
+See the  Bachelor of Arts General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/.)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level II
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
+See  Keyboard Proficiency Level II  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+See  music handbook  .  
   
 ##  BA with Teaching Credential
 
-Please see [ Overview of St. Olaf's Teacher Education Program
-](/archive/2015-2016/academic-programs/education/) and [ General Requirements
-and Procedures ](/archive/2015-2016/academic-
-programs/education/#requirementstext)
+Please see  Overview of St. Olaf's Teacher Education Program  and  General Requirements and Procedures
 
-Worksheets: [ vocal
-](http://wp.stolaf.edu/music/files/2013/06/SA_BAVocalEd13.pdf) , [
-instrumental ](http://wp.stolaf.edu/music/files/2013/06/SA_BAInstEd131.pdf)
+Worksheets:  vocal  ,  instrumental
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2014/08/BAMusEdApplication1.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
-major-entrance-and-continuance-information/)
+See  Entrance and Continuance Information
 
 In sophomore year, spring semester:
 
-  * complete application (due October 15, March 15): [ BA Music with Teaching Credential ](http://wp.stolaf.edu/music/files/2013/06/BAMusApplic20061.pdf)
+  * complete application (due October 15, March 15):  BA Music with Teaching Credential 
   * full academic review 
   * recital performance on principal instrument/voice 
 
 ######  Program Continuance
 
-See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
-major-entrance-and-continuance-information/)
+See  Entrance and Continuance Information
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
@@ -472,12 +434,10 @@ EDUC 291  |  Standards and Technology (0 Cr)  |  0
 EDUC 330  |  Principles of Education, K-12  |  1  
 EDUC 372  |  Counseling and Communication in Schools (0.50)  |  0.5  
 EDUC 374  |  Reading in the Content Area (0.50)  |  0.5  
-EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |
-0.50  
+EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |  0.50  
 EDUC 355  |  Teaching of Music in the Elementary School  |  1  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |
-0.5  
+EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |  0.5  
 EDUC 359  |  Teaching of Instrumental Music (0.50) (Instrumental)  |  0.5  
 Professional Semester Education Courses  |  
 EDUC 381  |  Senior Seminar (0.50)  |  0.5  
@@ -486,36 +446,27 @@ EDUC 385  |  Issues in Education (0.50)  |  0.5
 EDUC 389  |  Student Teaching (3.0)  |  3  
 Other Courses  |  
 0.25 credit course Dance Technique  |  0.25  
-Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC
-267, MUSIC 269 can satisfy this requirement.  |  
+Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC 267, MUSIC 269 can satisfy this requirement.  |  
 Performance Studies: Principal  |  
-Every semester prior to and including the semester of application for entrance
-into the BA teaching program, .25 each; every semester thereafter, prior to
-the professional semester, .50 each  |  6  
+Every semester prior to and including the semester of application for entrance into the BA teaching program, .25 each; every semester thereafter, prior to the professional semester, .50 each  |  6  
 Vocal: licensure area must be voice; primary instrument may be piano  |  
-Instrumental: principal may be any brass, percussion, string, or woodwind
-instrument, or piano  |  
+Instrumental: principal may be any brass, percussion, string, or woodwind instrument, or piano  |  
 Performance Studies: Secondary  |  
 Vocal: 2 semesters  |  
 Vocal exception: piano primaries - 4 semesters of voice  |  
-Instrumental: 2 semesters. MUSIC 164 may count as the first semester of
-secondary voice study.  |  
-Instrumental exception: piano primaries - 4 semesters of brass, percussion,
-string or woodwind study  |  
+Instrumental: 2 semesters. MUSIC 164 may count as the first semester of secondary voice study.  |  
+Instrumental exception: piano primaries - 4 semesters of brass, percussion, string or woodwind study  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Guitar Proficiency  |  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on licensure instrument in official student recitals; one
-must be in junior or senior year  |  
+2 solo performances on licensure instrument in official student recitals; one must be in junior or senior year  |  
 2 small ensemble performances on licensure instrument  4  |  
 Official Ensemble Participation  |  
 Every semester once admitted to Teacher Education Program  |  
-Ensemble must be in band/orchestra for instrumental ed students; must be choir
-for vocal ed students  |  
-In addition: instrumental students must particpate in a choral ensemble for at
-least one semester  |  
+Ensemble must be in band/orchestra for instrumental ed students; must be choir for vocal ed students  |  
+In addition: instrumental students must particpate in a choral ensemble for at least one semester  |  
 Concert Attendance  5  |  
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
@@ -523,30 +474,24 @@ No required course in the major can be taken S/U  |
 Total Credits  |  25.5  
 1  |
 
-See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-ba/) .  
+See the  Bachelor of Arts General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficient Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficient Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+See  music handbook  
   
 ######  Additional Music Courses for Vocal
 
@@ -594,38 +539,32 @@ MUSIC 166  |  Brass Techniques (0.25)  |  0.25
 MUSIC 167  |  Percussion Techniques (0.25)  |  0.25  
 MUSIC 168  |  String Techniques (0.25)  |  0.25  
 MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25  
-MUSIC 164  |  Voice Class (0.25) (or 1 semester of vocal performance study)  |
-0.25  
+MUSIC 164  |  Voice Class (0.25) (or 1 semester of vocal performance study)  |  0.25  
 Total Credits  |  2.25  
   
 ###  Bachelor of Music Degree
 
 ##  BM in Performance
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMPerf13.pdf)
+Worksheet
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BMMusicAllApplication20082.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-b-bm-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
   * academic/music review, possible interview/conference 
 
 ######  Program Continuance
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
   * generally during third semester in the program 
   * students not approved for continuance are no longer in the BM Performance program 
@@ -705,21 +644,16 @@ MUSIC 345
 
 |  Advanced Study in Music History (if not taken for the core)  |  
 Additional Music Courses by Principal Instrument  |  
-See additional courses for voice; string; piano; winds, brass, percussion; and
-other  |  3  
+See additional courses for voice; string; piano; winds, brass, percussion; and other  |  3  
 Performance Studies: Principal  |  
-Full credit lessons every semester once admitted to the program (minimum of 6)
-|  
+Full credit lessons every semester once admitted to the program (minimum of 6)  |  
 Performance Studies: Secondary  |  
-4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken
-in voice class (MUSIC 164). Up to 4 semesters of secondary piano may be taken
-in piano classes (MUSIC 161, MUSIC 162, MUSIC 261, MUSIC 262).  |  
+4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken in voice class (MUSIC 164). Up to 4 semesters of secondary piano may be taken in piano classes (MUSIC 161, MUSIC 162, MUSIC 261, MUSIC 262).  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
 2 solo performances on official student recitals  |  
-30 minute Junior recital (or, by petition only: 3 additional solo performances
-on official student recitals)  |  
+30 minute Junior recital (or, by petition only: 3 additional solo performances on official student recitals)  |  
 60-minute Senior recital  |  
 Official Ensemble Participation  |  
 Every semester once admitted to BM performance  |  
@@ -730,30 +664,24 @@ No required course in the major can be taken S/U  |
 Total Credits  |  14.5  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+See  music handbook  
   
 ######  Additional Music Courses for Voice
 
@@ -796,33 +724,27 @@ Music electives: 3.0 courses  |  3
 ---|---  
 Total Credits  |  3  
   
-##  BM in Performance, Collaborative Keyboard Performance Emphasis (organ,
-piano only)
+##  BM in Performance, Collaborative Keyboard Performance Emphasis (organ, piano only)
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMCollPerf13.pdf)
+Worksheet
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BMMusicAllApplication20082.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-b-bm-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
   * consult with keyboard faculty member 
 
 ######  Program Continuance
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
   * generally during third semester in the program 
   * students not approved for continuance are no longer in the BM Performance program 
@@ -910,20 +832,16 @@ Additional collaborative keyboard performance study
 
 |  
 Performance Studies: Principal  |  
-1 semester collaborative keyboard performance studies (in addition to the 6
-minimum semesters full credit solo lessons)  |  1  
+1 semester collaborative keyboard performance studies (in addition to the 6 minimum semesters full credit solo lessons)  |  1  
 Performance Studies: Secondary  |  
-4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken
-in voice class (MUSIC 164).  |  
+4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken in voice class (MUSIC 164).  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
 2 solo performances on official student recitals  |  
-30-minute Junior recital (or, by petition only: 3 additional solo performances
-on official student recitals)  |  
+30-minute Junior recital (or, by petition only: 3 additional solo performances on official student recitals)  |  
 60-minute Senior recital  |  
-2 collaborative performances on official student recitals, one must be in
-junior or senior year  |  
+2 collaborative performances on official student recitals, one must be in junior or senior year  |  
 Official Ensemble Participation  |  
 Every semester once admitted to BM performance  |  
 Concert Attendance  5  |  
@@ -933,31 +851,24 @@ No required course in the major can be taken S/U  |
 Total Credits  |  11.5  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+See  music handbook  .  
   
 ###  Bachelor of Music in Church Music
 
@@ -965,21 +876,17 @@ requirements/)
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2014/08/BMMusicApplication2008.pdf)
+  * application 
   * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Special Entrance Requirements
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
-Students must already be enrolled at the college and may apply for entrance in
-first year, spring semester.
+Students must already be enrolled at the college and may apply for entrance in first year, spring semester.
 
 Entrance requirements:
 
@@ -989,9 +896,7 @@ Entrance requirements:
 
 ######  Program Continuance
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
   * generally during Junior year, fall semester 
   * students not approved for continuance are no longer in the BM Church Music program 
@@ -1033,9 +938,7 @@ MUSIC 345
 |  Advanced Study in Music History  |  
 Additional Music Courses  |  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
-MUSIC 253  
-& MUSIC 354  |  Instrumental Conducting (0.50)  
-and Advanced Conducting (0.50)  |  1  
+MUSIC 253 & MUSIC 354  |  Instrumental Conducting (0.50) and Advanced Conducting (0.50)  |  1  
 Music Performance 330 Conducting  |  
 MUSIC 263  |  Lyric Diction I (0.25)  |  0.25  
 MUSIC 264  |  Lyric Diction II (0.25)  |  0.25  
@@ -1088,12 +991,9 @@ MUSIC 345
 Additional Non-Music Courses  |  
 EDUC 355  |  Teaching of Music in the Elementary School  |  1  
 Performance Studies: Principal  |  
-Voice lessons (0.50) every semester once admitted to the program (minimum 6)
-|  3  
+Voice lessons (0.50) every semester once admitted to the program (minimum 6)  |  3  
 Performance Studies: Secondary  |  
-Keyboard study (0.25) every semester once admitted to the program (minimum 6).
-The first 4 semesters may be piano classes (MUSIC 161, MUSIC 162, MUSIC 261,
-MUSIC 262).  |  
+Keyboard study (0.25) every semester once admitted to the program (minimum 6). The first 4 semesters may be piano classes (MUSIC 161, MUSIC 162, MUSIC 261, MUSIC 262).  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
@@ -1109,50 +1009,40 @@ No required course in the major can be taken S/U  |
 Total Credits  |  17.75  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) .  
+See  music handbook  .  
   
 ##  BM in Church Music, Organ Emphasis
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2014/08/BMMusicApplication2008.pdf)
+  * application 
   * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Special Entrance Requirements
 
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See  Music Major Entrance and Continuance Information
 
-Students may apply/audition and enroll at the time of matriculation, or they
-may apply during their first year to enter program.
+Students may apply/audition and enroll at the time of matriculation, or they may apply during their first year to enter program.
 
 Students already enrolled at St. Olaf:
 
@@ -1162,9 +1052,7 @@ Students already enrolled at St. Olaf:
 
 ######  Program Continuance
 
-See See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See See  Music Major Entrance and Continuance Information
 
   * generally during third semester in the program 
   * students not approved for continuance are no longer in the BM Church Music program 
@@ -1254,16 +1142,14 @@ MUSIC 345
 
 |  Advanced Study in Music History (if not taken for core)  |  
 Performance Studies: Principal  |  
-Organ lessons (1.0) every semester once admitted to the program (minimum 6)  |
-6  
+Organ lessons (1.0) every semester once admitted to the program (minimum 6)  |  6  
 Performance Studies: Secondary  |  
 4 semesters of voice. The first semester may be voice class (MUSIC 164)  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
 2 solo performances on official student recitals  |  
-30-minute Junior recital (or, by petition only: 3 additional solo performances
-on official student recitals)  |  
+30-minute Junior recital (or, by petition only: 3 additional solo performances on official student recitals)  |  
 60-minute Senior recital  |  
 Official Ensemble Participation  |  
 Every semester once admitted to BM Church Music  |  
@@ -1274,56 +1160,47 @@ No required course in the major can be taken S/U  |
 Total Credits  |  19.25  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) .  
+See  music handbook  .  
   
 ##  BM in Theory-Composition
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMTheoryComp13.pdf)
+Worksheet
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BMMusicAllApplication20082.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-b-bm-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
-major-entrance-and-continuance-information/)
+See  Entrance and Continuance Information
 
-  * [ apply ](http://wp.stolaf.edu/music/files/2013/06/BMMusicAllApplication20082.pdf) during first or second year of study at St. Olaf, and after completion of one composition course 
+  * apply  during first or second year of study at St. Olaf, and after completion of one composition course 
   * composition portfolio, interview with composition faculty 
 
 ######  Program Continuance
 
-See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
-major-entrance-and-continuance-information/)
+See  Entrance and Continuance Information
 
   * generally during third semester in the program 
   * students not approved for continuance are no longer in the BM Theory-Composition program 
@@ -1372,8 +1249,7 @@ MUSIC 313  |  Analysis of Tonal Music  |  1
 MUSIC 314  |  Analysis of Post-Tonal Music  |  1  
 MUSIC 324  |  Composition II  |  1  
 MUSIC 325  |  Composition III (or a second semester of 324)  |  1  
-Music Performance 326 Theory-Composition Lesson (two semesters required)  |
-0.5  
+Music Performance 326 Theory-Composition Lesson (two semesters required)  |  0.5  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 MUSIC 344  |  Music of the 20th and 21st Centuries  |  1  
@@ -1384,14 +1260,10 @@ At least 6 semesters (0.25 each); 4 in the same instrument/voice  |  1.5
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on official student recitals; one must be junior or senior
-year  |  
-Original works in recital: one full recital or several performances comprising
-a comparable body of work  |  
-Consult and plan with composition faculty no later than fall semester, senior
-year  |  
-In semester of or semester before original works performance(s), students must
-be enrolled in MUSIC 324, MUSIC 325, or MUSPF 326  |  
+2 solo performances on official student recitals; one must be junior or senior year  |  
+Original works in recital: one full recital or several performances comprising a comparable body of work  |  
+Consult and plan with composition faculty no later than fall semester, senior year  |  
+In semester of or semester before original works performance(s), students must be enrolled in MUSIC 324, MUSIC 325, or MUSPF 326  |  
 Official Ensemble Participation  |  
 Every semester once admitted to BM Theory-Composition major  |  
 Concert Attendance  5  |  
@@ -1401,67 +1273,52 @@ No required course in the major can be taken S/U  |
 Total Credits  |  21  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Keyboard Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) .  
+See  music handbook  .  
   
 ##  BM in Music Education
 
-Please see [ Overview of St. Olaf's Teacher Education Program
-](/archive/2015-2016/academic-programs/education/) and [ General Requirements
-and Procedures ](/archive/2015-2016/academic-
-programs/education/#requirementstext)
+Please see  Overview of St. Olaf's Teacher Education Program  and  General Requirements and Procedures
 
-Worksheets: [ vocal
-](http://wp.stolaf.edu/music/files/2013/06/SA_BMVocalEd13.pdf) , [
-instrumental ](http://wp.stolaf.edu/music/files/2013/06/SA_BMInstEd13.pdf)
+Worksheets:  vocal  ,  instrumental
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BAMusEdApplication1.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
-major-entrance-and-continuance-information/)
+See  Entrance and Continuance Information
 
 In sophomore year, spring semester:
 
-  * complete application (due October 15, March 15): [ BM Music Education ](http://wp.stolaf.edu/music/files/2013/06/BMEdApplication20061.pdf)
+  * complete application (due October 15, March 15):  BM Music Education 
   * full academic review 
   * recital performance on principal instrument/voice 
 
 ######  Program Continuance
 
-See See [ Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+See See  Entrance and Continuance Information
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
@@ -1551,12 +1408,10 @@ EDUC 291  |  Standards and Technology (0 Cr)  |  0
 EDUC 330  |  Principles of Education, K-12  |  1  
 EDUC 372  |  Counseling and Communication in Schools (0.50)  |  0.5  
 EDUC 374  |  Reading in the Content Area (0.50)  |  0.5  
-EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |
-0.50  
+EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |  0.50  
 EDUC 355  |  Teaching of Music in the Elementary School  |  1  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |
-0.5  
+EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |  0.5  
 EDUC 359  |  Teaching of Instrumental Music (0.50) (Instrumental)  |  0.5  
 Professional Semester Education Courses  |  
 EDUC 381  |  Senior Seminar (0.50)  |  0.5  
@@ -1565,39 +1420,29 @@ EDUC 385  |  Issues in Education (0.50)  |  0.5
 EDUC 389  |  Student Teaching (3.0)  |  3  
 Other Courses  |  
 0.25 credit course Dance Technique  |  0.25  
-Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC
-267, MUSIC 269 can satisfy this requirement.  |  
+Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC 267, MUSIC 269 can satisfy this requirement.  |  
 Performance Studies: Principal  |  
-Every semester prior to and including the semester of application for entrance
-into the BM Music Education program, .25 each; every semester thereafter,
-prior to the professional semester, .50 each  |  
+Every semester prior to and including the semester of application for entrance into the BM Music Education program, .25 each; every semester thereafter, prior to the professional semester, .50 each  |  
 Vocal: licensure area must be voice; primary instrument may be piano  |  
-Instrumental: licensure area must be a standard orchestra or band instrument;
-primary instrument may be piano  |  
-Instrumental: principal may be any brass, percussion, string, or woodwind
-instrument, or piano  |  
+Instrumental: licensure area must be a standard orchestra or band instrument; primary instrument may be piano  |  
+Instrumental: principal may be any brass, percussion, string, or woodwind instrument, or piano  |  
 Performance Studies: Secondary  |  
 Vocal: 2 semesters  |  
 Vocal exception: piano primaries - 4 semesters of voice  |  
-Instrumental: 2 semesters. MUSIC 164 may count as the first semester of
-secondary voice study.  |  
-Instrumental exception: piano primaries - 4 semesters of brass, percussion,
-string or woodwind study  |  
+Instrumental: 2 semesters. MUSIC 164 may count as the first semester of secondary voice study.  |  
+Instrumental exception: piano primaries - 4 semesters of brass, percussion, string or woodwind study  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Guitar Proficiency  |  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on licensure instrument in official student recitals; one
-must be in junior or senior year  |  
+2 solo performances on licensure instrument in official student recitals; one must be in junior or senior year  |  
 30-minute senior recital on principal instrument/voice  |  
 2 small ensemble performances on licensure instrument  4  |  
 Official Ensemble Participation  |  
 Every semester once admitted to Teacher Education Program  |  
-Ensemble must be in band/orchestra for instrumental ed students; must be choir
-for vocal ed students  |  
-In addition: instrumental students must particpate in a choral ensemble for at
-least one semester  |  
+Ensemble must be in band/orchestra for instrumental ed students; must be choir for vocal ed students  |  
+In addition: instrumental students must particpate in a choral ensemble for at least one semester  |  
 Concert Attendance  5  |  
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
@@ -1605,30 +1450,24 @@ No required course in the major can be taken S/U  |
 Total Credits  |  20.5  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/performance-requirements-
-for-music-majors/) .  
+See  music handbook  .  
   
 ######  Additional Music Courses for Vocal
 
@@ -1679,27 +1518,23 @@ MUSIC 166  |  Brass Techniques (0.25)  |  0.25
 MUSIC 167  |  Percussion Techniques (0.25)  |  0.25  
 MUSIC 168  |  String Techniques (0.25)  |  0.25  
 MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25  
-MUSIC 164  |  Voice Class (0.25) (or one semester of vocal performance study)
-|  0.25  
+MUSIC 164  |  Voice Class (0.25) (or one semester of vocal performance study)  |  0.25  
   
 ##  BM with Elective Studies
 
-[ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMElective131.pdf)
+Worksheet
 
 ######  Admission to the Music Major
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
+See  Music Admissions and Scholarship Information
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/App_BM_Elective1.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-b-bm-entrance-repertoire/)
+  * application 
+  * principal-instrument/voice audition repertoire 
   * music knowledge and keyboard skills screening 
 
 ######  Additional Entrance Requirements
 
-[ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+Music Major Entrance and Continuance Information
 
   * applicants must be already-enrolled music majors (BA or BM) and may apply as early as first year, spring semester; application packets available in the music office (CHM 101) (due October 15, March 15) 
   * identify music and elective studies advisors 
@@ -1709,9 +1544,7 @@ information/)
 
 ######  Program Continuance
 
-[ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
+Music Major Entrance and Continuance Information
 
   * at the end of third semester in the program, not later than Junior year, spring semester 
   * students not approved for continuance are no longer in the BM Elective Studies program 
@@ -1795,13 +1628,11 @@ Additional Courses from Other Departments  |
 MUSIC 298  |  Independent Study (Synthesis Project)  |  1  
 5-6 courses in the area of Elective Studies  |  
 Performance Studies: Principal  |  
-Every semester one admitted to the program (minimum of 6 semesters, at least 4
-of which must be at the 0.5 credit level)  |  
+Every semester one admitted to the program (minimum of 6 semesters, at least 4 of which must be at the 0.5 credit level)  |  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
-2 solo performances on principal instrument in official student recitals; one
-must be in junior or senior year  |  
+2 solo performances on principal instrument in official student recitals; one must be in junior or senior year  |  
 Official Ensemble Participation  |  
 Every semester once admitted  |  
 Concert Attendance  5  |  
@@ -1811,28 +1642,22 @@ No required course in the major can be taken S/U  |
 Total Credits  |  11.5  
 1  |
 
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
+See the  Bachelor of Music General Education Requirements  .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/.)  
+See  Keyboard Proficiency Requirements  
   
 3  |
 
-See [ Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+See  Proficiency Level IV  
   
 4  |
 
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
+See  Performance Requirements for Music Majors  
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/performance-requirements-
-for-music-majors/) .
+See  music handbook  .
 

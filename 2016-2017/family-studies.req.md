@@ -1,5 +1,6 @@
-Recommended preparation: introductory courses in social sciences, biology, and
-statistics
+  
+  
+Recommended preparation: introductory courses in social sciences, biology, and statistics
 
 Required department courses  1  |  
 ---|---  
@@ -60,36 +61,20 @@ Experiential component (see below)  |
 Total Credits  |  5  
 1  |
 
-These required courses provide a core of knowledge that is essential to
-thinking systematically about families as social systems and family as a
-social institution and its interactions within the larger social context.  
+These required courses provide a core of knowledge that is essential to thinking systematically about families as social systems and family as a social institution and its interactions within the larger social context.  
   
 ---|---  
 2  |
 
-At least one elective must be outside the Department of Social Work and Family
-Studies. These courses allow students to tailor their further knowledge about
-families to fit a specific application area or to integrate with their chosen
-majors. Elective courses not on this list may be counted with prior approval
-of the program director.  
+At least one elective must be outside the Department of Social Work and Family Studies. These courses allow students to tailor their further knowledge about families to fit a specific application area or to integrate with their chosen majors. Elective courses not on this list may be counted with prior approval of the program director.  
   
 ##  Experiential component
 
-This requirement is usually an academic, credit-bearing experience completed
-during the senior year (including the previous summer.) It is designed to
-ensure that concentrators participate in an experience that applies basic
-family knowledge (theories, frameworks, concepts) to real families in a
-setting beyond the classroom. It must be approved by a faculty member in the
-Department of Social Work and Family Studies prior to enrollment and entered
-into the Department GoogleDoc. The experience and concomitant learning is
-presented as a graded assignment for a public audience in the senior seminar
-FAMST 391. Through the experience, students demonstrate attainment of intended
-learning outcomes for family studies.
+This requirement is usually an academic, credit-bearing experience completed during the senior year (including the previous summer.) It is designed to ensure that concentrators participate in an experience that applies basic family knowledge (theories, frameworks, concepts) to real families in a setting beyond the classroom. It must be approved by a faculty member in the Department of Social Work and Family Studies prior to enrollment and entered into the Department GoogleDoc. The experience and concomitant learning is presented as a graded assignment for a public audience in the senior seminar FAMST 391. Through the experience, students demonstrate attainment of intended learning outcomes for family studies.
 
 Guidelines for the experiential component:
 
-Includes a minimum of 40 hours devoted to direct experience with families
-(more than one);
+Includes a minimum of 40 hours devoted to direct experience with families (more than one);
 
   1. Can be domestic or international; 
   2. Can be taken either graded or Pass/No Pass (P/N); 

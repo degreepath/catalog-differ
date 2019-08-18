@@ -1,9 +1,6 @@
-A major in philosophy may be attained by completing the requirements for
-either a regular major or a contract major. Most philosophy courses
-simultaneously count toward the major and toward one or more general education
-requirements. Because the philosophy major can be tailored to the needs and
-goals of individual students, all philosophy majors are encouraged to work
-closely with an advisor in the philosophy department.
+
+
+A major in philosophy may be attained by completing the requirements for either a regular major or a contract major. Most philosophy courses simultaneously count toward the major and toward one or more general education requirements. Because the philosophy major can be tailored to the needs and goals of individual students, all philosophy majors are encouraged to work closely with an advisor in the philosophy department.
 
 ##  Regular Major
 
@@ -34,8 +31,7 @@ Level III seminar courses may not be taken S/U
 
 Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
-In special circumstances, an IR course may be substituted for a level III
-seminar. The circumstances are as follows:
+In special circumstances, an IR course may be substituted for a level III seminar. The circumstances are as follows:
 
   1. the IR must have a special relevance to the student's program of study in the major or contract major, serving as a capstone experience; 
   2. by November 1 of the senior year, the student must present a petition to the chair of the philosophy department before registering for spring courses. The petition should include a rationale explaining the special relevance of the project to his or her major. The chair has full authority to grant or decline the petition; 
@@ -44,17 +40,13 @@ seminar. The circumstances are as follows:
   
 3  |
 
-Students who complete the Great Conversation receive credit for one elective
-philosophy course toward the major.  
+Students who complete the Great Conversation receive credit for one elective philosophy course toward the major.  
   
-These specifications seek to first assure a major’s grasp of the history and
-methods of philosophy and then to provide practice in advanced philosophical
-inquiry.
+These specifications seek to first assure a major’s grasp of the history and methods of philosophy and then to provide practice in advanced philosophical inquiry.
 
 ##  Contract Major
 
-A contract major involves a contract drawn up between the student and the
-Department of Philosophy. The contract combines the following:
+A contract major involves a contract drawn up between the student and the Department of Philosophy. The contract combines the following:
 
 Seven courses in philosophy, including:  |  7.00  
 ---|---  
@@ -74,8 +66,7 @@ Two level III seminar courses in philosophy  1,2
 PHIL 240
 
 |  Formal Logic (or a non-credit-bearing logic project)  |  
-Three level II or III courses in another department chosen to complement the
-work in philosophy  |  3.00  
+Three level II or III courses in another department chosen to complement the work in philosophy  |  3.00  
 Total Credits  |  10  
 1  |
 
@@ -86,8 +77,7 @@ The two level III seminar courses in philosophy may not be taken S/U
 
 Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
-In special circumstances, an IR course may be substituted for a level III
-seminar. The circumstances are as follows:
+In special circumstances, an IR course may be substituted for a level III seminar. The circumstances are as follows:
 
   1. the IR must have a special relevance to the student's program of study in the major or contract major, serving as a capstone experience; 
   2. by November 1 of the senior year, the student must present a petition to the chair of the philosophy department before registering for spring courses. The petition should include a rationale explaining the special relevance of the project to his or her major. The chair has full authority to grant or decline the petition; 
@@ -97,9 +87,7 @@ seminar. The circumstances are as follows:
   
 ##  Categories
 
-These requirements give students a great deal of leeway to pursue their own
-interests. Those who wish to develop a balanced understanding of philosophy
-should take a number of courses in each of the following categories:
+These requirements give students a great deal of leeway to pursue their own interests. Those who wish to develop a balanced understanding of philosophy should take a number of courses in each of the following categories:
 
 ###  History of Philosophy
 
@@ -159,11 +147,7 @@ PHIL 261 Freud and the Study of Human Behavior
 
 PHIL 373 Seminar in Ethics and Theory of Value
 
-Categories for PHIL 375 Seminar in Advanced Topical Studies and PHIL 399
-Senior Seminar vary year by year. It is also possible to specialize in one of
-these areas, but students are strongly encouraged to take at least one, and
-preferably two, courses in each of the areas outside their specialization.
+Categories for PHIL 375 Seminar in Advanced Topical Studies and PHIL 399 Senior Seminar vary year by year. It is also possible to specialize in one of these areas, but students are strongly encouraged to take at least one, and preferably two, courses in each of the areas outside their specialization.
 
-Students who complete the Great Conversation receive credit for one elective
-philosophy course toward the major.
+Students who complete the Great Conversation receive credit for one elective philosophy course toward the major.
 

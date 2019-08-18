@@ -7,9 +7,7 @@ DANCE 231  |  Fundamentals of Choreography and Improvisation  |  1.00
 DANCE 246  |  Dance in the United States  |  1.00  
 DANCE 270  |  Dance Anatomy and Kinesiology  |  1.00  
 Movement-Intensive Courses (Technique)  |  1.50  
-Select movement-intensive courses in at least two different genres (ballet,
-modern, improvisation, international, etc.) from the following list of classes
-to total 1.50 credits  1  |  1.50  
+Select movement-intensive courses in at least two different genres (ballet, modern, improvisation, international, etc.) from the following list of classes to total 1.50 credits  1  |  1.50  
   
 Ballet
 
@@ -152,8 +150,7 @@ Select at least two credits from within or outside the department.
 Dance Companies and Productions  |  
 Dance company participation  |  
   
-Majors are required to participate in one of the dance companies for a minimum
-of three semesters.
+Majors are required to participate in one of the dance companies for a minimum of three semesters.
 
 |  
   
@@ -166,8 +163,7 @@ DANCE 180
 |  Companydance© (0 Cr)  |  
 Dance production management  |  
   
-Majors are required to contribute in managing a dance production for a minimum
-of one semester.
+Majors are required to contribute in managing a dance production for a minimum of one semester.
 
 |  
 Total Credits  |  10.50  
@@ -178,15 +174,11 @@ These will be selected in consultation with dance faculty.
 ---|---  
 2  |
 
-Must be taken fall of senior year. Final projects may take the form of a
-research paper, performance, choreography, or blended project.  
+Must be taken fall of senior year. Final projects may take the form of a research paper, performance, choreography, or blended project.  
   
 3  |
 
-Each student designs an individualized area of specialty derived from their
-own interests and investigation.  
+Each student designs an individualized area of specialty derived from their own interests and investigation.  
   
-The dance major curriculum is compatible with other majors. Recent and current
-double majors include physics, exercise science, biology, anthropology and
-sociology, theater, English and more.
+The dance major curriculum is compatible with other majors. Recent and current double majors include physics, exercise science, biology, anthropology and sociology, theater, English and more.
 

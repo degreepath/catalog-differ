@@ -1,13 +1,10 @@
-This major requires a minimum of nine courses plus four practicum quarter
-credits. All majors must register with the department chair as soon as they
-declare the major.
 
-Completion of an equivalent course at another institution should be approved
-by the department chair in advance to ensure credit toward the major
-requirement.
 
-Only one full-course equivalent (1.00-credit course) taken S/U may count
-toward the minimum requirements for the major.
+This major requires a minimum of nine courses plus four practicum quarter credits. All majors must register with the department chair as soon as they declare the major.
+
+Completion of an equivalent course at another institution should be approved by the department chair in advance to ensure credit toward the major requirement.
+
+Only one full-course equivalent (1.00-credit course) taken S/U may count toward the minimum requirements for the major.
 
 THEAT 130  |  Introduction to Acting  |  1.00  
 ---|---|---  
@@ -52,8 +49,7 @@ Total Credits  |  10
   
 1  |
 
-At least one must be THEAT 233 and at least two must be THEAT 253; the fourth
-practicum class is a choice of either THEAT 233 or THEAT 253.  
+At least one must be THEAT 233 and at least two must be THEAT 253; the fourth practicum class is a choice of either THEAT 233 or THEAT 253.  
   
 ---|---
 

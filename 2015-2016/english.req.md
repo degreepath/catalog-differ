@@ -1,3 +1,5 @@
+
+
 ##  Requirements for the Graduation Major
 
 Level I  |  
@@ -233,18 +235,14 @@ Select six electives  2  |  6.00
 Total Credits  |  9  
 1  |
 
-1800 requirement: Among all courses taken at level II (category-specific and
-elective), one must be in literature before 1800; one must be in literature
-after 1800  
+1800 requirement: Among all courses taken at level II (category-specific and elective), one must be in literature before 1800; one must be in literature after 1800  
   
 ---|---  
 2  |
 
-Two electives must be at level III. At least one level III course must be a
-literature course.  
+Two electives must be at level III. At least one level III course must be a literature course.  
   
-##  Requirements for the Graduation Major Plus Communication Arts/Literature
-(CAL) Teaching Licensure
+##  Requirements for the Graduation Major Plus Communication Arts/Literature (CAL) Teaching Licensure
 
 English courses  |  
 ---|---  

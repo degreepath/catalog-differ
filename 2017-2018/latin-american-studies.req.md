@@ -1,7 +1,8 @@
+
+
 ##  Requirements for the Latin American Studies Major
 
-The requirements for the completion of a Latin American studies major consist
-of nine courses.
+The requirements for the completion of a Latin American studies major consist of nine courses.
 
 Core course  |  
 ---|---  
@@ -21,8 +22,7 @@ SPAN 271
   
 SPAN 274
 
-|  Contemporary Issues in the Spanish-Speaking World (with a focus on Spain)
-|  
+|  Contemporary Issues in the Spanish-Speaking World (with a focus on Spain)  |  
 Select one of the following:  1  |  1.00  
   
 SPAN 272
@@ -31,21 +31,15 @@ SPAN 272
   
 SPAN 274
 
-|  Contemporary Issues in the Spanish-Speaking World (with a focus on Latin
-America)  |  
+|  Contemporary Issues in the Spanish-Speaking World (with a focus on Latin America)  |  
 Electives  |  
-Choose four electives from among approved courses dealing with Latin America,
-Spain, or U.S. Latinos from disciplines including, but not limited to:
-anthropology, art, economics, education, English, history, political science,
-religion, and sociology with no more than two courses in any one discipline
-(including the discipline of the core course)  |  4.00  
+Choose four electives from among approved courses dealing with Latin America, Spain, or U.S. Latinos from disciplines including, but not limited to: anthropology, art, economics, education, English, history, political science, religion, and sociology with no more than two courses in any one discipline (including the discipline of the core course)  |  4.00  
 Interdisciplinary seminar  |  
 LAMST 333  |  Contemporary Latin American Issues  |  1.00  
 Total Credits  |  9  
 1  |
 
-Or appropriate substitute courses for any of the 270-level required Spanish
-courses approved by the director of Latin American studies  
+Or appropriate substitute courses for any of the 270-level required Spanish courses approved by the director of Latin American studies  
   
 ---|---  
   
@@ -57,30 +51,20 @@ courses approved by the director of Latin American studies
   * Either SOAN 264 or RACE 121 may be included in the major, but not both . 
   * LAMST 333 is taught in alternate years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester in which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
 
-Students should contact the Latin American studies director as early as
-possible to plan a major.
+Students should contact the Latin American studies director as early as possible to plan a major.
 
 ##  Requirements for the Latin American Studies Concentration
 
-Students majoring in any discipline except Latin American studies can pursue a
-Latin American studies concentration, which enables them to enhance their
-understanding of Latin American countries and the interconnectedness of Latin
-America and the United States. It differs from the Latin American studies
-major in that it does not require course work in Spanish.
+Students majoring in any discipline except Latin American studies can pursue a Latin American studies concentration, which enables them to enhance their understanding of Latin American countries and the interconnectedness of Latin America and the United States. It differs from the Latin American studies major in that it does not require course work in Spanish.
 
-The requirements for the completion of the Latin American studies
-concentration consist of a minimum of five approved courses.
+The requirements for the completion of the Latin American studies concentration consist of a minimum of five approved courses.
 
 Core course  |  
 ---|---  
 HIST 193  |  Modern Latin America  |  1.00  
 or PSCI 264  |  Latin American Politics  
 Electives  |  
-Choose three electives from among approved courses dealing with Latin America
-or U.S. Latinos from disciplines including, but not limited to: anthropology,
-art, economics, education, English, history, political science, religion,
-sociology, and Spanish with no more than two courses in any one discipline
-(including the discipline of the core course)  |  3.00  
+Choose three electives from among approved courses dealing with Latin America or U.S. Latinos from disciplines including, but not limited to: anthropology, art, economics, education, English, history, political science, religion, sociology, and Spanish with no more than two courses in any one discipline (including the discipline of the core course)  |  3.00  
 Interdisciplinary seminar  |  
 LAMST 333  |  Contemporary Latin American Issues  |  1.00  
 Total Credits  |  5  

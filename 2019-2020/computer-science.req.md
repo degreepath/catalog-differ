@@ -1,9 +1,6 @@
-A student arranges for a computer science major by individual contract with
-the computer science faculty. This provides some latitude for choice according
-to individual interests and background and allows the computer science faculty
-to update the curriculum easily as the field of computer science evolves. Most
-contracts adhere to the guidelines below, which derive from prominent national
-recommendations for undergraduate computer science majors.
+
+
+A student arranges for a computer science major by individual contract with the computer science faculty. This provides some latitude for choice according to individual interests and background and allows the computer science faculty to update the curriculum easily as the field of computer science evolves. Most contracts adhere to the guidelines below, which derive from prominent national recommendations for undergraduate computer science majors.
 
 Foundation courses  |  
 ---|---  
@@ -15,9 +12,7 @@ or permission of CS program director
 
 |  
 CSCI 241  |  Hardware Design  |  1.00  
-CSCI 251  
-& CSCI 252  |  Software Design and Implementation  
-and Software Design and Implementation Lab (0.25)  |  1.25  
+CSCI 251 & CSCI 252  |  Software Design and Implementation and Software Design and Implementation Lab (0.25)  |  1.25  
 |  
 Mathematics courses:  |  
 MATH 220  |  Elementary Linear Algebra  |  1.00  

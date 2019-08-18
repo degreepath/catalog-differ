@@ -1,17 +1,17 @@
+
+
 ##  Requirements for a Studio Art Major
 
 Students majoring in studio art must earn a minimum of ten credits.
 
-ART 102  |  Foundation Two-Dimensional Media (Art 106: Drawing from Nature in
-the Bahamas can be taken instead of Art 102)  1  |  1.00  
+ART 102  |  Foundation Two-Dimensional Media (Art 106: Drawing from Nature in the Bahamas can be taken instead of Art 102)  1  |  1.00  
 ---|---|---  
 ART 103  |  Foundation Three-Dimensional Media  1  |  1.00  
 ART 104  |  Foundation New Media  1  |  1.00  
 ART 343  |  Senior Studies in Studio Art  |  1.00  
 Select an elective  |  1.00  
 Select two art history courses  2  |  2.00  
-Select one level II course from each of three different areas. (See course
-listings by areas below.)  |  3.00  
+Select one level II course from each of three different areas. (See course listings by areas below.)  |  3.00  
 1  |
 
 Foundation courses may be taken in any order.  
@@ -19,8 +19,7 @@ Foundation courses may be taken in any order.
 ---|---  
 2  |
 
-The department strongly recommends ART 252 or ART 253 as one of the art
-history courses taken.  
+The department strongly recommends ART 252 or ART 253 as one of the art history courses taken.  
   
 ###  Level II Course Areas
 
@@ -69,12 +68,7 @@ ART 236  |  Graphic Design  1  |  1.00
   
 ---|---  
   
-Majors must participate in two juried shows. To fulfill the the requirements
-of the studio art major and studio art education licensure, each student must
-either enter our student juried show in spring semester twice, or enter our
-student juried show once and one other non-class related exhibition on or off
-campus. Students unable to meet this requirement must speak with their advisor
-or the department chair.
+Majors must participate in two juried shows. To fulfill the the requirements of the studio art major and studio art education licensure, each student must either enter our student juried show in spring semester twice, or enter our student juried show once and one other non-class related exhibition on or off campus. Students unable to meet this requirement must speak with their advisor or the department chair.
 
 ##  Requirements for an Art History Major
 
@@ -82,13 +76,8 @@ ART 153  |  Introduction to Art History  1  |  1.00
 ---|---|---  
 ART 350  |  The Methods of Art History  |  1.00  
 Select one course in studio art  |  1.00  
-Select a minimum of six courses from the following. At least two courses must
-focus on Asian, African, Indigenous American, or Near Eastern/Islamic art; at
-least two courses must focus on American or European art; one course must
-cover art created before 1700 CE; one must cover art created after 1700 CE.  2
-|  6.00  
-Courses that focus on Asian, African, or Near Eastern/Islamic art created
-before 1700 CE  |  
+Select a minimum of six courses from the following. At least two courses must focus on Asian, African, Indigenous American, or Near Eastern/Islamic art; at least two courses must focus on American or European art; one course must cover art created before 1700 CE; one must cover art created after 1700 CE.  2  |  6.00  
+Courses that focus on Asian, African, or Near Eastern/Islamic art created before 1700 CE  |  
   
 ART 259
 
@@ -180,8 +169,7 @@ ENVST 270
 PHIL 243
 
 |  Aesthetics  |  
-For the following courses, check with the Department Chair to see how the
-course's particular topic meets the major distribution requirements.  |  
+For the following courses, check with the Department Chair to see how the course's particular topic meets the major distribution requirements.  |  
   
 ART 161
 
@@ -202,27 +190,19 @@ ART 396
 ART 398
 
 |  Independent Research  |  
-Occasionally, other departments offer courses not listed here that count for
-Art History. Check with the Department Chair for approval.  |  
-Majors must also successfully complete the non-credit, senior "lasting legacy"
-project or its equivalent.  |  
+Occasionally, other departments offer courses not listed here that count for Art History. Check with the Department Chair for approval.  |  
+Majors must also successfully complete the non-credit, senior "lasting legacy" project or its equivalent.  |  
 Total Credits  |  9  
 1  |
 
-A student who has already taken the now discontinued Art 150 or 151 may
-substitute either one of them for ART 153.  
+A student who has already taken the now discontinued Art 150 or 151 may substitute either one of them for ART 153.  
   
 ---|---  
 2  |
 
-A maximum of two courses in art history taken in off-campus programs may, upon
-approval of the department, be applied to the major.  
+A maximum of two courses in art history taken in off-campus programs may, upon approval of the department, be applied to the major.  
   
 ##  Requirements for a double major in Studio Art and Art History
 
-Students who fulfill all core requirements for both studio art and art history
-major may choose to count up to 17 full credits in the Department of Art and
-Art History toward graduation when graduating with the normal 35 credits.
-(Therefore, 18, rather than the usual 21, courses would be required outside of
-art/art history.)
+Students who fulfill all core requirements for both studio art and art history major may choose to count up to 17 full credits in the Department of Art and Art History toward graduation when graduating with the normal 35 credits. (Therefore, 18, rather than the usual 21, courses would be required outside of art/art history.)
 

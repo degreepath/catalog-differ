@@ -1,10 +1,8 @@
-Psychology majors are required to take 11.00 courses to complete the major.
-The major consists of 10.00 courses in the Department of Psychology and 1.00
-course in statistics.
 
-The requirements fall into five categories: foundation courses in the major,
-content core courses, level III capstone courses, elective courses in the
-department, and a general education requirement for the major.
+
+Psychology majors are required to take 11.00 courses to complete the major. The major consists of 10.00 courses in the Department of Psychology and 1.00 course in statistics.
+
+The requirements fall into five categories: foundation courses in the major, content core courses, level III capstone courses, elective courses in the department, and a general education requirement for the major.
 
 Foundation Courses in the Major  |  
 ---|---  
@@ -48,8 +46,7 @@ PSYCH 249
 Level III Capstone Courses  |  
 Two of any level III courses  1  |  2.00  
 General Education Requirement for the Major  |  
-Select an introductory course in statistics that emphasizes descriptive
-statistics and hypothesis testing:  |  1.00  
+Select an introductory course in statistics that emphasizes descriptive statistics and hypothesis testing:  |  1.00  
   
 STAT 110
 
@@ -71,8 +68,7 @@ Two additional psychology courses  |  2.00
 Total Credits  |  11  
 1  |
 
-Except PSYCH 394, which does NOT count toward the level III requirement. Only
-one PSYCH 396 or PSYCH 398 may fulfill the level III requirement  
+Except PSYCH 394, which does NOT count toward the level III requirement. Only one PSYCH 396 or PSYCH 398 may fulfill the level III requirement  
   
 ---|---
 
