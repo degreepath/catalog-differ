@@ -14,9 +14,9 @@ be an off-campus internship or course approved by the program director.
   
 ---|---  
   
-Race and ethnic studies m  ajors are required to complete a senior project and
+Race and ethnic studies majors are required to complete a senior project and
 to give an oral presentation of their findings before the program faculty in
-early May of their senior year.  Study off-campus on diversity topics is
+early May of their senior year. Study off-campus on diversity topics is
 encouraged. Students may wish to link a race and ethnic studies major with
 another one from a department represented in the program.
 

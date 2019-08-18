@@ -1,12 +1,12 @@
 ##  General Requirements for the Major
 
 All students majoring in biology complete eight biology courses and a year of
-chemistry (  CHEM 121  ,  CHEM 123  ,  CHEM 126  ; or  CHEM 125  ,  CHEM 126
-; or  CH/BI 125  ,  CH/BI 126  ). Note that CHEM 126 and CH/BI 126 have a
-prerequisite of completion of one calculus course. Students in the class of
-2017 and beyond will complete the current major, while students in the class
-of 2016 have the option of completing either the current major or the previous
-major; requirements for both majors are provided below.
+chemistry (CHEM 121, CHEM 123, CHEM 126; or CHEM 125, CHEM 126; or CH/BI 125,
+CH/BI 126). Note that CHEM 126 and CH/BI 126 have a prerequisite of completion
+of one calculus course. Students in the class of 2017 and beyond will complete
+the current major, while students in the class of 2016 have the option of
+completing either the current major or the previous major; requirements for
+both majors are provided below.
 
 ##  Current Major Requirements
 
@@ -45,7 +45,7 @@ and Integrated Chem/Bio II: Thermodynamics and Kinetics with Bio Relevance  |
   
 ###  Foundation Course
 
-The biology major begins with  BIO 150  _._ This course explores the
+The biology major begins with BIO 150 _._ This course explores the
 evolutionary and genetic foundations of life's biodiversity, and establishes
 the laboratory and scientific communication skills upon which subsequent
 courses build. AP or IB credit does not provide the equivalent of this
@@ -62,12 +62,12 @@ organization, students may take their upper-level biology courses in any order
 providing that prerequisites are met. Please consult the course descriptions
 to see the prerequisites for each course.
 
-  1. **Genetics.** Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Through a course in this category, students will explore gene structure, inheritance, and expression. Through genetics, students discover the ways in which the field of genetics is interdisciplinary, research-based, and relevant to the world today. **** Course:  BIO 233 
+  1. **Genetics.** Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Through a course in this category, students will explore gene structure, inheritance, and expression. Through genetics, students discover the ways in which the field of genetics is interdisciplinary, research-based, and relevant to the world today. **** Course: BIO 233 
 
-  2. **Cell Biology.** Cells are the basic units of life, and understanding the structure and function of cells, and how they are studied, is central to understanding modern biology. Through a course in this category, students will obtain a comprehensive overview of cellular structure and function, for example cellular compartments, macromolecular structures, and life processes such as energy and material flux, cell division, and control mechanisms. Courses: either  BIO 227  or  CH/BI 227  (taken as part of the year-long CH/BI sequence) 
+  2. **Cell Biology.** Cells are the basic units of life, and understanding the structure and function of cells, and how they are studied, is central to understanding modern biology. Through a course in this category, students will obtain a comprehensive overview of cellular structure and function, for example cellular compartments, macromolecular structures, and life processes such as energy and material flux, cell division, and control mechanisms. Courses: either BIO 227 or CH/BI 227 (taken as part of the year-long CH/BI sequence) 
 
-  3. **Comparative Organismal Biology.** Courses in this category study life at the tissue, organ system, and individual levels of organization. Students will broaden their knowledge of a group of organisms (e.g., plants) or of a universal biological phenomenon (e.g., reproduction). Courses in this category approach the content through comparisons across multiple  taxa. Courses:  BIO 242  ,  BIO 247  ,  BIO 248  ,  BIO 251  ,  BIO 252  ,  BIO 266  ,  BIO 275  , or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
-  4. **Ecology.** Ecology is the study of the interactions between organisms and their environments. These interactions are studied at levels of biological organization from individuals to populations, communities, ecosystems, landscapes, and the entire biosphere. Through ecology, students can better understand interconnections in the natural world, and become more aware of their role in sustaining the biodiversity and ecosystem services that benefit all life on earth. Courses:  BIO 261  or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
+  3. **Comparative Organismal Biology.** Courses in this category study life at the tissue, organ system, and individual levels of organization. Students will broaden their knowledge of a group of organisms (e.g., plants) or of a universal biological phenomenon (e.g., reproduction). Courses in this category approach the content through comparisons across multiple taxa. Courses: BIO 242, BIO 247, BIO 248, BIO 251, BIO 252, BIO 266, BIO 275, or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
+  4. **Ecology.** Ecology is the study of the interactions between organisms and their environments. These interactions are studied at levels of biological organization from individuals to populations, communities, ecosystems, landscapes, and the entire biosphere. Through ecology, students can better understand interconnections in the natural world, and become more aware of their role in sustaining the biodiversity and ecosystem services that benefit all life on earth. Courses: BIO 261 or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
 
 ###  Level III Biology Course
 
@@ -80,9 +80,9 @@ and practice, independence in their investigation, and iterative
 troubleshooting. Students in a non-laboratory investigative course will
 practice sophistication in evaluating the primary literature, as well as
 independence in assembling and synthesizing ideas from that literature. Not
-all level III biology courses meet this requirement. Specifically,  BIO 394
+all level III biology courses meet this requirement. Specifically, BIO 394
 does not count toward the biology major, and any 300-level courses worth less
-than a full credit (  BIO 375  , and any 0.5 credit  BIO 396  courses) cannot
+than a full credit (BIO 375, and any 0.5 credit BIO 396 courses) cannot
 fulfill the Level III requirement. Sometimes Level III topics courses in other
 departments like Environmental Studies can count as the Level III biology
 course. Students should consult catalog descriptions for each level III course
@@ -94,8 +94,8 @@ Students complete their biology major with two elective courses. Any full
 credit (1.00) biology course can count as an elective with the following
 exceptions:
 
-  * Only one independent study (  BIO 298  ) and one independent research (  BIO 396  or  BIO 398  ) can count toward the major. 
-  * Internships (  BIO 294  or  BIO 394  ) do not count toward the major.  BIO 294  and  BIO 394  can only be taken P/N. 
+  * Only one independent study (BIO 298) and one independent research (BIO 396 or BIO 398) can count toward the major. 
+  * Internships (BIO 294 or BIO 394) do not count toward the major. BIO 294 and BIO 394 can only be taken P/N. 
 
 In addition to courses designated as biology, the St. Olaf courses in the
 table below can count as biology electives:
@@ -109,7 +109,7 @@ biology content)  |  1.00
   
 ###  General Considerations for the Major
 
-  * No more than two level I biology courses, including  BIO 150  , and AP or IB credit may count toward the major. 
+  * No more than two level I biology courses, including BIO 150, and AP or IB credit may count toward the major. 
 
   * Of the six courses counting toward the major that must be graded C or above, at least four must be at level II or III. 
 
@@ -117,11 +117,11 @@ biology content)  |  1.00
 
   * While programs leading to graduate work are planned on an individual basis, many programs require students to have completed two or more quantitative courses (mathematics, statistics, or computer science), two courses in physics, and at least four courses in chemistry. Students intending to enter graduate or professional school are encouraged to consult with the biology faculty to plan a course of study appropriate for the postgraduate program. 
 
-  * Students pursuing a secondary school science education teaching license with a life science specialty should consider completing the biology major including  BIO 123  or  BIO 243  as one of their electives. Additional courses are required as specified by the Education Department. Interested students should consult faculty in the Education Department. 
+  * Students pursuing a secondary school science education teaching license with a life science specialty should consider completing the biology major including BIO 123 or BIO 243 as one of their electives. Additional courses are required as specified by the Education Department. Interested students should consult faculty in the Education Department. 
 
   * All of the level II and III courses in biology have prerequisites. Please consult the course descriptions below for this information. 
 
-##  Previous Major Requirements  (open to students in the class of 2016)
+##  Previous Major Requirements (open to students in the class of 2016)
 
 For students in the class of 2016 or earlier electing to complete the previous
 major, the eight biology courses must include:
@@ -196,13 +196,13 @@ Select one level III biology course  |  1.00
 Elective biology courses  |  
 Select two elective biology courses  |  2.00  
   
-The integrated chemistry-biology sequence (  CH/BI 125  ,  CH/BI 126  ,  CH/BI
-227  ) may be taken in lieu of BIO 125, and  CHEM 125  and  CHEM 126  . Only
-one independent study (  BIO 298  ) or independent research (  BIO 396  or
-BIO 398  ) can count toward the major; internships (  BIO 294  or  BIO 394  )
-do not count toward the major.  BIO 294  and  BIO 394  can only be taken P/N.
-Of the six courses counting toward the major that must be graded C or above,
-at least four must be at level II or III.
+The integrated chemistry-biology sequence (CH/BI 125, CH/BI 126, CH/BI 227)
+may be taken in lieu of BIO 125, and CHEM 125 and CHEM 126. Only one
+independent study (BIO 298) or independent research (BIO 396 or BIO 398) can
+count toward the major; internships (BIO 294 or BIO 394) do not count toward
+the major. BIO 294 and BIO 394 can only be taken P/N. Of the six courses
+counting toward the major that must be graded C or above, at least four must
+be at level II or III.
 
 In addition to courses designated as biology, the following courses can count
 as biology electives:
@@ -211,7 +211,7 @@ CHEM 379 Biochemistry I
 
 ESTH 375 Physiology of Exercise
 
-NEURO 239 Cellular and Molecular Neuroscience  or  PSYCH 238 Biopsychology
+NEURO 239 Cellular and Molecular Neuroscience or PSYCH 238 Biopsychology
 
 or other courses as approved by petition to the department. For two non-
 biology courses to count, they must be from different departments or programs.

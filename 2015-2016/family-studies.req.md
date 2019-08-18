@@ -82,7 +82,7 @@ family knowledge (theories, frameworks, concepts) to real families in a
 setting beyond the classroom. It must be approved by a faculty member in the
 Department of Social Work and Family Studies **prior** to enrollment. The
 experience and concomitant learning is presented as a graded assignment for a
-public audience in the senior seminar  FAMST 391  . Through the experience,
+public audience in the senior seminar FAMST 391. Through the experience,
 students demonstrate attainment of intended learning outcomes for family
 studies.
 
@@ -97,7 +97,7 @@ Guidelines for the experiential component:
 The experience _may_ be:
 
   * A project in a senior year course, or work with families in a social work practicum or nursing clinical; or 
-  * An independent research project with family interaction (  FAMST 396  ); or 
-  * An internship with a family serving agency (quarter-, half-, or full-credit;  FAMST 294  ). 
+  * An independent research project with family interaction (FAMST 396); or 
+  * An internship with a family serving agency (quarter-, half-, or full-credit; FAMST 294). 
   * A summer experience prior to senior year that involves direct experience with families. 
 

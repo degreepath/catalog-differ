@@ -43,7 +43,7 @@ professional fields. In this program, students acquire technical skills and
 explore how audiences understand the past while developing research and
 interpretive skills to enrich the public's understanding of history.
 
-Requirements: 6 courses (  5 credits) total, in conjunction with history major
+Requirements: 6 courses (5 credits) total, in conjunction with history major
 requirements. All courses referenced below count toward both the major and the
 area of emphasis):
 

@@ -8,8 +8,8 @@ One ancient Greek history course  |  1.00
 Total Credits  |  9  
 1  |
 
-Students who begin Greek at  GREEK 231  or higher have the option of taking
-six courses in Greek  
+Students who begin Greek at GREEK 231 or higher have the option of taking six
+courses in Greek  
   
 ---|---  
   
@@ -23,8 +23,8 @@ One ancient Roman history course  |  1.00
 Total Credits  |  9  
 1  |
 
-Students who begin Latin at  LATIN 231  or higher have the option of taking
-six courses in Latin  
+Students who begin Latin at LATIN 231 or higher have the option of taking six
+courses in Latin  
   
 ---|---  
   
@@ -55,8 +55,8 @@ All other requirements of the K-12 teaching licensure program in Latin  |
   
 1  |
 
-Students who begin Latin at  LATIN 231  or higher have the option of taking
-six courses in Latin  
+Students who begin Latin at LATIN 231 or higher have the option of taking six
+courses in Latin  
   
 ---|---
 

@@ -1,7 +1,7 @@
 ##  Requirements for the Latin American Studies Major
 
 The requirements for the completion of a Latin American studies major consist
-of nine courses  .
+of nine courses.
 
 Course List  Code  |  Title  |  Credits  
 ---|---|---  
@@ -54,9 +54,9 @@ courses approved by the director of Latin American studies
   * Students may count up to three study-abroad courses taken in Latin America or Spain. 
   * With the approval of the Latin American studies director, students may have courses from any discipline with substantial Latin American or U.S. Latino content counted toward their major. 
   * A maximum of three courses that focus on Latinos in the United States may count toward the major. 
-  * Both core courses,  HIST 193  and  PSCI 264  , may be included in the major. 
-  * Either  SOAN 264  or  RACE 121  may be included in the major, but not both  . 
-  * LAMST 333  is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester in which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
+  * Both core courses, HIST 193 and PSCI 264, may be included in the major. 
+  * Either SOAN 264 or RACE 121 may be included in the major, but not both . 
+  * LAMST 333 is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester in which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
 
 Students should contact the Latin American studies director as early as
 possible to plan a major.
@@ -90,8 +90,8 @@ Total Credits  |  5
   * A maximum of two study-abroad courses taken in Latin America or Spain may be counted. 
   * With the approval of the Latin American studies director, students may have courses from any discipline with substantial Latin American or U.S. Latino content counted toward their concentration. 
   * A maximum of two courses that focus on Latinos in the United States may count toward the concentration. 
-  * Both core courses,  HIST 193  and  PSCI 264  , may be included in the concentration. 
-  * Either  SOAN 264  or  RACE 121  may be included in the concentration, but not both. 
-  * Only 270-level Spanish courses with a Latin American or U.S. Latino focus can be counted toward the concentration. These include  SPAN 272  ,  SPAN 273  , and  SPAN 274  (when taught with a Latin American focus). 
-  * LAMST 333  is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester is which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
+  * Both core courses, HIST 193 and PSCI 264, may be included in the concentration. 
+  * Either SOAN 264 or RACE 121 may be included in the concentration, but not both. 
+  * Only 270-level Spanish courses with a Latin American or U.S. Latino focus can be counted toward the concentration. These include SPAN 272, SPAN 273, and SPAN 274 (when taught with a Latin American focus). 
+  * LAMST 333 is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester is which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
 

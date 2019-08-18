@@ -27,16 +27,16 @@ Total Credits  |  9
 
 If a student has previous background in Japanese language and is initially
 placed (after the Japanese placement test and interview) in upper division
-classes above  JAPAN 231 Intermediate Japanese I  (e.g. JAPAN 232 or JAPAN
-301), the student will fulfill the total 9 credits requirement by taking
-additional classes in categories II (language courses above JAPAN 302) and/or
-III (courses in English that focus on Japan/Japanese language and culture).  
+classes above JAPAN 231 Intermediate Japanese I (e.g. JAPAN 232 or JAPAN 301),
+the student will fulfill the total 9 credits requirement by taking additional
+classes in categories II (language courses above JAPAN 302) and/or III
+(courses in English that focus on Japan/Japanese language and culture).  
   
 ---|---  
 2  |
 
-The following courses currently fulfill this requirement:  JAPAN 320 Special
-Topics in Japanese  or the equivalent of a fourth-year-level course taken
+The following courses currently fulfill this requirement: JAPAN 320 Special
+Topics in Japanese or the equivalent of a fourth-year-level course taken
 during the partnered study abroad programs in Japan and/or other approved
 study abroad language programs.  
   

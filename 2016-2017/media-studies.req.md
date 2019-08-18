@@ -1,11 +1,11 @@
 With the approval of the program director, students assemble individualized
 programs of study involving a total of five courses. A concentration consists
-of a common introductory course,  MEDIA 160  , plus three approved courses
-drawn from departments and programs across the curriculum, an academic
-internship in a media-related field, and a digital portfolio. The purpose of
-the digital portfolio is to compile a variety of materials related to a media
-studies education in an integrative and useful way. The portfolio has proven
-valuable for students applying for jobs and other professional opportunities.
+of a common introductory course, MEDIA 160, plus three approved courses drawn
+from departments and programs across the curriculum, an academic internship in
+a media-related field, and a digital portfolio. The purpose of the digital
+portfolio is to compile a variety of materials related to a media studies
+education in an integrative and useful way. The portfolio has proven valuable
+for students applying for jobs and other professional opportunities.
 
 Requirements and plans for individual portfolios are discussed at a mandatory
 meeting for all junior and senior media studies concentrators, in the fall

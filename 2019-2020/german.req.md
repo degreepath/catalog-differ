@@ -32,7 +32,7 @@ by the department chair.
 ###  Requirements for a German major with K-12 Teaching License
 
 A student must complete the German major, including a semester/year of study
-in Germany or the equivalent experience, plus  EDUC 353  and other courses
+in Germany or the equivalent experience, plus EDUC 353 and other courses
 required for certification.
 
 ##  Requirements for the German Studies Concentration (available to all

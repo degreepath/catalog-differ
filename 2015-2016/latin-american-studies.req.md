@@ -1,7 +1,7 @@
 ##  Requirements for the Latin American Studies Major
 
 The requirements for the completion of a Latin American studies major consist
-of nine courses  .
+of nine courses.
 
 Foundational course  |  
 ---|---  
@@ -52,7 +52,7 @@ courses approved by the director of Latin American studies
   * Students may count up to three study-abroad courses taken in Latin America or Spain. 
   * With the approval of the Latin American studies director, students may have any course with substantial Latin American content counted toward their major. 
   * A maximum of three courses that focus on Latinos in the United States may count toward the major. 
-  * Either  SOAN 264  or  RACE 121  may be included in the major, but not both  . 
+  * Either SOAN 264 or RACE 121 may be included in the major, but not both . 
 
 Students should contact the Latin American studies director as early as
 possible to plan a major.
@@ -83,5 +83,5 @@ Total Credits  |  5
   
   * A maximum of two study-abroad courses taken in Latin America or Spain may be counted. 
   * A maximum of two courses that focus on Latinos in the United States may count toward the concentration. 
-  * Either  SOAN 264  or  RACE 121  may be included in the concentration, but not both. 
+  * Either SOAN 264 or RACE 121 may be included in the concentration, but not both. 
 

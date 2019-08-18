@@ -393,8 +393,8 @@ Please see [ Overview of St. Olaf's Teacher Education Program
 and Procedures ](/archive/2015-2016/academic-
 programs/education/#requirementstext)
 
-Worksheets:  [ vocal
-](http://wp.stolaf.edu/music/files/2013/06/SA_BAVocalEd13.pdf) ,  [
+Worksheets: [ vocal
+](http://wp.stolaf.edu/music/files/2013/06/SA_BAVocalEd13.pdf) , [
 instrumental ](http://wp.stolaf.edu/music/files/2013/06/SA_BAInstEd131.pdf)
 
 ######  Admission to the Music Major

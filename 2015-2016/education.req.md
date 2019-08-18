@@ -274,13 +274,13 @@ Department faculty for further information and clarification.
 
     * Obtain approval of teacher education application 
 
-    * Obtain B- or better in  EDUC 290 
+    * Obtain B- or better in EDUC 290 
 
     * Obtain rating of "Basic" or better on Disposition Assessments on Field Experience Evaluations 
 
-    * Successfully complete 20 hours field experience in  EDUC 290 
+    * Successfully complete 20 hours field experience in EDUC 290 
 
-    * Meet SEP standards in  EDUC 290 
+    * Meet SEP standards in EDUC 290 
 
     * Take Minnesota Teacher Licensure Exam (MTLE) Basic Skills Tests 
 
@@ -293,7 +293,7 @@ Department faculty for further information and clarification.
 
     * Obtain rating of "Basic" or better on all Disposition Assesments and Field Experience Evaluations 
 
-    * Successfully complete advanced field experience(s) in  EDUC 330  and other courses 
+    * Successfully complete advanced field experience(s) in EDUC 330 and other courses 
 
     * Complete an Interim field experience in a classroom setting of diversity (minimum of 80 hours) 
 

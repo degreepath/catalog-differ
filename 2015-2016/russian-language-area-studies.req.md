@@ -80,12 +80,12 @@ encouraged.
 2  |
 
 For students who are not simultaneously working toward the Russian language
-major, two advanced Russian language courses (  RUSSN 251  ,  RUSSN 254  ) may
-be counted toward the Russian area studies major.  
+major, two advanced Russian language courses (RUSSN 251, RUSSN 254) may be
+counted toward the Russian area studies major.  
   
 3  |
 
-This may be taken for course credit as  RUSSN 398 Independent Research  .
+This may be taken for course credit as RUSSN 398 Independent Research.
 Guidelines are available from the department chair. The project is due on
 April 15.
 

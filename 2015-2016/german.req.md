@@ -2,16 +2,16 @@
 
 ###  Graduation Major
 
-A student must complete nine courses beyond  GERM 231  , including at least
-one level III course. One with a focus on the culture of a German-speaking
-country may be taken in English. This course must be chosen in consultation
-with the chair and can be at any level. Three courses may be counted from
-study in Germany. One course may be taken S/U.
+A student must complete nine courses beyond GERM 231, including at least one
+level III course. One with a focus on the culture of a German-speaking country
+may be taken in English. This course must be chosen in consultation with the
+chair and can be at any level. Three courses may be counted from study in
+Germany. One course may be taken S/U.
 
 ###  Requirements for a German major with K-12 Teaching License
 
 A student must complete the German major, including a semester/year of study
-in Germany or the equivalent experience, plus  EDUC 353  and other courses
+in Germany or the equivalent experience, plus EDUC 353 and other courses
 required for certification.
 
 ##  Requirements for the German Studies Concentration

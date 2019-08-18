@@ -41,14 +41,14 @@ or MATH 119
 Total Credits  |  8-9  
 1  |
 
-Core courses --  ECON 261  and  ECON 262  , and  ECON 263  , or  STAT 272
-plus  ECON 385  \-- all require an introductory course and calculus (usually
-ECON 121  and  MATH 120  ). Core courses cannot be taken S/U.  
+Core courses -- ECON 261 and ECON 262, and ECON 263, or STAT 272 plus ECON 385
+-- all require an introductory course and calculus (usually ECON 121 and MATH
+120). Core courses cannot be taken S/U.  
   
 ---|---  
 2  |
 
-ECON 385  may count as a level III economic analysis course when taken to
+ECON 385 may count as a level III economic analysis course when taken to
 fulfill the core course requirement.  
   
 Students studying off-campus through St. Olaf affiliated programs may count up
@@ -56,7 +56,7 @@ to two off-campus courses as level II economic analysis courses towards the
 economics major requirements. These courses must be approved in advance by the
 chair of the Economics Department. To count towards the economics major,
 courses must (a) be in recognized fields in economics, (b) require at least
-Principles of Economics (ECON 121)  (or its equivalent) as a prerequisite, and
+Principles of Economics (ECON 121) (or its equivalent) as a prerequisite, and
 (c) be taught in an economics program or by faculty from an economics program.
 Students may not count both a St. Olaf economic analysis course and a course
 taken off campus towards the major if the courses are substantially the same.
@@ -140,8 +140,8 @@ ECON 385
 Total Credits  |  4  
 1  |
 
-ECON 371  cannot be used to satisfy both the requirements for the major and
-the requirements for this emphasis.  
+ECON 371 cannot be used to satisfy both the requirements for the major and the
+requirements for this emphasis.  
   
 ---|---  
   
@@ -198,7 +198,7 @@ MGMT 250
 & MGMT 251
 
 |  Marketing  
-and Management  (both must be taken to fulfill the elective)  |  
+and Management (both must be taken to fulfill the elective)  |  
   
 MGMT 252
 

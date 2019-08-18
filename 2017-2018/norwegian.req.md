@@ -15,7 +15,7 @@ One course may be taken S/U.  |
 Total Credits  |  9  
 1  |
 
-NORW 130  ,  NORW 140  ,  NORW 244  ,  HIST 222  , or other approved course  
+NORW 130, NORW 140, NORW 244, HIST 222, or other approved course  
   
 ---|---
 

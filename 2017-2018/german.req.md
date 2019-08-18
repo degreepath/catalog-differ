@@ -2,9 +2,9 @@
 
 ###  Graduation Major
 
-A student must complete nine (9) courses beyond  GERM 231  , including at
-least one level III course. One course with a focus on the culture of a
-German-speaking country may be taken in English. This course must be chosen in
+A student must complete nine (9) courses beyond GERM 231, including at least
+one level III course. One course with a focus on the culture of a German-
+speaking country may be taken in English. This course must be chosen in
 consultation with the chair and can be at any level. One course may be taken
 S/U. For further information regarding credits from St. Olaf study abroad
 opportunities in Germany, see the Special Programs section.
@@ -12,7 +12,7 @@ opportunities in Germany, see the Special Programs section.
 ###  Requirements for a German major with K-12 Teaching License
 
 A student must complete the German major, including a semester/year of study
-in Germany or the equivalent experience, plus  EDUC 353  and other courses
+in Germany or the equivalent experience, plus EDUC 353 and other courses
 required for certification.
 
 ##  Requirements for the German Studies Concentration

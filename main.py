@@ -66,6 +66,15 @@ def extract_requirements():
         for a in el.select('a[href^="/search"]'):
             a.unwrap()
 
+        for e in el.select('[class]'):
+            del e['class']
+
+        for e in el.select('[style]'):
+            del e['style']
+
+        for e in el.select('span'):
+            e.unwrap()
+
         el.smooth()
 
         output = el.prettify()

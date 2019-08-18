@@ -51,7 +51,7 @@ See department for course choices
 ###  Social Studies Major with 5-12 Teaching Licensure
 
 Students must take all twelve courses required for the major described above
-plus  HIST 198 American History to 1865  and a prescribed set of education
+plus HIST 198 American History to 1865 and a prescribed set of education
 courses and experiences required for licensure. Students must meet with Robert
 McClure, education faculty, to plan their program. Students are encouraged to
 double major and/or take additional coursework in economics, history,

@@ -88,8 +88,8 @@ research or employment that takes statistical methods beyond the traditional
 classroom. This can occur on- or off-campus. Prior approval by the director of
 statistics program and a letter after the fact from a supervisor are required
 to earn credit. Excellent opportunities for experiential learning in
-statistics are available through  STAT 294  Academic Internship,  MSCS 390
-Mathematics practicum, and  MSCS 389  Research Methods (throughthe Center for
+statistics are available through STAT 294 Academic Internship, MSCS 390
+Mathematics practicum, and MSCS 389 Research Methods (throughthe Center for
 Interdisciplinary Research (CIR)). As a CIR fellow, students can work during
 the academic year or summer with faculty on research from a variety of
 disciplines.
@@ -112,13 +112,13 @@ CSCI 251
 & CSCI 252  |  Software Design and Implementation  
 and Software Design and Implementation Lab (0.25)  |  1.25  
   
-STAT 110  ,  STAT 212  , and  ECON 263  all provide an introduction to
-statistics, and students should not take more than one; they can all serve as
-a prerequisite for further courses, although  ECON 263  is geared toward
-majors in economics.  STAT 214  is also an introductory course that assumes no
-background in statistics, but it can also be taken by students coming from
-STAT 110  ,  ECON 263  or AP Statistics who would like a transition into the
-statistics concentration.
+STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics,
+and students should not take more than one; they can all serve as a
+prerequisite for further courses, although ECON 263 is geared toward majors in
+economics. STAT 214 is also an introductory course that assumes no background
+in statistics, but it can also be taken by students coming from STAT 110, ECON
+263 or AP Statistics who would like a transition into the statistics
+concentration.
 
 ####  Experiential Learning Component (Optional)
 
@@ -127,8 +127,8 @@ research or employment that takes statistical methods beyond the traditional
 classroom. This can occur on- or off-campus. Prior approval by the director of
 statistics program and a letter after the fact from a supervisor are required
 to earn credit. Excellent opportunities for experiential learning in
-statistics are available through  STAT 294  Academic Internship,  MSCS 390
-Mathematics practicum, and  MSCS 389  Research Methods (through the Center for
+statistics are available through STAT 294 Academic Internship, MSCS 390
+Mathematics practicum, and MSCS 389 Research Methods (through the Center for
 Interdisciplinary Research (CIR)). As a CIR fellow, students can work during
 the academic year or summer with faculty on research from a variety of
 disciplines.
@@ -151,10 +151,10 @@ CSCI 251
 & CSCI 252  |  Software Design and Implementation  
 and Software Design and Implementation Lab (0.25)  |  1.25  
   
-STAT 110  ,  STAT 212  , and  ECON 263  all provide an introduction to
-statistics, and students should not take more than one; they can all serve as
-a prerequisite for further courses, although  ECON 263  is geared toward
-majors in economics. Students coming from  STAT 110  ,  ECON 263  or AP
-Statistics who would like to transition into the statistics concentration are
-encouraged to begin in MSCS 264.
+STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics,
+and students should not take more than one; they can all serve as a
+prerequisite for further courses, although ECON 263 is geared toward majors in
+economics. Students coming from STAT 110, ECON 263 or AP Statistics who would
+like to transition into the statistics concentration are encouraged to begin
+in MSCS 264.
 

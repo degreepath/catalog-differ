@@ -256,8 +256,8 @@ science focus and approved by the chair)  |
 Total Credits  |  9  
 1  |
 
-Student pursuing a natural science area of emphasis may not count both  PHIL
-257  and  REL 278  .  
+Student pursuing a natural science area of emphasis may not count both PHIL
+257 and REL 278.  
   
 ---|---  
 2  |
@@ -530,12 +530,12 @@ No more than two courses from one area of emphasis.
 ---|---  
 2  |
 
-Students pursuing a social science emphasis may not count both  PHIL 257  and
-REL 278  .  
+Students pursuing a social science emphasis may not count both PHIL 257 and
+REL 278.  
   
 3  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 #####  Arts and the Humanities
@@ -758,7 +758,7 @@ No more than two courses from one area of emphasis.
 ---|---  
 2  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 ##  Environmental Studies Concentration
@@ -773,7 +773,7 @@ studies-related upper-level courses within their own discipline to complete
 requirements of the concentration if the courses have a significant component
 that addresses environmental concerns. Unless permission is granted by the
 chair, a course may not count for more than one requirement in the
-concentration.  Successful completion of at least 6 courses with a grade of C
+concentration. Successful completion of at least 6 courses with a grade of C
 or better is required.
 
 Course List  Code  |  Title  |  Credits  
@@ -967,7 +967,7 @@ Total Credits  |  6
   
 1  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 ---|---

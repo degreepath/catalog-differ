@@ -28,13 +28,13 @@ life experience.
 
 Those interested in the major should contact a department faculty member in
 their first year or as early as possible. Students in good standing at the
-college who have satisfactorily completed prerequisite courses and  SWRK 221
+college who have satisfactorily completed prerequisite courses and SWRK 221
 are eligible to apply for admission to the major. Students are granted major
-status only after satisfactory completion of  SWRK 221  ,  SWRK 246  ,  SWRK
-254  , and a program application. Students should achieve a grade of C or
-better in all prerequisite and required courses to progress in the major.
-Details are specified in the program manual available from faculty or the
-department website.
+status only after satisfactory completion of SWRK 221, SWRK 246, SWRK 254, and
+a program application. Students should achieve a grade of C or better in all
+prerequisite and required courses to progress in the major. Details are
+specified in the program manual available from faculty or the department
+website.
 
 Prerequisite Courses Required for the Major  |  
 ---|---  
@@ -65,8 +65,7 @@ Or another biology course approved by a social work advisor
   
 3  |
 
-SWRK 373  and  SWRK 380  together constitute a full semester's work (4.0
-credits)  
+SWRK 373 and SWRK 380 together constitute a full semester's work (4.0 credits)  
   
 4  |
 

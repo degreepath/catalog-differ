@@ -18,7 +18,7 @@ elective for the major.
 ---|---  
 2  |
 
-STAT 110  must be taken before  SOAN 371  
+STAT 110 must be taken before SOAN 371  
   
 All core courses must be taken on campus. Students who study abroad on a St.
 Olaf program that includes a sociology or anthropology course may petition to

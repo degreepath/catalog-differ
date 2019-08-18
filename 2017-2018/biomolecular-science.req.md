@@ -62,13 +62,13 @@ CSCI 315
 |  Bioinformatics  |  
 1  |
 
-CH/BI 125  ,  CH/BI 126  and  CH/BI 227  can substitute for  CHEM 125  ,  CHEM
-126  , and  BIO 227  .  
+CH/BI 125, CH/BI 126 and CH/BI 227 can substitute for CHEM 125, CHEM 126, and
+BIO 227.  
   
 ---|---  
 2  |
 
-CHEM 121  and  CHEM 123  can substitute for  CHEM 125  
+CHEM 121 and CHEM 123 can substitute for CHEM 125  
   
 Students are encouraged to consult with their advisor and the program director
 about the appropriate physics and mathematical sequences for their interests

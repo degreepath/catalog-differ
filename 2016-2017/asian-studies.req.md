@@ -74,13 +74,13 @@ An Asian studies concentration consists of six courses focused on Asia:
 
 A China studies concentration consists of six courses:
 
-  1. Four Chinese language courses above  CHIN 112  ; 
+  1. Four Chinese language courses above CHIN 112; 
 
   2. Two other courses on China; no level I or II language courses may count in this category 
 
 A Japan studies concentration consists of six courses:
 
-  1. Four Japanese language courses above  JAPAN 112  ; 
+  1. Four Japanese language courses above JAPAN 112; 
 
   2. Two other courses on Japan; no level I or II language courses may count in this category 
 

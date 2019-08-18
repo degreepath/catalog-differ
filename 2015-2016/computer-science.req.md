@@ -51,11 +51,11 @@ Total Credits  |  10.25
   
 These guidelines represent four levels:
 
-  * choice of introductory courses (  CSCI 121  or  CSCI 125  ) and three “second courses” (  CSCI 241  ,  CSCI 251  , and a proof-writing course) that may be taken in any order (note that the foundation courses offer non-majors a variety of one- to four-course samples of computer science); 
+  * choice of introductory courses (CSCI 121 or CSCI 125) and three “second courses” (CSCI 241, CSCI 251, and a proof-writing course) that may be taken in any order (note that the foundation courses offer non-majors a variety of one- to four-course samples of computer science); 
 
   * core courses in standard computer science topics, including algorithms and data structures, ethics of computing, computer languages, and computer systems; 
 
   * a deeper exposure to selected aspects of the discipline of computer science through electives; and 
 
-  * a senior-level capstone integrative experience (  CSCI 390  ). 
+  * a senior-level capstone integrative experience (CSCI 390). 
 

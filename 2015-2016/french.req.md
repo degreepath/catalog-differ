@@ -10,8 +10,8 @@ participate in an approved year-long St. Olaf study abroad program normally
 receive credit for two French courses toward the major and one credit for the
 required French/Francophone history course.
 
-The graduation major consists of eight courses in French above  FREN 232  plus
-a co-curricular requirement in French/Francophone history. Students must take:
+The graduation major consists of eight courses in French above FREN 232 plus a
+co-curricular requirement in French/Francophone history. Students must take:
 
 Two 250-level courses  |  2.00  
 ---|---  
@@ -52,7 +52,7 @@ participate in an approved year-long St. Olaf study abroad program normally
 receive credit for two French courses toward the major and one credit for the
 required French/Francophone history course.
 
-Students must take: eight courses in French above  FREN 232  :
+Students must take: eight courses in French above FREN 232:
 
 Eight courses in French above FREN 232  |  8.00  
 ---|---  

@@ -33,7 +33,7 @@ Level III seminar courses may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research  (IR) ** (Adopted 2/12/08)
+**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:
@@ -86,7 +86,7 @@ The two level III seminar courses in philosophy may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research  (IR) ** (Adopted 2/12/08)
+**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:
@@ -161,8 +161,8 @@ PHIL 261 Freud and the Study of Human Behavior
 
 PHIL 373 Seminar in Ethics and Theory of Value
 
-Categories for  PHIL 375 Seminar in Advanced Topical Studies  and  PHIL 399
-Senior Seminar  vary year by year. It is also possible to specialize in one of
+Categories for PHIL 375 Seminar in Advanced Topical Studies and PHIL 399
+Senior Seminar vary year by year. It is also possible to specialize in one of
 these areas, but students are strongly encouraged to take at least one, and
 preferably two, courses in each of the areas outside their specialization.
 

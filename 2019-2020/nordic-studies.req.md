@@ -1,5 +1,5 @@
-The Nordic studies concentration consists of five courses  . At least two of
-the five courses must have a focus on at least one Nordic country other than
+The Nordic studies concentration consists of five courses. At least two of the
+five courses must have a focus on at least one Nordic country other than
 Norway.
 
 Course List  Code  |  Title  |  Credits  

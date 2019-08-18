@@ -9,9 +9,9 @@ concentration includes
 
 Students meet with a member of the management studies faculty to develop a
 five-course program of study that includes three core and two elective
-courses. Core courses for the management studies concentration include  ECON
-121  ,  MGMT 225  and  MGMT 251  . Electives include an additional management
-studies course and [ an approved course from another department on campus
+courses. Core courses for the management studies concentration include ECON
+121, MGMT 225 and MGMT 251. Electives include an additional management studies
+course and [ an approved course from another department on campus
 ](http://wp.stolaf.edu/management-studies/files/2012/11/MS-
 Electives-11-15.pdf) or a study abroad program. Students must earn a grade of
 C or better in all five courses.

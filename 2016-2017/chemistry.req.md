@@ -64,8 +64,8 @@ Chemistry Department seminars  |
 Attendance at 12 departmental seminars after declaration of major  |  
 1  |
 
-Projects for  CHEM 298 Independent Study  or  CHEM 398 Independent Research
-must have departmental approval.  
+Projects for CHEM 298 Independent Study or CHEM 398 Independent Research must
+have departmental approval.  
   
 ---|---  
   
@@ -121,14 +121,13 @@ Chemistry Department seminars  |
 Attendance at 12 departmental seminars after declaration of major  |  
 1  |
 
-The chemistry/biology integrated course sequence (  CH/BI 125  ,  CH/BI 126  ,
-and  CH/BI 227  ) may be substituted for  CHEM 125  and  CHEM 126  .  
+The chemistry/biology integrated course sequence (CH/BI 125, CH/BI 126, and
+CH/BI 227) may be substituted for CHEM 125 and CHEM 126.  
   
 ---|---  
 2  |
 
-Typically selected from  MATH 220  ,  MATH 226  ,  MATH 230  , and  STAT 212
-.  
+Typically selected from MATH 220, MATH 226, MATH 230, and STAT 212.  
   
 In addition, ACS majors must complete one or more advanced course from the
 following:
@@ -147,8 +146,8 @@ CHEM 391  |  Selected Topics in Chemistry  |  1.00
 CHEM 398  |  Independent Research  1  |  1.00  
 1  |
 
-Projects for  CHEM 298 Independent Study  or  CHEM 398 Independent Research
-must have departmental approval.  
+Projects for CHEM 298 Independent Study or CHEM 398 Independent Research must
+have departmental approval.  
   
 ---|---  
   
@@ -166,9 +165,9 @@ CHEM 384  |  Bioanalytical Chemistry  |  1.00
 CHEM 398  |  Independent Research  |  1.00  
   
 One laboratory experience must include either biochemistry topics or inorganic
-topics.  CHEM 398 Independent Research  and summer research must be
-accompanied by a comprehensive written report in order to satisfy ACS major
-requirements. For a full listing of requirements, see [
+topics. CHEM 398 Independent Research and summer research must be accompanied
+by a comprehensive written report in order to satisfy ACS major requirements.
+For a full listing of requirements, see [
 http://wp.stolaf.edu/chemistry/planning-a-st-olaf-college-chemistry-major/
 ](http://wp.stolaf.edu/chemistry/planning-a-st-olaf-college-chemistry-major/)
 

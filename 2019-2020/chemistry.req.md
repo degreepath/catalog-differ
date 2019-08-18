@@ -69,8 +69,8 @@ Mathematics  |
 Through MATH 126 or MATH 128  |  
 1  |
 
-Projects for  CHEM 298 Independent Study  or  CHEM 398 Independent Research
-must have departmental approval.  
+Projects for CHEM 298 Independent Study or CHEM 398 Independent Research must
+have departmental approval.  
   
 ---|---  
   
@@ -126,8 +126,7 @@ Mathematics  |
 Two mathematics courses beyond MATH 126 or MATH 128  1  |  
 1  |
 
-Typically selected from  MATH 220  ,  MATH 226  ,  MATH 230  , and  STAT 212
-.  
+Typically selected from MATH 220, MATH 226, MATH 230, and STAT 212.  
   
 ---|---  
   
@@ -146,7 +145,7 @@ CHEM 388  |  Advanced Organic Chemistry  |  1.00
 CHEM 391  |  Selected Topics in Chemistry  |  1.00  
 1  |
 
-Projects for  CHEM 298 Independent Study  must have departmental approval.  
+Projects for CHEM 298 Independent Study must have departmental approval.  
   
 ---|---  
   
@@ -165,10 +164,10 @@ CHEM 396  |  Directed Undergraduate Research  |  1.00
 CHEM 398  |  Independent Research  |  1.00  
   
 One laboratory experience must include either biochemistry topics or inorganic
-topics.  CHEM 297 Independent Research (0.25, 0.50, 1.00)  ,  CHEM 396
-Directed Undergraduate Research  ,  CHEM 398 Independent Research  , and
-summer research must be accompanied by a comprehensive written report in order
-to satisfy ACS major requirements. For a full listing of requirements, see [
+topics. CHEM 297 Independent Research (0.25, 0.50, 1.00), CHEM 396 Directed
+Undergraduate Research, CHEM 398 Independent Research, and summer research
+must be accompanied by a comprehensive written report in order to satisfy ACS
+major requirements. For a full listing of requirements, see [
 http://wp.stolaf.edu/chemistry/planning-a-st-olaf-college-chemistry-major/
 ](http://wp.stolaf.edu/chemistry/planning-a-st-olaf-college-chemistry-major/)
 

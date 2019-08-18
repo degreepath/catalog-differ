@@ -235,8 +235,8 @@ science focus and approved by the chair)  |
 Total Credits  |  11  
 1  |
 
-Student pursuing a natural science area of emphasis may not count both  PHIL
-257  and  REL 278  .  
+Student pursuing a natural science area of emphasis may not count both PHIL
+257 and REL 278.  
   
 ---|---  
 2  |
@@ -491,12 +491,12 @@ designation.
 ---|---  
 2  |
 
-Students pursuing a social science emphasis may not count both  PHIL 257  and
-REL 278  .  
+Students pursuing a social science emphasis may not count both PHIL 257 and
+REL 278.  
   
 3  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 #####  Arts and the Humanities
@@ -687,7 +687,7 @@ One of these courses must carry Environmental Studies department designation.
 ---|---  
 2  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 ##  Environmental Studies Concentration
@@ -700,8 +700,8 @@ Students may utilize environmental studies-related upper-level courses within
 their own discipline to complete requirements of the concentration if the
 courses have a significant component that addresses environmental concerns.
 Unless permission is granted by the chair, a course may not count for more
-than one requirement in the concentration.  Successful completion of at least
-6 courses with a grade of C or better is required.
+than one requirement in the concentration. Successful completion of at least 6
+courses with a grade of C or better is required.
 
 ENVST 137  |  Introduction to Environmental Studies  |  1.00  
 ---|---|---  
@@ -883,7 +883,7 @@ Total Credits  |  7
   
 1  |
 
-Either BIO 226 (Environmental Science in Australia) or  BIO 261  can count for
+Either BIO 226 (Environmental Science in Australia) or BIO 261 can count for
 this requirement.  
   
 ---|---

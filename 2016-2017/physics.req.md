@@ -1,10 +1,10 @@
-Prospective physics majors should enroll in  PHYS 130 Analytical Physics I  in
+Prospective physics majors should enroll in PHYS 130 Analytical Physics I in
 the fall semester of their first year, along with calculus or other math
 course recommended by placement in Mathematics. It is possible to complete the
-physics major with a sophomore year start in  PHYS 130  ; interested students
+physics major with a sophomore year start in PHYS 130; interested students
 should consult with the department chair or other physics faculty member.
 Students with AP, IB, PSEO, or significant college-level experience in physics
-may seek advanced placement - to start in a course beyond  PHYS 130  \- by
+may seek advanced placement - to start in a course beyond PHYS 130 - by
 consulting with the department chair.
 
 Course List  Code  |  Title  |  Credits  
@@ -24,8 +24,8 @@ teacher certification.)  |  1.00
 One additional physics elective numbered between 300 and 393  |  1.00  
 Total Credits  |  8.75  
   
-In some cases it is possible to use the  PHYS 124  \-  PHYS 125  sequence to
-transfer into the major; see the chair.
+In some cases it is possible to use the PHYS 124-PHYS 125 sequence to transfer
+into the major; see the chair.
 
 Remember to check the prerequisites for all courses. Mathematics prerequisites
 may include calculus, linear algebra, differential equations, and either
@@ -42,19 +42,19 @@ pursuing masters degrees in engineering are encouraged to complete internships
 in their areas of interest.
 
 Specific recommendations for Physics programs: To prepare for graduate study
-in physics, students are advised to take  Quantum Mechanics ( [ PHYS 376
-](/archive/2016-2017/search/?P=PHYS%20376 "PHYS 376") )  and  Statistical
+in physics, students are advised to take Quantum Mechanics ( [ PHYS 376
+](/archive/2016-2017/search/?P=PHYS%20376 "PHYS 376") ) and Statistical
 Physics ( [ PHYS 379 ](/archive/2016-2017/search/?P=PHYS%20379 "PHYS 379") )
 and to consider additional physics electives or math courses such as complex
 analysis, abstract algebra, probability, statistics, numerical analysis, and
 real analysis.
 
 Specific recommendations for Materials Science programs: To prepare for
-graduate study in materials science, students are advised to take  Quantum
+graduate study in materials science, students are advised to take Quantum
 Mechanics ( [ PHYS 376 ](/archive/2016-2017/search/?P=PHYS%20376 "PHYS 376")
 ). In addition, students should consider Materials Engineering and Nanoscience
-(PHYS 362)  and/or  Statistical Physics ( [ PHYS 379
-](/archive/2016-2017/search/?P=PHYS%20379 "PHYS 379") )  and/or additional
+(PHYS 362) and/or Statistical Physics ( [ PHYS 379
+](/archive/2016-2017/search/?P=PHYS%20379 "PHYS 379") ) and/or additional
 physics electives or math courses such as complex analysis, abstract algebra,
 probability, statistics, numerical analysis, and real analysis.
 

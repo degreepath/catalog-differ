@@ -1,7 +1,7 @@
 Students majoring in political science must complete a minimum of nine courses
 in the discipline, including no more than three level I courses, one course
-introducing research methods (  PSCI 220 Analyzing Politics and Policies  ),
-and no fewer than two level III courses.
+introducing research methods (PSCI 220 Analyzing Politics and Policies), and
+no fewer than two level III courses.
 
 Majors must include at least one course from each of the four subfields:
 American politics and public policy, comparative politics, international
@@ -53,14 +53,14 @@ PSCI 262  |  Critics of the State  |  1.00
 PSCI 284  |  Ethics of Citizenship in Times of War and Terrorism  |  1.00  
 PSCI 384  |  Seminar in Political Theory  |  1.00  
   
-The subfield designation of  PSCI 299 Topics in Political Science  ,  PSCI 298
-Independent Study  ,  PSCI 398 Independent Research  ,  PSCI 399 Seminar  ,
-Interim courses, or other courses not listed above depends on the content of
-the course in a given semester; students should consult with a faculty member
-in political science and with the department academic administrative assistant
-to determine the appropriate subfield for one of these courses. All level III
-courses are offered as seminars with two prerequisites:  PSCI 220  and one
-other course in the relevant subfield.
+The subfield designation of PSCI 299 Topics in Political Science, PSCI 298
+Independent Study, PSCI 398 Independent Research, PSCI 399 Seminar, Interim
+courses, or other courses not listed above depends on the content of the
+course in a given semester; students should consult with a faculty member in
+political science and with the department academic administrative assistant to
+determine the appropriate subfield for one of these courses. All level III
+courses are offered as seminars with two prerequisites: PSCI 220 and one other
+course in the relevant subfield.
 
 Students may designate a selected statistics course OR one additional semester
 of a world language beyond the level of proficiency required for general

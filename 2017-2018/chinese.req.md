@@ -18,8 +18,8 @@ Total Credits  |  9
 
 If a student has previous background in Chinese language and is initially
 placed (after the Chinese placement test and interview) in upper-division
-classes above  CHIN 231 Intermediate Chinese I  (e.g.,  CHIN 232 Intermediate
-Chinese II  or  CHIN 301 Third-Year Chinese I  ), the student will fulfill the
+classes above CHIN 231 Intermediate Chinese I (e.g., CHIN 232 Intermediate
+Chinese II or CHIN 301 Third-Year Chinese I), the student will fulfill the
 total 9 credits requirement by taking additional upper-level language courses
 (above CHIN 302) and/or courses in English that focus on China/Chinese
 language and culture).  
@@ -27,10 +27,10 @@ language and culture).
 ---|---  
 2  |
 
-The following courses currently fulfill this requirement:  CHIN 320 Special
-Topics in Chinese  ,  CHIN 351 Chinese Language and Society through the Media
-,  CHIN 360 Professional Chinese  , or the equivalent of a CHIN 320 or above
-course taken during _Term in China_ at ECNU and/or other approved study abroad
+The following courses currently fulfill this requirement: CHIN 320 Special
+Topics in Chinese, CHIN 351 Chinese Language and Society through the Media,
+CHIN 360 Professional Chinese, or the equivalent of a CHIN 320 or above course
+taken during _Term in China_ at ECNU and/or other approved study abroad
 language programs.  
   
 3  |

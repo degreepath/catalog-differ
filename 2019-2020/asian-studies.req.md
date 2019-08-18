@@ -87,7 +87,7 @@ _Available only to students entering before fall 2017 (classes of 2017-2020)_
 
 A China studies concentration consists of six courses:
 
-  1. Four Chinese language courses above  CHIN 112  ; 
+  1. Four Chinese language courses above CHIN 112; 
 
   2. Two other courses on China; no level I or II language courses may count in this category 
 
@@ -97,7 +97,7 @@ _Available only to students entering before fall 2017 (classes of 2017-2020)_
 
 A Japan studies concentration consists of six courses:
 
-  1. Four Japanese language courses above  JAPAN 112  ; 
+  1. Four Japanese language courses above JAPAN 112; 
 
   2. Two other courses on Japan; no level I or II language courses may count in this category 
 

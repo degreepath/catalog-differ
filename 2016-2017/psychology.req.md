@@ -72,8 +72,8 @@ Two additional psychology courses  |  2.00
 Total Credits  |  11  
 1  |
 
-Except  PSYCH 394  , which does NOT count toward the level III requirement.
-Only one  PSYCH 396  or  PSYCH 398  may fulfill the level III requirement  
+Except PSYCH 394, which does NOT count toward the level III requirement. Only
+one PSYCH 396 or PSYCH 398 may fulfill the level III requirement  
   
 ---|---
 

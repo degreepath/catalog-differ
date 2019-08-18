@@ -9,11 +9,11 @@ concentration includes
 
 Students meet with a member of the management studies faculty to develop a
 five-course program of study that includes three core and two elective
-courses. Core courses for the management studies concentration include  ECON
-121  ,  MGMT 225  and  MGMT 251  . Electives include an additional management
-studies course and an approved course from another department on campus (see
-Courses tab for list of approved electives) or a study abroad program.
-Students must earn a grade of C or better in all five courses.
+courses. Core courses for the management studies concentration include ECON
+121, MGMT 225 and MGMT 251. Electives include an additional management studies
+course and an approved course from another department on campus (see Courses
+tab for list of approved electives) or a study abroad program. Students must
+earn a grade of C or better in all five courses.
 
 Course List  Code  |  Title  |  Credits  
 ---|---|---  

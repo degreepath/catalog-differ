@@ -20,7 +20,7 @@ Foundation courses may be taken in any order.
 ---|---  
 2  |
 
-The department strongly recommends  ART 252  or  ART 253  as one of the art
+The department strongly recommends ART 252 or ART 253 as one of the art
 history courses taken.  
   
 ###  Level II Course Areas
@@ -219,7 +219,7 @@ Total Credits  |  9
 1  |
 
 A student who has already taken the now discontinued Art 150 or 151 may
-substitute either one of them for  ART 153  .  
+substitute either one of them for ART 153.  
   
 ---|---  
 2  |
