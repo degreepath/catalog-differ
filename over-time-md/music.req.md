@@ -25,6 +25,8 @@ Comprehensive Graduation Requirements (General Education)  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
@@ -55,7 +57,7 @@ Select one of the following:  |  1
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -96,40 +98,45 @@ MUSIC 345
 Performance Studies  |  
 6 semesters (0.25 each); 4 in the same instrument/voice. Vocalists may count
 MUSIC 164 as the first semester of voice study.  |  1.5  
-Keyboard Proficiency  2  |  
-Level II  3  |  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  3  |  
+Level II  4  |  
+Performance (principal instrument/voice)  5  |  
 2 solo performances on official student recitals; one must be in junior or
 senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
-Concert Attendance  5  |  
+Concert Attendance  6  |  
 Documented attendance at 60 concerts.  |  
-Total Credits  |  9.5  
+Total Credits  |  10  
   
 1  |
 
 See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-ba/)  
   
 ---|---  
 2  |
 
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+3  |
+
 See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
 proficiency-requirements/)  
   
-3  |
+4  |
 
 See [ Keyboard Proficiency Level II
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
   
-4  |
+5  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
   
-5  |
+6  |
 
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
@@ -161,6 +168,8 @@ Comprehensive Graduation Requirements (General Education)  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
@@ -187,14 +196,14 @@ MUSIC 345
 
 |  Advanced Study in Music History  |  
 Additional Music Courses  |  
-MUSIC 221  |  Orchestration (0.50)  |  0.5  
+MUSIC 221  |  Instrumental Literature and Arranging  |  0.5  
 MUSIC 223  |  Composition I  |  1  
 MUSIC 225  |  Music in the Electronic Medium  |  1  
 Select two of the following:  |  2  
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 313
 
@@ -211,42 +220,47 @@ MUSIC 324
 MUSIC 325
 
 |  Composition III  |  
-Performance Studies  |  
+Performance Studies  |  1.5  
 6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as
 the first semester of voice study.  |  
-Keyboard Proficiency  2  |  
-Level II  3  |  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  3  |  
+Level II  4  |  
+Performance (principal instrument/voice)  5  |  
 2 solo performances on official student recitals; one must be in junior or
 senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
-Concert Attendance  5  |  
+Concert Attendance  6  |  
 Documented attendance at 60 concerts.  |  
-Total Credits  |  11.5  
+Total Credits  |  13.5  
 1  |
 
 See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-ba/)  
   
 ---|---  
 2  |
 
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+3  |
+
 See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
 proficiency-requirements/)  
   
-3  |
+4  |
 
 See [ Keyboard Proficiency Level II
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
   
-4  |
+5  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
   
-5  |
+6  |
 
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) .  
@@ -277,6 +291,8 @@ Comprehensive Graduation Requirements (General Education)  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
@@ -333,7 +349,7 @@ Select one of the following:  |  1
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 313
 
@@ -344,43 +360,48 @@ MUSIC 314
 |  Analysis of Post-Tonal Music  |  
 Performance Studies  |  
 6 semesters; 4 in the same instrument/voice. Vocalists may count MUSIC 164 as
-the first semester of voice study.  |  
+the first semester of voice study.  |  1.5  
 Additional non-course requirements  |  
 Senior Writing Portfolio: 3 Level III music papers, one revised with faculty
 supervision.  |  
-Keyboard Proficiency  2  |  
-Level II  3  |  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  3  |  
+Level II  4  |  
+Performance (principal instrument/voice)  5  |  
 2 solo performances on official student recitals; one must be in junior or
 senior year.  |  
 Official Ensemble Participation  |  
 4 semesters  |  
-Concert Attendance  5  |  
+Concert Attendance  6  |  
 Documented attendance at 60 concerts.  |  
-Total Credits  |  11  
+Total Credits  |  13  
 1  |
 
 See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-ba/) .  
   
 ---|---  
 2  |
 
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+3  |
+
 See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
 proficiency-requirements/.)  
   
-3  |
+4  |
 
 See [ Keyboard Proficiency Level II
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL2.pdf)  
   
-4  |
+5  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
   
-5  |
+6  |
 
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
@@ -389,8 +410,8 @@ requirements/)
 ##  BA with Teaching Credential
 
 Please see [ Overview of St. Olaf's Teacher Education Program
-](/archive/2015-2016/academic-programs/education/) and [ General Requirements
-and Procedures ](/archive/2015-2016/academic-
+](/archive/2016-2017/academic-programs/education/) and [ General Requirements
+and Procedures ](/archive/2016-2017/academic-
 programs/education/#requirementstext)
 
 Worksheets: [ vocal
@@ -434,10 +455,14 @@ Comprehensive graduation requirements for all BA degrees  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
 MUSIC 242  |  History And Literature of Music II  |  1  
+MUSIC 261  |  Piano Class III (0.25)  3  |  0.25  
+MUSIC 262  |  Piano Class IV (0.25)  3  |  0.25  
 Select one of the following:  |  1  
   
 MUSIC 341
@@ -472,26 +497,39 @@ EDUC 291  |  Standards and Technology (0 Cr)  |  0
 EDUC 330  |  Principles of Education, K-12  |  1  
 EDUC 372  |  Counseling and Communication in Schools (0.50)  |  0.5  
 EDUC 374  |  Reading in the Content Area (0.50)  |  0.5  
-EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |
-0.50  
+EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |  .5  
 EDUC 355  |  Teaching of Music in the Elementary School  |  1  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |
-0.5  
-EDUC 359  |  Teaching of Instrumental Music (0.50) (Instrumental)  |  0.5  
+Required Elective Education Course: Select one of the following:  |  1  
+  
+EDUC 170
+
+|  Urban Schools and Communities (off-campus)  |  
+  
+EDUC 347
+
+|  Teaching ESL, K-12  |  
+  
+EDUC 378
+
+|  Multicultural Education in Hawaii: Seminar and Practicum (off-campus)  |  
+  
+EDUC 379
+
+|  Urban Education Practicum and Seminar (off-campus)  |  
 Professional Semester Education Courses  |  
 EDUC 381  |  Senior Seminar (0.50)  |  0.5  
 EDUC 382  |  Human Relations (0 Cr)  |  0  
 EDUC 385  |  Issues in Education (0.50)  |  0.5  
 EDUC 389  |  Student Teaching (3.0)  |  3  
 Other Courses  |  
-0.25 credit course Dance Technique  |  0.25  
+0.25 credit course Dance Technique  |  
 Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC
-267, MUSIC 269 can satisfy this requirement.  |  
+267, MUSIC 269 can satisfy this requirement.  |  1  
 Performance Studies: Principal  |  
 Every semester prior to and including the semester of application for entrance
 into the BA teaching program, .25 each; every semester thereafter, prior to
-the professional semester, .50 each  |  6  
+the professional semester, .50 each  |  2.5  
 Vocal: licensure area must be voice; primary instrument may be piano  |  
 Instrumental: principal may be any brass, percussion, string, or woodwind
 instrument, or piano  |  
@@ -502,57 +540,66 @@ Instrumental: 2 semesters. MUSIC 164 may count as the first semester of
 secondary voice study.  |  
 Instrumental exception: piano primaries - 4 semesters of brass, percussion,
 string or woodwind study  |  
-Keyboard Proficiency  2  |  
-Level IV  3  |  
-Guitar Proficiency  |  
-EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  4  |  
+Level IV  5  |  
+Performance (principal instrument/voice)  6  |  
 2 solo performances on licensure instrument in official student recitals; one
 must be in junior or senior year  |  
-2 small ensemble performances on licensure instrument  4  |  
+2 small ensemble performances on licensure instrument  6  |  
 Official Ensemble Participation  |  
 Every semester once admitted to Teacher Education Program  |  
 Ensemble must be in band/orchestra for instrumental ed students; must be choir
 for vocal ed students  |  
 In addition: instrumental students must particpate in a choral ensemble for at
 least one semester  |  
-Concert Attendance  5  |  
+Concert Attendance  7  |  
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  25.5  
+Total Credits  |  23.25  
 1  |
 
 See the [ Bachelor of Arts General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-ba/) .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficient Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
   
 3  |
+
+By successfully completing Keyboard Proficiency Exam Level IV, a student is
+exempt from MUSIC 261 and MUSIC 262  
+  
+4  |
+
+See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
+proficiency-requirements/)  
+  
+5  |
 
 See [ Keyboard Proficiency Level IV
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
   
-4  |
+6  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
   
-5  |
+7  |
 
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/)  
   
 ######  Additional Music Courses for Vocal
 
-MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
+EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
 ---|---|---  
-Select one of the following options:  |  
+MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
+Select one of the following options:  |  .25  
   
 Option A:
 
@@ -583,20 +630,21 @@ MUSIC 169
 |  Woodwind Techiques (0.25)  |  
 MUSIC 287  |  Choral Literature I (0.50)  |  0.5  
 MUSIC 364  |  Vocal Pedagogy (0.25)  |  0.25  
-Total Credits  |  1.25  
+Total Credits  |  2  
   
 ####  Additional Music Courses for Instrumental
 
-MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
+EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
 ---|---|---  
-MUSIC 221  |  Orchestration (0.50)  |  0.5  
+MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
+MUSIC 221  |  Instrumental Literature and Arranging  |  0.5  
 MUSIC 166  |  Brass Techniques (0.25)  |  0.25  
 MUSIC 167  |  Percussion Techniques (0.25)  |  0.25  
 MUSIC 168  |  String Techniques (0.25)  |  0.25  
 MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25  
 MUSIC 164  |  Voice Class (0.25) (or 1 semester of vocal performance study)  |
 0.25  
-Total Credits  |  2.25  
+Total Credits  |  2.75  
   
 ###  Bachelor of Music Degree
 
@@ -666,11 +714,11 @@ MUSIC 345
 
 |  Advanced Study in Music History  |  
 Additional Music Courses  |  
-Select one of the following:  |  3  
+Select one of the following:  |  1  
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -707,10 +755,10 @@ MUSIC 345
 Additional Music Courses by Principal Instrument  |  
 See additional courses for voice; string; piano; winds, brass, percussion; and
 other  |  3  
-Performance Studies: Principal  |  
+Performance Studies: Principal  |  6  
 Full credit lessons every semester once admitted to the program (minimum of 6)
 |  
-Performance Studies: Secondary  |  
+Performance Studies: Secondary  |  1  
 4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken
 in voice class (MUSIC 164). Up to 4 semesters of secondary piano may be taken
 in piano classes (MUSIC 161, MUSIC 162, MUSIC 261, MUSIC 262).  |  
@@ -727,11 +775,11 @@ Concert Attendance  5  |
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  14.5  
+Total Credits  |  19.5  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
@@ -768,7 +816,7 @@ Total Credits  |  3
   
 ####  Additional Music Courses for String
 
-MUSIC 368  |  String Literature and Pedagogy (0.50)  |  0.5  
+MUSIC 368  |  |  0.5  
 ---|---|---  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
 Music electives: 2.0 courses  |  2  
@@ -790,10 +838,11 @@ MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5
 Music electives: 1.5 courses  |  1.5  
 Total Credits  |  3  
   
-####  Additional Music Courses for Other Instruments
+####  Additional Music Courses for Organ
 
-Music electives: 3.0 courses  |  3  
----|---  
+MUSIC 298  |  Independent Study ((Pedagogy and Literature))  |  1  
+---|---|---  
+Music electives: 2.0 courses  |  2  
 Total Credits  |  3  
   
 ##  BM in Performance, Collaborative Keyboard Performance Emphasis (organ,
@@ -801,73 +850,15 @@ piano only)
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMCollPerf13.pdf)
 
-######  Admission to the Music Major
+This emphasis can be added only to a BM Performance major in organ or piano or
+a BM Church Music-Organ major.
 
-See [ Music Admissions and Scholarship Information
-](http://wp.stolaf.edu/musicadm/)
-
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BMMusicAllApplication20082.pdf)
-  * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-b-bm-entrance-repertoire/)
-  * music knowledge and keyboard skills screening 
-
-######  Additional Entrance Requirements
-
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
-
-  * consult with keyboard faculty member 
-
-######  Program Continuance
-
-See [ Music Major Entrance and Continuance Information
-](http://wp.stolaf.edu/music/music-major-entrance-and-continuance-
-information/)
-
-  * generally during third semester in the program 
-  * students not approved for continuance are no longer in the BM Performance program 
-
-######  Degree Requirements
-
-General Education  |  
----|---  
-Comprehensive graduation requirements for all BM degrees  1  |  
-Core Music Courses  |  
-MUSIC 112  |  Theory and Aural Skills I  |  1  
-MUSIC 114  |  Theory and Aural Skills II  |  1  
-MUSIC 212  |  Theory and Aural Skills III  |  1  
-MUSIC 214  |  Theory and Aural Skills IV  |  1  
-MUSIC 237  |  World Music  |  1  
-MUSIC 241  |  History and Literature of Music I  |  1  
-MUSIC 242  |  History And Literature of Music II  |  1  
-MUSIC 251  |  Conducting (0.50)  |  0.5  
-Select one of the following:  |  1  
-  
-MUSIC 341
-
-|  Music of the Renaissance Era  |  
-  
-MUSIC 342
-
-|  Music of the Baroque Era  |  
-  
-MUSIC 343
-
-|  Music Of The Classical And Romantic Eras  |  
-  
-MUSIC 344
-
-|  Music of the 20th and 21st Centuries  |  
-  
-MUSIC 345
-
-|  Advanced Study in Music History  |  
 Additional Music Courses  |  
+---|---  
 Collaborative Keyboard:  |  
 MUSIC 281  |  Vocal Solo Literature I (0.25)  |  0.25  
 MUSIC 282  |  Vocal Solo Literature II (0.25)  |  0.25  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
-1 full credit collaborative keyboard performance study  |  
 1 full course (or fractional equivalent) of the following:  |  1  
   
 MUSIC 252
@@ -912,52 +903,7 @@ Additional collaborative keyboard performance study
 Performance Studies: Principal  |  
 1 semester collaborative keyboard performance studies (in addition to the 6
 minimum semesters full credit solo lessons)  |  1  
-Performance Studies: Secondary  |  
-4 semesters on 1 instrument. Up to 2 semseters of secondary voice may be taken
-in voice class (MUSIC 164).  |  
-Keyboard Proficiency  2  |  
-Level IV  3  |  
-Performance (principal instrument/voice)  4  |  
-2 solo performances on official student recitals  |  
-30-minute Junior recital (or, by petition only: 3 additional solo performances
-on official student recitals)  |  
-60-minute Senior recital  |  
-2 collaborative performances on official student recitals, one must be in
-junior or senior year  |  
-Official Ensemble Participation  |  
-Every semester once admitted to BM performance  |  
-Concert Attendance  5  |  
-Documented attendance at 60 concerts.  |  
-S/U Policy  |  
-No required course in the major can be taken S/U  |  
-Total Credits  |  11.5  
-1  |
-
-See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
-education-requirements-bm/) .  
-  
----|---  
-2  |
-
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/)  
-  
-3  |
-
-See [ Keyboard Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
-  
-4  |
-
-See [ Performance Requirements for Music Majors
-](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
-  
-5  |
-
-See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
-requirements/)  
+Total Credits  |  3  
   
 ###  Bachelor of Music in Church Music
 
@@ -1041,17 +987,16 @@ MUSIC 263  |  Lyric Diction I (0.25)  |  0.25
 MUSIC 264  |  Lyric Diction II (0.25)  |  0.25  
 MUSIC 364  |  Vocal Pedagogy (0.25)  |  0.25  
 MUSIC 365  |  The Child and Adolescent Voice (0.25)  |  0.25  
-MUSIC 287  |  Choral Literature I (0.50)  |  0.5  
-MUSIC 288  |  Choral Literature II (0.50)  |  0.5  
 MUSIC 235  |  Music in Christian Worship  |  1  
 MUSIC 391  |  Church Music Practicum I (0.25)  |  0.25  
 MUSIC 392  |  Church Music Practicum II (0.25)  |  0.25  
 MUSIC 220  |  Instrumentation for Vocalists (0.25)  |  0.25  
-Select two of the following:  |  
+MUSIC 287  |  Choral Literature I (0.50)  |  0.5  
+Select two of the following:  |  2  
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -1093,7 +1038,7 @@ Voice lessons (0.50) every semester once admitted to the program (minimum 6)
 Performance Studies: Secondary  |  
 Keyboard study (0.25) every semester once admitted to the program (minimum 6).
 The first 4 semesters may be piano classes (MUSIC 161, MUSIC 162, MUSIC 261,
-MUSIC 262).  |  
+MUSIC 262).  |  1  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
@@ -1106,11 +1051,11 @@ Concert Attendance  5  |
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  17.75  
+Total Credits  |  20.25  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
@@ -1210,16 +1155,16 @@ MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5
 or MUSIC 354  |  Advanced Conducting (0.50)  
 MUSIC 364  |  Vocal Pedagogy (0.25)  |  0.25  
 MUSIC 365  |  The Child and Adolescent Voice (0.25)  |  0.25  
-MUSIC 288  |  Choral Literature II (0.50)  |  0.5  
 MUSIC 235  |  Music in Christian Worship  |  1  
 MUSIC 391  |  Church Music Practicum I (0.25)  |  0.25  
 MUSIC 392  |  Church Music Practicum II (0.25)  |  0.25  
 MUSIC 220  |  Instrumentation for Vocalists (0.25)  |  0.25  
+MUSIC 287  |  Choral Literature I (0.50)  |  0.5  
 Select one of the following:  |  1  
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -1257,7 +1202,7 @@ Performance Studies: Principal  |
 Organ lessons (1.0) every semester once admitted to the program (minimum 6)  |
 6  
 Performance Studies: Secondary  |  
-4 semesters of voice. The first semester may be voice class (MUSIC 164)  |  
+4 semesters of voice. The first semester may be voice class (MUSIC 164)  |  1  
 Keyboard Proficiency  2  |  
 Level IV  3  |  
 Performance (principal instrument/voice)  4  |  
@@ -1271,11 +1216,11 @@ Concert Attendance  5  |
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  19.25  
+Total Credits  |  20.25  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
@@ -1336,12 +1281,16 @@ Comprehensive graduation requirements for all BM degrees  1  |
 Core courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 237  |  World Music  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
 MUSIC 242  |  History And Literature of Music II  |  1  
 MUSIC 251  |  Conducting (0.50)  |  0.5  
+MUSIC 261  |  Piano Class III (0.25)  3  |  0.25  
+MUSIC 262  |  Piano Class IV (0.25)  3  |  0.25  
 Select one of:  |  
   
 MUSIC 341
@@ -1364,8 +1313,8 @@ MUSIC 166  |  Brass Techniques (0.25)  |  0.25
 MUSIC 167  |  Percussion Techniques (0.25)  |  0.25  
 MUSIC 168  |  String Techniques (0.25)  |  0.25  
 MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25  
-MUSIC 221  |  Orchestration (0.50)  |  0.5  
-MUSIC 222  |  Counterpoint  |  1  
+MUSIC 221  |  Instrumental Literature and Arranging  |  0.5  
+MUSIC 222  |  |  1  
 MUSIC 223  |  Composition I  |  1  
 MUSIC 225  |  Music in the Electronic Medium  |  1  
 MUSIC 313  |  Analysis of Tonal Music  |  1  
@@ -1381,9 +1330,9 @@ Additional Non-Music Course  |
 PHYS 252  |  Musical Acoustics  |  1  
 Performance Studies  |  
 At least 6 semesters (0.25 each); 4 in the same instrument/voice  |  1.5  
-Keyboard Proficiency  2  |  
-Level IV  3  |  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  4  |  
+Level IV  5  |  
+Performance (principal instrument/voice)  6  |  
 2 solo performances on official student recitals; one must be junior or senior
 year  |  
 Original works in recital: one full recital or several performances comprising
@@ -1394,34 +1343,44 @@ In semester of or semester before original works performance(s), students must
 be enrolled in MUSIC 324, MUSIC 325, or MUSPF 326  |  
 Official Ensemble Participation  |  
 Every semester once admitted to BM Theory-Composition major  |  
-Concert Attendance  5  |  
+Concert Attendance  7  |  
 Documented attendance at 60 concerts  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  21  
+Total Credits  |  22  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
 2  |
 
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+3  |
+
+By successfully completing Keyboard Proficiency Exam Level IV, a student is
+exempt from MUSIC 261 and MUSIC 262  
+  
+4  |
+
 See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
 proficiency-requirements/)  
   
-3  |
+5  |
 
 See [ Keyboard Proficiency Level IV
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
   
-4  |
+6  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/.)  
   
-5  |
+7  |
 
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) .  
@@ -1429,8 +1388,8 @@ requirements/) .
 ##  BM in Music Education
 
 Please see [ Overview of St. Olaf's Teacher Education Program
-](/archive/2015-2016/academic-programs/education/) and [ General Requirements
-and Procedures ](/archive/2015-2016/academic-
+](/archive/2016-2017/academic-programs/education/) and [ General Requirements
+and Procedures ](/archive/2016-2017/academic-
 programs/education/#requirementstext)
 
 Worksheets: [ vocal
@@ -1442,7 +1401,7 @@ instrumental ](http://wp.stolaf.edu/music/files/2013/06/SA_BMInstEd13.pdf)
 See [ Music Admissions and Scholarship Information
 ](http://wp.stolaf.edu/musicadm/)
 
-  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BAMusEdApplication1.pdf)
+  * [ application ](http://wp.stolaf.edu/music/files/2013/06/BMEdApplication20061.pdf)
   * [ principal-instrument/voice audition repertoire ](http://wp.stolaf.edu/music/appendix-a-ba-entrance-repertoire/)
   * music knowledge and keyboard skills screening 
 
@@ -1475,10 +1434,14 @@ Comprehensive graduation requirements for all BM degrees  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
 MUSIC 242  |  History And Literature of Music II  |  1  
+MUSIC 261  |  Piano Class III (0.25)  3  |  0.25  
+MUSIC 262  |  Piano Class IV (0.25)  3  |  0.25  
 Select one of the following:  |  1  
   
 MUSIC 341
@@ -1508,7 +1471,7 @@ Select one of the following:  |  1
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -1551,23 +1514,36 @@ EDUC 291  |  Standards and Technology (0 Cr)  |  0
 EDUC 330  |  Principles of Education, K-12  |  1  
 EDUC 372  |  Counseling and Communication in Schools (0.50)  |  0.5  
 EDUC 374  |  Reading in the Content Area (0.50)  |  0.5  
-EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |
-0.50  
+EDUC 375  |  Differentiated Instruction for Exceptional Learners (0.50)  |  .5  
 EDUC 355  |  Teaching of Music in the Elementary School  |  1  
 EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50) (Vocal)  |
-0.5  
-EDUC 359  |  Teaching of Instrumental Music (0.50) (Instrumental)  |  0.5  
+Required Elective Education Course: Select One of the Following:  |  1  
+  
+EDUC 170
+
+|  Urban Schools and Communities (off-campus)  |  
+  
+EDUC 347
+
+|  Teaching ESL, K-12  |  
+  
+EDUC 378
+
+|  Multicultural Education in Hawaii: Seminar and Practicum (off-campus)  |  
+  
+EDUC 379
+
+|  Urban Education Practicum and Seminar (off-campus)  |  
 Professional Semester Education Courses  |  
 EDUC 381  |  Senior Seminar (0.50)  |  0.5  
 EDUC 382  |  Human Relations (0 Cr)  |  0  
 EDUC 385  |  Issues in Education (0.50)  |  0.5  
 EDUC 389  |  Student Teaching (3.0)  |  3  
 Other Courses  |  
-0.25 credit course Dance Technique  |  0.25  
+0.25 credit course Dance Technique  |  
 Any full (or fractional equivalent) course in Art, Dance, or Theater. MUSIC
-267, MUSIC 269 can satisfy this requirement.  |  
-Performance Studies: Principal  |  
+267, MUSIC 269 can satisfy this requirement.  |  1  
+Performance Studies: Principal  |  2.5  
 Every semester prior to and including the semester of application for entrance
 into the BM Music Education program, .25 each; every semester thereafter,
 prior to the professional semester, .50 each  |  
@@ -1583,60 +1559,69 @@ Instrumental: 2 semesters. MUSIC 164 may count as the first semester of
 secondary voice study.  |  
 Instrumental exception: piano primaries - 4 semesters of brass, percussion,
 string or woodwind study  |  
-Keyboard Proficiency  2  |  
-Level IV  3  |  
-Guitar Proficiency  |  
-EDUC 356  |  Teaching of Music in the Middle and High School (0.50)  |  0.5  
-Performance (principal instrument/voice)  4  |  
+Keyboard Proficiency  4  |  
+Level IV  5  |  
+Performance (principal instrument/voice)  6  |  
 2 solo performances on licensure instrument in official student recitals; one
 must be in junior or senior year  |  
 30-minute senior recital on principal instrument/voice  |  
-2 small ensemble performances on licensure instrument  4  |  
+2 small ensemble performances on licensure instrument  6  |  
 Official Ensemble Participation  |  
 Every semester once admitted to Teacher Education Program  |  
 Ensemble must be in band/orchestra for instrumental ed students; must be choir
 for vocal ed students  |  
 In addition: instrumental students must particpate in a choral ensemble for at
 least one semester  |  
-Concert Attendance  5  |  
+Concert Attendance  7  |  
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  20.5  
+Total Credits  |  24.25  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
 2  |
 
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+3  |
+
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
+  
+4  |
+
 See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
 proficiency-requirements/)  
   
-3  |
+5  |
 
 See [ Proficiency Level IV
 ](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
   
-4  |
+6  |
 
 See [ Performance Requirements for Music Majors
 ](http://wp.stolaf.edu/music/performance-requirements-for-music-majors/)  
   
-5  |
+7  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/performance-requirements-
-for-music-majors/) .  
+See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
+requirements/) .  
   
 ######  Additional Music Courses for Vocal
 
-MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
+EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
 ---|---|---  
+MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 or MUSIC 354  |  Advanced Conducting (0.50)  
-Select one of the following options:  |  
+Select one of the following options:  |  .25  
   
 Option A:
 
@@ -1667,20 +1652,23 @@ MUSIC 169
 |  Woodwind Techiques (0.25)  |  
 MUSIC 287  |  Choral Literature I (0.50)  |  0.5  
 MUSIC 364  |  Vocal Pedagogy (0.25)  |  0.25  
+Total Credits  |  2.5  
   
 ######  Additional Music Courses for Instrumental
 
-MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
+EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
 ---|---|---  
+MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 or MUSIC 354  |  Advanced Conducting (0.50)  
-MUSIC 221  |  Orchestration (0.50)  |  0.5  
+MUSIC 221  |  Instrumental Literature and Arranging  |  0.5  
 MUSIC 166  |  Brass Techniques (0.25)  |  0.25  
 MUSIC 167  |  Percussion Techniques (0.25)  |  0.25  
 MUSIC 168  |  String Techniques (0.25)  |  0.25  
 MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25  
 MUSIC 164  |  Voice Class (0.25) (or one semester of vocal performance study)
 |  0.25  
+Total Credits  |  3.25  
   
 ##  BM with Elective Studies
 
@@ -1724,12 +1712,16 @@ Comprehensive graduation requirements for all BM degrees  1  |
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
 MUSIC 114  |  Theory and Aural Skills II  |  1  
+MUSIC 161  |  Piano Class I (0.25)  2  |  0.25  
+MUSIC 162  |  Piano Class II (0.25)  2  |  0.25  
 MUSIC 212  |  Theory and Aural Skills III  |  1  
 MUSIC 214  |  Theory and Aural Skills IV  |  1  
 MUSIC 237  |  World Music  |  1  
 MUSIC 241  |  History and Literature of Music I  |  1  
 MUSIC 242  |  History And Literature of Music II  |  1  
 MUSIC 251  |  Conducting (0.50)  |  0.5  
+MUSIC 261  |  Piano Class III (0.25)  3  |  0.25  
+MUSIC 262  |  Piano Class IV (0.25)  3  |  0.25  
 Select one of the following:  |  1  
   
 MUSIC 341
@@ -1756,7 +1748,7 @@ Select two of the following:  |  2
   
 MUSIC 222
 
-|  Counterpoint  |  
+|  |  
   
 MUSIC 223
 
@@ -1790,15 +1782,11 @@ MUSIC 344
 MUSIC 345
 
 |  Advanced Study in Music History  |  
-Select three courses in music electives (or fractional equivalent)  |  
-Additional Courses from Other Departments  |  
+Select three courses in music electives (or fractional equivalent)  |  3  
 MUSIC 298  |  Independent Study (Synthesis Project)  |  1  
-5-6 courses in the area of Elective Studies  |  
 Performance Studies: Principal  |  
 Every semester one admitted to the program (minimum of 6 semesters, at least 4
-of which must be at the 0.5 credit level)  |  
-Keyboard Proficiency  2  |  
-Level IV  3  |  
+of which must be at the 0.5 credit level)  |  3  
 Performance (principal instrument/voice)  4  |  
 2 solo performances on principal instrument in official student recitals; one
 must be in junior or senior year  |  
@@ -1808,23 +1796,25 @@ Concert Attendance  5  |
 Documented attendance at 60 concerts.  |  
 S/U Policy  |  
 No required course in the major can be taken S/U  |  
-Total Credits  |  11.5  
+Additional Courses from Other Departments  |  5 or 6  
+5-6 courses in the area of Elective Studies  |  
+Total Credits  |  23.5-24.5  
 1  |
 
 See the [ Bachelor of Music General Education Requirements
-](/archive/2015-2016/curriculum/graduate-requirements-degrees/general-
+](/archive/2016-2017/curriculum/graduate-requirements-degrees/general-
 education-requirements-bm/) .  
   
 ---|---  
 2  |
 
-See [ Keyboard Proficiency Requirements ](http://wp.stolaf.edu/music/keyboard-
-proficiency-requirements/.)  
+By successfully completing Keyboard Proficiency Exam Level II, a student is
+exempt from MUSIC 161 and MUSIC 162  
   
 3  |
 
-See [ Proficiency Level IV
-](http://wp.stolaf.edu/music/files/2013/06/ProficiencyL4.pdf)  
+By successfully completing Keyboard Proficiency Exam Level IV, a student is
+exempt from MUSIC 261 and MUSIC 262  
   
 4  |
 
@@ -1833,6 +1823,6 @@ See [ Performance Requirements for Music Majors
   
 5  |
 
-See [ music handbook ](http://wp.stolaf.edu/music/performance-requirements-
-for-music-majors/) .
+See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
+requirements/) .
 

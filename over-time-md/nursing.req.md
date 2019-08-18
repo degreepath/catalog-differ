@@ -6,30 +6,61 @@ limited and admission is competitive; therefore, early consultation with the
 department chair is recommended. Interested students are assigned nursing
 faculty as academic advisors.
 
-Students must apply for admission to the nursing major during the fall of the
-sophomore year. Application information is available from the department chair
-or website. Admission criteria include cumulative grade point average, grades
-in prerequisite courses, essay, interview, and student status. Students
-needing accommodations for the essay or interview and who have a documented
-disability for which accommodations have been provided by the Academic Support
-Center (ASC), need to contact Suzanne Kiehne, the AAA for the Department of
-Nursing. Accommodations will only be provided after a letter from the ASC is
-submitted to the Department of Nursing chair and with sufficient lead-time to
-arrange accommodations prior to the scheduled essay or interview. Students
-will be notified of their conditional acceptance into the major by a letter
-from the nursing department chair during the January Interim of the sophomore
-year. Nursing courses begin in the spring of the sophomore year.
+##  Information for Students Applying for Direct Admission to the Nursing
+Program
+
+Students intending to major in nursing at the time of application to the
+College may be considered for direct admission to the nursing program as a
+first-year student. Direct admission as a first-year student is limited,
+competitive, and conditional. Students seeking direct admission to the nursing
+program must complete an additional application to the program at the same
+time they submit an application to the College. The nursing application
+includes two additional essays and an interview. The application for direct
+admission to the nursing program is available at [
+http://wp.stolaf.edu/nursing/files/2016/06/Application-Direct-Admission-
+Nursing-2016.jpg ](http://wp.stolaf.edu/nursing/files/2016/06/Application-
+Direct-Admission-Nursing-2016.jpg)
+
+##  Information for Students Not Applying or Not Selected for Direct Admission
+to the Nursing Program
+
+Students who did not apply or were not selected for first-year direct
+admission may apply for admission to the nursing major during the fall of the
+sophomore year. Application information is available at [
+http://wp.stolaf.edu/nursing/files/2016/06/General-Application-Admission-
+Nursing-2016.jpg ](http://wp.stolaf.edu/nursing/files/2016/06/General-
+Application-Admission-Nursing-2016.jpg)
+
+Students needing accommodations for the essay or interview and who have a
+documented disability for which accommodations have been provided by the
+Academic Support Center (ASC) need to contact Tricia Kasa, the AAA for the
+Department of Nursing. Accommodations will only be provided after a letter
+from the ASC is submitted to the Department of Nursing chair and with
+sufficient lead time to arrange accommodations prior to the scheduled essay or
+interview.
+
+> ##  Information for All Students Applying to the Nursing Program
 
 Conditional acceptance into the nursing major will become final if students
-meet the following criteria at the end of the sophomore year: a minimum
-cumulative GPA of 2.85 and successful completion of all nursing prerequisite
-courses with a GPA of 2.70. Prerequisites must be taken for a letter grade.
-Only one prerequisite course may be below C-, and this course (or an alternate
-course approved by the Nursing Department chair) may be repeated once. A
-minimum grade of C- must be achieved in the repeated or substituted course. If
-a grade of C- is not achieved in the repeated or substituted course, the
-student may not continue in the major. If two or more prerequisite courses are
-below C-, the student may not continue in the major.
+meet the following criteria at the end of the sophomore year:
+
+  1. Minimum cumulative grade point average of 2.85. 
+  2. Prerequisites must be taken for a letter grade, cumulative grade point average 2.70. 
+  3. Only one prerequisite course may be below C- and this course (or an alternate course approved by the Nursing Department chair) may be repeated once. 
+  4. A minimum grade of C- must be achieved in the repeated or substituted course. 
+  5. If a grade of C- is not achieved in the repeated or substituted course, the student may not continue in the major. 
+  6. If two or more prerequisite courses are below C-, the student may not continue in the major. 
+
+Students not accepted may choose to be placed on a waiting list and will be
+notified of their rank on that list. If openings occur, admission will be
+offered to waiting list students by rank, highest rank first. Students not
+accepted may appeal the admission decision to the Dean of the College.
+
+Students on the waiting list may reapply for admission to the nursing program
+the following year. They will be considered in the next pool of applicants but
+will not be guaranteed admission because they apply a second time.
+
+The nursing major begins in the spring semester of the sophomore year.
 
 Students not accepted may choose to be placed on a waiting list and will be
 notified of their rank on that list. If openings occur, admission will be
@@ -69,19 +100,21 @@ Students beginning the nursing program must also be a certified nursing
 assistant (CNA). Students will need to provide documentation of Minnesota
 Department of Health (MDH) Nursing Assistant registration after successful
 completion of a Certified Nursing Assistant/Nursing Assistant Registered
-program prior to beginning the nursing program. Students must meet all college
+program prior to beginning NURS 211. Students must meet all college
 requirements for graduation, as well as complete eight prerequisite courses.
 
-Prerequisite Courses (to be completed before beginning Level III nursing
-courses)  |  
+Prerequisite Courses (to be completed before beginning nursing courses
+numbered 3XX)  |  
 ---|---  
 BIO 143  |  Human Anatomy and Physiology: Cells and Tissues  |  1.00  
-BIO 231  |  Microbiology  |  1.00  
 BIO 243  |  Human Anatomy and Physiology: Organs and Organ Systems  |  1.00  
 ID 110  |  Interprofessional Education: Exploration in Healthcare  |  1.00  
 ID 210  |  Pathopharmacology  |  1.00  
 PSYCH 125  |  Principles of Psychology  |  1.00  
 PSYCH 241  |  Developmental Psychology  |  1.00  
+Select one of the following:  |  
+BIO 121  |  Biological Science: Issues in Biology  |  1.00  
+BIO 231  |  Microbiology  |  1.00  
 Select one of the following:  |  1.00  
   
 SOAN 121
@@ -99,29 +132,22 @@ SOAN 260
 SOAN 264
 
 |  Race and Class in American Culture  |  
+SOAN 267  |  Medical Anthropology  |  1.00  
 Requirements for Graduation  |  
 NURS 211  |  Holistic Health Assessment and Health Promotion  |  1.00  
 NURS 311  |  Foundations of Professional Nursing  |  1.00  
 NURS 312  |  Family Health  |  1.00  
 NURS 313  |  Gerontological Nursing  |  1.00  
 NURS 314  |  Lifespan Medical-Surgical Nursing I  |  1.00  
-NURS 386  |  Perinatal Health (through fall 2015)  |  1.00  
-NURS 388  |  Community Health (through fall 2015)  |  1.00  
-NURS 392  |  Mental Health (through spring 2016)  |  1.00  
-NURS 397  |  Nursing Leadership (through spring 2016)  |  1.00  
+NURS 315  |  Medical-Surgical Nursing II  |  1.00  
+NURS 316  |  Public Health Nursing  |  1.00  
+NURS 317  |  Behavioral Health  |  1.00  
+NURS 318  |  Nursing Leadership (1.50)  |  1.50  
+NURS 319  |  Complex Patient Care  |  1.00  
+NURS 399  |  Senior Nursing Seminar (0.50)  |  0.50  
 One course in ethics (students should consult with their advisor to determine
 what courses meet this requirement for nursing from general education EIN
 courses)  |  1.00  
 NURS 390 Research Methods in Nursing is an elective course that is highly
-recommended by the Nursing Department for all nursing majors.  |  1.00  
-  
-The following courses will be submitted as proposals by the Nursing Department
-and considered by the Curriculum Committee in the fall semester.
-
-  * NURS 315 Lifespan Medical-Surgical Nursing II 
-  * NURS 316 Public Health Nursing 
-  * NURS 317 Behavioral Health 
-  * NURS 318 Nursing Leadership 
-  * NURS 319 Complex Patient Care 
-  * NURS 399 Senior Nursing Seminar 
+recommended by the Nursing Department for all nursing majors.  |  1.00
 

@@ -113,17 +113,19 @@ PHIL 236 History of Modern Philosophy
 
 PHIL 374 Seminar in the History of Philosophy
 
-AS/PH 251 Asian Philosophy
+AS/PH 251
 
 ###  Metaphysics and Epistemology
 
-PHIL 231 Philosophy of Mind
+PHIL 246 Space and Time
 
 PHIL 240 Formal Logic
 
 PHIL 241 Philosophical Theology
 
 PHIL 244 Philosophy of Science
+
+PHIL 246 Space and Time
 
 PHIL 371 Seminar in Epistemology
 
@@ -147,7 +149,13 @@ PHIL 252 Ethics and the Good Life
 
 PHIL 254 Law, Politics, and Morality
 
+PHIL 255 Race and Social Justice
+
 PHIL 257 Environmental Ethics
+
+PHIL 259 Global Health Ethics
+
+PHIL 260 Kant's Moral Theory in Literature and Film
 
 PHIL 261 Freud and the Study of Human Behavior
 

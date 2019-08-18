@@ -72,15 +72,151 @@ towards an area of emphasis.
 
 Contracts for each area of emphasis must be negotiated individually with the
 assigned area director before the end of the student’s junior year. Copies of
-contracts, which list required and elective courses for the areas, can be
-found on the [ Economics Department web page
+contracts can be found on the [ Economics Department web page
 ](http://wp.stolaf.edu/economics/forms/department-forms/) . Please contact the
 Economics Department for names of the current area directors.
 
-The economics areas of emphasis require three economic analysis courses beyond
-those required for the major including one level III economic analysis course.
-The management studies areas of emphasis require five courses including a
-level III management studies course. Courses counted towards an area of
-emphasis may not also be counted towards any requirements for the economics
-major.
+Courses counted toward an area of emphasis may not also be counted toward any
+requirements for the economics major.
+
+##  International Economic Analysis and Policy Emphasis
+
+The purpose of the International Economic Analysis and Policy emphasis is to
+provide a structured program of study beyond the major, so that students will
+expand their understanding of the international economy, and be better
+prepared for careers in the private and public sectors.
+
+ECON 382  |  International Economics  |  1.00  
+---|---|---  
+Choose two of the following:  |  2.00  
+  
+ECON 218
+
+|  Economic Progress in China (abroad)  |  
+  
+ECON 243
+
+|  Economic Development  |  
+Elective course outside of Economics Department that relates to international
+topics  |  1.00  
+Total Credits  |  4  
+  
+##  Public Policy Emphasis
+
+The purpose of the public policy emphasis is to provide a structured program
+of study beyond the major to give motivated students the opportunity for in-
+depth work in a particular economic field. Students pursuing this emphasis
+develop the critical insights necessary to understand how government
+initiatives work, or do not work, to accomplish social goals such as
+environmental protection, economic development, poverty reduction, health care
+access, public education, and care for the elderly and the disabled.
+Completion of the emphasis not only promotes a lifetime of informed civic
+engagement and active citizenship, but it also prepares students for careers
+in the public sector, as well as for admission to graduate programs in public
+policy, economics, and law.
+
+ECON 371  |  Economics of Public Policy  1  |  1.00  
+---|---|---  
+Choose three of the following:  |  3.00  
+  
+ECON 242
+
+|  Environmental Economics  |  
+  
+ECON 245
+
+|  Economics of Health Care  |  
+  
+ECON 249
+
+|  Urban Economics  |  
+  
+ECON 385
+
+|  Econometrics  |  
+Total Credits  |  4  
+1  |
+
+ECON 371 cannot be used to satisfy both the requirements for the major and the
+requirements for this emphasis.  
+  
+---|---  
+  
+##  Management Emphasis
+
+The purpose of the management emphasis is to provide a structured program of
+study beyond the economics major to better prepare students for immediate
+careers in the private and public sectors of our economy.
+
+MGMT 225  |  Principles of Accounting  |  1.00  
+---|---|---  
+MGMT 237  |  Managerial Accounting  |  1.00  
+MGMT 251  |  Management  |  1.00  
+MGMT 383  |  Management Policy and Strategy  |  1.00  
+Choose one of the following:  |  1.00  
+  
+MGMT 250
+
+|  Marketing  |  
+  
+MGMT 252
+
+|  Legal Aspects of Business  |  
+  
+MGMT 256
+
+|  Entrepreneurship  |  
+  
+MGMT 281
+
+|  Corporate Finance  |  
+  
+Other MGMT course (to be negotiated)
+
+|  
+Total Credits  |  5  
+  
+##  Finance Emphasis
+
+The purpose of the finance area of emphasis is to provide a structured program
+of study beyond the economics major to better prepare students for immediate
+careers in the private and public sectors of our economy.
+
+MGMT 225  |  Principles of Accounting  |  1.00  
+---|---|---  
+MGMT 237  |  Managerial Accounting  |  1.00  
+MGMT 281  |  Corporate Finance  |  1.00  
+MGMT 380  |  Investments  |  1.00  
+Choose one of the following:  |  
+  
+MGMT 250  
+& MGMT 251
+
+|  Marketing  
+and Management (both must be taken to fulfill the elective)  |  
+  
+MGMT 252
+
+|  Legal Aspects of Business  |  
+  
+MGMT 256
+
+|  Entrepreneurship  |  
+  
+ECON 371
+
+|  Economics of Public Policy  |  
+  
+ECON 374
+
+|  Money and Banking  |  
+  
+ECON 382
+
+|  International Economics  |  
+  
+ECON 385
+
+|  Econometrics  |  
+Total Credits  |  4
 

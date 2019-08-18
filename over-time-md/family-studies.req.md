@@ -9,6 +9,10 @@ FAMST 391  |  Senior Seminar: Special Topics  |  1.00
 Electives  |  
 Select two of the following electives:  2  |  2.00  
   
+ENGL 203
+
+|  Asian American Literature  |  
+  
 FAMST 253
 
 |  Human Sexuality  |  
@@ -36,10 +40,6 @@ PSYCH 350
 PSYCH 390
 
 |  Issues in Psychology (when taught as Intimate Relationships)  |  
-  
-SWRK 125
-
-|  Racism and Sexism in American Family Life  |  
   
 SWRK 221
 
@@ -80,24 +80,26 @@ during the senior year (including the previous summer.) It is designed to
 ensure that concentrators participate in an experience that applies basic
 family knowledge (theories, frameworks, concepts) to real families in a
 setting beyond the classroom. It must be approved by a faculty member in the
-Department of Social Work and Family Studies prior to enrollment. The
-experience and concomitant learning is presented as a graded assignment for a
-public audience in the senior seminar FAMST 391. Through the experience,
-students demonstrate attainment of intended learning outcomes for family
-studies.
+Department of Social Work and Family Studies prior to enrollment and entered
+into the Department GoogleDoc. The experience and concomitant learning is
+presented as a graded assignment for a public audience in the senior seminar
+FAMST 391. Through the experience, students demonstrate attainment of intended
+learning outcomes for family studies.
 
 Guidelines for the experiential component:
 
-  * Includes a minimum of 40 hours devoted to direct experience with families (more than one); 
-  * Can be domestic or international; 
-  * Can be taken either graded or Pass/No Pass (P/N); 
-  * Can be submitted for distinction in a major, if it meets that department's guidelines for distinction. 
-  * Must be approved by a faculty member in the Department of Social Work and Family Studies prior to enrollment. 
+Includes a minimum of 40 hours devoted to direct experience with families
+(more than one);
+
+  1. Can be domestic or international; 
+  2. Can be taken either graded or Pass/No Pass (P/N); 
+  3. Can be submitted for distinction in a major, if it meets that department's guidelines for distinction; and 
+  4. Must be approved by a faculty member in the Department of Social Work and Family Studies prior to enrollment. 
 
 The experience may be:
 
   * A project in a senior year course, or work with families in a social work practicum or nursing clinical; or 
-  * An independent research project with family interaction (FAMST 396); or 
-  * An internship with a family serving agency (quarter-, half-, or full-credit; FAMST 294). 
+  * An independent research project with family interaction (FAMST 394); or 
+  * An internship with a family serving agency (quarter-, half-, or full-credit FAMST 294); or 
   * A summer experience prior to senior year that involves direct experience with families. 
 

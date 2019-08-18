@@ -65,7 +65,7 @@ Students with a major in another department may choose a concentration in
 Asian studies, China studies, or Japan studies. Students with Asian studies
 majors may also choose to do a concentration in China and/or Japan studies.
 
-An Asian studies concentration consists of six courses:
+An Asian studies concentration consists of six courses focused on Asia:
 
   1. At least two of the six courses must be taken on campus 
   2. No language courses may count toward this concentration 

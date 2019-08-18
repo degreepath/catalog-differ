@@ -34,11 +34,11 @@ NORW 282
   
 NORW 371
 
-|  Norwegian Literature from Vikings to the 21st Century  |  
+|  Norwegian Literature: An Overview  |  
   
 NORW 372
 
-|  Norwegian Literature from 1890 to the Present  |  
+|  Topics in Norwegian Literature/Culture  |  
   
 Others, as approved by the director
 
@@ -67,6 +67,6 @@ Or advanced intermediate knowledge of a different Nordic language
 ---|---  
   
 To become a Nordic studies concentrator, contact the Director of Nordic
-Studies and inform the registrar by filling out the form at the Office of the
-Registrar and Academic Advising.
+Studies and inform the registrar by filling out the form at the Registrar's
+Office.
 

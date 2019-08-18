@@ -1,6 +1,6 @@
 The linguistic studies concentration consists of a minimum of five courses:
 
-EN/LI 250  |  English Language and Linguistics  |  1.00  
+LNGST 250  |  English Language and Linguistics  |  1.00  
 ---|---|---  
 Three approved departmental offerings at any level (with the requirement that
 students take no more than two of these three courses within the same

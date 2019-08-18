@@ -3,15 +3,9 @@
 All students majoring in biology complete eight biology courses and a year of
 chemistry (CHEM 121, CHEM 123, CHEM 126; or CHEM 125, CHEM 126; or CH/BI 125,
 CH/BI 126). Note that CHEM 126 and CH/BI 126 have a prerequisite of completion
-of one calculus course. Students in the class of 2017 and beyond will complete
-the current major, while students in the class of 2016 have the option of
-completing either the current major or the previous major; requirements for
-both majors are provided below.
+of one calculus course.
 
-##  Current Major Requirements
-
-(open to students in the class of 2016; required for biology majors starting
-with the class of 2017)
+##  Major Requirements
 
 Biology courses (explained in more detail below this table)  |  
 ---|---  
@@ -20,7 +14,7 @@ At least one course from each of four core categories  |
 At least one level III biology course  |  
 Two elective courses  |  
 Chemistry  |  
-Select one of the following sequences (CHE 126 and CH/BI 126 require
+Select one of the following sequences (CHEM 126 and CH/BI 126 require
 completion of a calculus course):  |  
   
 CHEM 121  
@@ -119,103 +113,5 @@ biology content)  |  1.00
 
   * Students pursuing a secondary school science education teaching license with a life science specialty should consider completing the biology major including BIO 123 or BIO 243 as one of their electives. Additional courses are required as specified by the Education Department. Interested students should consult faculty in the Education Department. 
 
-  * All of the level II and III courses in biology have prerequisites. Please consult the course descriptions below for this information. 
-
-##  Previous Major Requirements (open to students in the class of 2016)
-
-For students in the class of 2016 or earlier electing to complete the previous
-major, the eight biology courses must include:
-
-Four core courses that emphasize:  |  
----|---  
-Cell/molecular biology  |  
-Select one of the following options:  |  
-  
-Option A:
-
-|  
-  
-BIO 125
-
-|  
-  
-Option B:
-
-|  
-  
-CH/BI 125
-
-|  Integrated Chem/Bio I: Chemical Concepts with Biological Applications  |  
-  
-CH/BI 126
-
-|  Integrated Chem/Bio II: Thermodynamics and Kinetics with Bio Relevance  |  
-  
-CH/BI 227
-
-|  Integrated Chem/Bio III: Molecular and Cellular Biology (previously CH/BI
-127)  |  
-Biodiversity and evolution  |  
-BIO 126  |  1.00  
-Genetics  |  
-BIO 233  |  Intermediate Genetics  |  1.00  
-Ecology  |  
-BIO 261  |  Ecological Principles  |  1.00  
-Select one of the following that focuses on a group of multicellular
-organisims:  |  
-  
-BIO 242
-
-|  Vertebrate Biology  |  
-  
-BIO 247
-
-|  Animal Physiology  |  
-  
-BIO 248
-
-|  Invertebrate Biology  |  
-  
-BIO 251
-
-|  Plant Physiology  |  
-  
-BIO 252
-
-|  Plant Morphology  |  
-  
-BIO 266
-
-|  Comparative Vertebrate Anatomy  |  
-  
-BIO 275
-
-|  Biology of Reproduction  |  
-Level III biology  |  
-Select one level III biology course  |  1.00  
-Elective biology courses  |  
-Select two elective biology courses  |  2.00  
-  
-The integrated chemistry-biology sequence (CH/BI 125, CH/BI 126, CH/BI 227)
-may be taken in lieu of BIO 125, and CHEM 125 and CHEM 126. Only one
-independent study (BIO 298) or independent research (BIO 396 or BIO 398) can
-count toward the major; internships (BIO 294 or BIO 394) do not count toward
-the major. BIO 294 and BIO 394 can only be taken P/N. Of the six courses
-counting toward the major that must be graded C or above, at least four must
-be at level II or III.
-
-In addition to courses designated as biology, the following courses can count
-as biology electives:
-
-CHEM 379 Biochemistry I
-
-ESTH 375 Physiology of Exercise
-
-NEURO 239 Cellular and Molecular Neuroscience or PSYCH 238 Biopsychology
-
-or other courses as approved by petition to the department. For two non-
-biology courses to count, they must be from different departments or programs.
-No more than three level I biology courses, including BIO 125 and BIO 126, and
-CH/BI 127, may count toward the major. Specific information about the Level
-III requirement is the same as for the current major (see previous section).
+  * All of the level II and III courses in biology have prerequisites. Please consult the course descriptions for this information. 
 

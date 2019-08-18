@@ -1,21 +1,13 @@
-Language-Intensive Courses (Theory)  |  5.50  
+Language-Intensive Courses (Theory)  |  6.00  
 ---|---  
 DANCE 100  |  Introduction to Dance  |  1.00  
 DANCE 124  |  World Dance Traditions  |  1.00  
 DANCE 150  |  Movement, the Camera, and the Creative Process  |  1.00  
-DANCE 201  |  The Body Movable (0.50)  |  0.50  
 DANCE 231  |  Fundamentals of Choreography and Improvisation  |  1.00  
 DANCE 246  |  Dance in the United States  |  1.00  
-Movement-Intensive Courses (Technique)  |  2.00  
-DANCE 212  |  Articulate Body (0.50) (Required: 212 must be taken concurrently
-with or within 1 term of DANCE 201)  |  0.50  
-  
-DANCE 213
-
-|  Articulate Body (0.25) (Recommended: 213 in first or second year prior to
-taking 212)  |  
-Select other movement-intensive courses from below to total 1.50 credits  1  |
-1.50  
+DANCE 270  |  Dance Anatomy and Kinesiology  |  1.00  
+Movement-Intensive Courses (Technique)  |  1.50  
+Select movement-intensive courses from below to total 1.50 credits  1  |  1.50  
   
 Ballet
 
@@ -49,26 +41,6 @@ or DANCE 321
 
 |  Ballet III (0.25)  
   
-Improvisation
-
-|  
-  
-DANCE 105
-
-|  The Beat Goes On (0.25)  |  
-  
-DANCE 115
-
-|  Power Play (0.25)  |  
-  
-DANCE 215
-
-|  Contact Improvisation (0.25)  |  
-  
-DANCE 315
-
-|  Improvisation as Practice and Performance (0.25)  |  
-  
 International and Social
 
 |  
@@ -88,6 +60,10 @@ DANCE 109
 DANCE 206
 
 |  Ballroom II (0.25)  |  
+  
+DANCE 207
+
+|  Art of Partner Dancing (0.25)  |  
   
 DANCE 209
 
@@ -124,6 +100,26 @@ DANCE 310
 or DANCE 311
 
 |  Modern III (0.25)  
+  
+Other Topics
+
+|  
+  
+DANCE 107
+
+|  Topics in Rhythm in Dance (0.25)  |  
+  
+DANCE 141
+
+|  Topics in Movement Studies in Dance (0.25)  |  
+  
+DANCE 160
+
+|  Conditioning: Practice and Principles (0.25)  |  
+  
+DANCE 205
+
+|  The Beat Goes On (0.25)  |  
 Senior Dance Capstone Project  |  3.00  
 DANCE 399  |  Senior Dance Seminar  3  |  1.00  
 Area of Specialty  2  |  2.00  

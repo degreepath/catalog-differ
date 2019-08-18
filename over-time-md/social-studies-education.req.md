@@ -1,5 +1,5 @@
 Special Note: All prospective students should read the material in the [
-Education Department ](/archive/2015-2016/academic-programs/education/)
+Education Department ](/archive/2016-2017/academic-programs/education/)
 section of this catalog and must meet with an Education Department faculty
 advisor.
 
@@ -62,5 +62,5 @@ in pedagogy, which meets or exceeds Minnesota Board of Teaching Rules
 and student teaching, requirements include passing MTLE standardized tests and
 observations and teaching in classroom settings, including one in a setting of
 diversity. For complete information about the teaching license, see [
-Education ](/archive/2015-2016/academic-programs/education/) .
+Education ](/archive/2016-2017/academic-programs/education/) .
 

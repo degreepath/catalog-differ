@@ -33,8 +33,7 @@ Select at least two of the following:  3  |  2.00
   
 CSCI 125
 
-|  Computer Science for Scientists and Mathematicians (taken Spring 2013 or
-later)  |  
+|  Computer Science for Scientists and Mathematicians  |  
   
 ECON 385
 

@@ -14,7 +14,6 @@ PSCI 111  |  American Politics  |  1.00
 PSCI 204  |  The New Hampshire Primary and U.S. Presidential Politics  |  1.00  
 PSCI 211  |  Media and Politics  |  1.00  
 PSCI 244  |  Race and American Politics  |  1.00  
-PSCI 246  |  Introduction to Public Policy  |  1.00  
 PSCI 255  |  Political Parties and Elections  |  1.00  
 PSCI 272  |  American Constitutional Law: Power  |  1.00  
 PSCI 311  |  Seminar in American Politics  |  1.00  
@@ -33,8 +32,7 @@ PSCI 370  |  Seminar: Courageous Resistance to Injustice  |  1.00
 PSCI 382  |  Seminar: The Geopolitics of Eurasian Energy  |  1.00  
 PSCI 385  |  Seminar: Becoming European: Central Europe's Entry into the
 European U  |  1  
-AS/PS 245  |  Asian Regionalism  |  1.00  
-AS/PS 250  |  Politics in Asia  |  1.00  
+AS/PS 255  |  Politics in Asia  |  1.00  
 International Relations  |  
 PSCI 115  |  Global Democracy  |  1.00  
 PSCI 119  |  The Problem of War  |  1.00  
@@ -44,6 +42,7 @@ PSCI 258  |  World Politics  |  1.00
 PSCI 285  |  International Law  |  1.00  
 PSCI 321  |  Seminar in International Relations  |  1.00  
 ES/PS 201  |  Topics in Global Environmental Politics  |  1.00  
+AS/PS 245  |  |  1.00  
 Political Theory  |  
 PSCI 113  |  Introduction to Political Theory  |  1.00  
 PSCI 119  |  The Problem of War  |  1.00  
@@ -51,7 +50,6 @@ PSCI 232  |  American Political Thought  |  1.00
 PSCI 259  |  History of Classical Political Thought  |  1.00  
 PSCI 260  |  History of Modern Political Thought  |  1.00  
 PSCI 262  |  Critics of the State  |  1.00  
-PSCI 278  |  Ambition and the Vocation of Leadership  |  1.00  
 PSCI 284  |  Ethics of Citizenship in Times of War and Terrorism  |  1.00  
 PSCI 384  |  Seminar in Political Theory  |  1.00  
 ES/PS 225  |  Environmental Political Theory  |  1.00  

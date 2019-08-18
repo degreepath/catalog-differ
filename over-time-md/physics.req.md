@@ -27,12 +27,33 @@ In some cases it is possible to use the PHYS 124-PHYS 125 sequence to transfer
 into the major; see the chair.
 
 Remember to check the prerequisites for all courses. Mathematics prerequisites
-may include calculus, linear algebra, differential equations, partial
-differential equations, or multivariable calculus.
+may include calculus, linear algebra, differential equations, and either
+partial differential equations or multivariable calculus.
 
-Students planning to apply for graduate study in physics are advised to take
-Quantum Mechanics (PHYS 376) and Statistical Physics (PHYS 379) and to
-consider additional physics electives or math courses such as complex
+##  Recommendations for Graduate Study
+
+Students planning on graduate work in physics, engineering, materials science
+or related areas should choose appropriate electives in the major and consider
+additional coursework in mathematics, computer science, or other sciences,
+depending on the field of interest. Summer research experience is strongly
+recommended, especially for students entering Ph.D. programs. Students
+pursuing masters degrees in engineering are encouraged to complete internships
+in their areas of interest.
+
+Specific recommendations for Physics programs: To prepare for graduate study
+in physics, students are advised to take Quantum Mechanics ( [ PHYS 376
+](/archive/2016-2017/search/?P=PHYS%20376 "PHYS 376") ) and Statistical
+Physics ( [ PHYS 379 ](/archive/2016-2017/search/?P=PHYS%20379 "PHYS 379") )
+and to consider additional physics electives or math courses such as complex
 analysis, abstract algebra, probability, statistics, numerical analysis, and
 real analysis.
+
+Specific recommendations for Materials Science programs: To prepare for
+graduate study in materials science, students are advised to take Quantum
+Mechanics ( [ PHYS 376 ](/archive/2016-2017/search/?P=PHYS%20376 "PHYS 376")
+). In addition, students should consider Materials Engineering and Nanoscience
+(PHYS 362) and/or Statistical Physics ( [ PHYS 379
+](/archive/2016-2017/search/?P=PHYS%20379 "PHYS 379") ) and/or additional
+physics electives or math courses such as complex analysis, abstract algebra,
+probability, statistics, numerical analysis, and real analysis.
 

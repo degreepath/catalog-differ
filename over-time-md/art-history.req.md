@@ -2,7 +2,8 @@
 
 Students majoring in studio art must earn a minimum of ten credits.
 
-ART 102  |  Foundation Two-Dimensional Media  1  |  1.00  
+ART 102  |  Foundation Two-Dimensional Media (Art 106: Drawing from Nature in
+the Bahamas can be taken instead of Art 102)  1  |  1.00  
 ---|---|---  
 ART 103  |  Foundation Three-Dimensional Media  1  |  1.00  
 ART 104  |  Foundation New Media  1  |  1.00  
@@ -92,19 +93,19 @@ focus on American or European art; one course must cover art created before
 1700 CE; one must cover art created after 1700 CE.  2  |  6.00  
 Courses that focus on Asian and African art created before 1700CE  |  
   
-AR/AS 259
+ART 259
 
 |  The Arts of China  |  
   
-AR/AS 260
+ART 260
 
 |  The Arts of Japan  |  
   
-AR/AS 262
+ART 262
 
 |  Sacred Sites of South Asia (abroad)  |  
   
-AR/AS 310
+ASIAN 310
 
 |  Buddhism through Text and Image  |  
 Courses that focus on Asian and African art created after 1700CE  |  
@@ -113,7 +114,7 @@ ART 269
 
 |  African Art History  |  
   
-AR/AS 270
+ASIAN 270
 
 |  Visual Culture of Modern China  |  
 Courses that focus on European and American art created before 1700CE  |  
@@ -145,7 +146,7 @@ ART 251
   
 ART 252
 
-|  Art 1880-1945 "The Shock of the New"  |  
+|  Art 1880-1945 "The Shock of the New  |  
   
 ART 253
 
@@ -228,23 +229,23 @@ concentrate on European and/or North American art, and at least one course
 must concentrate on Asian, African, and/or Latin American art.  2  |  5.00  
 Course that concentrate on Asia, Africa, or Latin American Art  |  
   
-AR/AS 259
+ART 259
 
 |  The Arts of China  |  
   
-AR/AS 260
+ART 260
 
 |  The Arts of Japan  |  
   
-AR/AS 262
+ART 262
 
 |  Sacred Sites of South Asia (abroad)  |  
   
-AR/AS 270
+ASIAN 270
 
 |  Visual Culture of Modern China  |  
   
-AR/AS 310
+ASIAN 310
 
 |  Buddhism through Text and Image  |  
   
@@ -259,7 +260,7 @@ ART 251
   
 ART 252
 
-|  Art 1880-1945 "The Shock of the New"  |  
+|  Art 1880-1945 "The Shock of the New  |  
   
 ART 253
 

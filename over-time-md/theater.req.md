@@ -6,6 +6,9 @@ Completion of an equivalent course at another institution should be approved
 by the department chair in advance to ensure credit toward the major
 requirement.
 
+Only one full-course equivalent (1.00-credit course) taken S/U may count
+toward the minimum requirements for the major.
+
 THEAT 130  |  Introduction to Acting  |  1.00  
 ---|---|---  
 THEAT 140  |  Introduction to Design for Performance  |  1.00  
@@ -15,16 +18,11 @@ THEAT 240  |  Scenery and Costume Design and Production  |  1.00
 or THEAT 250  |  Lighting and Sound-Design and Production  
 THEAT 270  |  History of Theater up to 1700  |  1.00  
 THEAT 271  |  History of Theater since 1700  |  1.00  
-THEAT 360  |  Senior Capstone  |  1.00  
-Select one of the following:  |  1.00  
+Select two of the following:  |  2.00  
   
 THEAT 338
 
 |  Intermediate Stage Direction  |  
-  
-THEAT 352
-
-|  Advanced Design for Performance  |  
   
 THEAT 379
 

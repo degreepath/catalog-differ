@@ -17,7 +17,7 @@ Select one of the following proof-writing courses:  |
   
 MATH 282
 
-|  Topics in Mathematics  |  
+|  Topics in Mathematics (certain sections)  |  
   
 MATH 252
 
@@ -29,8 +29,19 @@ MATH 244
 Core courses  |  
 CSCI 253  |  Algorithms and Data Structures  |  1.00  
 CSCI 263  |  Ethical Issues in Software Design  |  1.00  
-CSCI 276  |  Programming Languages  |  1.00  
-or CSCI 333  |  Theory of Computation  
+Select one of the following:  |  
+  
+CSCI 276
+
+|  Programming Languages  |  
+  
+CSCI 333
+
+|  Theory of Computation  |  
+  
+CSCI 336
+
+|  Logic Programming  |  
 Select one of the following:  |  1.00  
   
 CSCI 273
@@ -46,8 +57,8 @@ CSCI 300
 |  Topics in Computer Science (with parallel and distributed computing)  |  
 Electives and capstone  |  
 CSCI 390  |  Senior Capstone Seminar  |  1.00  
-Two approved electives (including possibly ID 259)  |  2.00  
-Total Credits  |  10.25  
+Two approved electives (possibly including ID 259)  |  2.00  
+Total Credits  |  9.25  
   
 These guidelines represent four levels:
 

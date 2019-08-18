@@ -32,7 +32,7 @@ SPAN 313  |  Literature and Society in Spain  1  |  1.00
 or SPAN 314  |  Literature and Society in Latin America  
 One additional level III course  |  1.00  
 Four electives above the 250 level  1  |  4.00  
-EN/LI 250  |  English Language and Linguistics  |  1.00  
+LNGST 250  |  English Language and Linguistics  |  1.00  
 EDUC 353  |  Teaching of World Languages, K-12  |  1.00  
 All other requirements of the K-12 teaching licensure program in Spanish  2  |  
 Total Credits  |  11  
@@ -44,7 +44,7 @@ America
 ---|---  
 2  |
 
-See [ Education ](/archive/2015-2016/academic-programs/education/)  
+See [ Education ](/archive/2016-2017/academic-programs/education/)  
   
 A maximum of three courses above the 250 level may be counted from off-campus
 study. Independent study or research may not be counted in lieu of any of the

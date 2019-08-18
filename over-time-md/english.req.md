@@ -1,13 +1,14 @@
 ##  Requirements for the Graduation Major
 
-Level I  |  
+Level I  |  1.00  
 ---|---  
   
 ENGL 185
 
 |  Literary Studies  |  
 Level II  1  |  
-Select one from each of the following areas:  |  
+Select one from Cross-Cultural Studies, one from Literary History, and one
+from either Cross-Disciplinary studies or Genre:  |  
 Cross-cultural studies  |  1.00  
   
 ENGL 200
@@ -95,10 +96,6 @@ Electives  |
 ENGL 246
 
 |  Women's Literature  |  
-  
-EN/LI 250
-
-|  English Language and Linguistics  |  
   
 ENGL 251
 
@@ -230,7 +227,7 @@ ENGL 298
 
 |  Independent Study  |  
 Select six electives  2  |  6.00  
-Total Credits  |  9  
+Total Credits  |  10  
 1  |
 
 1800 requirement: Among all courses taken at level II (category-specific and
@@ -252,13 +249,13 @@ ENGL 150  |  The Craft of Creative Writing  |  1.00
 ENGL 185  |  Literary Studies  |  1.00  
 ENGL 205  |  American Racial and Multicultural Literatures  |  1.00  
 ENGL 242  |  Children's and Young Adult Literature  |  1.00  
-EN/LI 250  |  English Language and Linguistics  |  1.00  
 ENGL 256  |  Shakespeare and His Contemporaries  |  1.00  
 One literary history course  |  1.00  
 One cross-disciplinary or genre course  |  1.00  
 One level III literature elective  |  1.00  
 Additional requirements  |  
 First Year Writing (FYW)  |  1.00  
+LNGST 250  |  English Language and Linguistics  |  1.00  
 THEAT 100  |  Oral Interpretation  |  1.00  
 THEAT 120  |  Public Speaking  |  1.00  
 MEDIA 160  |  Mass Media  |  1.00  

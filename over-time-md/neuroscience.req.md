@@ -7,8 +7,9 @@ and cognitive levels.  |
 NEURO 239  |  Cellular and Molecular Neuroscience  |  1.00  
 NEURO 239 focuses on the physiology and development of neurons and neural
 circuits across the animal kingdom.  |  
-One level II foundation elective (see list in courses tab)  1  |  1.00  
-One level III advanced science elective (see list in courses tab)  1  |  1.00  
+One level II foundation lab elective (see list in courses tab)  1  |  1.00  
+One level III advanced science lab elective (see list in courses tab)  1  |
+1.00  
 One interdisciplinary elective from neuroscience related offerings outside the
 natural sciences (see list in courses tab)  |  1.00  
 Capstone seminar (see list in courses tab)  |  1.00  

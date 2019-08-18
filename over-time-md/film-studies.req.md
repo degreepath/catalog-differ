@@ -40,7 +40,6 @@ consult the program director.
 ENGL 275  |  Literature and Film  |  1.00  
 ---|---|---  
 FILM 201  |  American Film History  |  1.00  
-FILM 310  |  Filmmakers/Film Theorists  |  1.00  
 GERM 249  |  German Cinema (in English)  |  1.00  
 NORW 130  |  Nordic Film Today  |  1.00  
 RUSSN 265  |  Introduction to Russian and Soviet Film (in English translation)

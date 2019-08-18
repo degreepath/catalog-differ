@@ -42,15 +42,15 @@ entrepreneurial, or related work experience. The [ Piper Center for Vocation
 and Career ](http://wp.stolaf.edu/pipercenter/) and other organizations help
 students with this requirement.
 
-###  The Electronic Integrative Folder
+###  The Management Studies Capstone
 
-The electronic integrative folder introduces students to the career planning
-process, helping them to identify career options and access opportunities. The
-folder includes the results of self-assessment and career exploration
-activities, a description of future goals, and an academic and experiential
-action plan, as well as projects, papers, and other work that demonstrate
-specific skill development. The integrative folder is presented using Moodle
-and a website. By interconnecting important pieces in a digital folder,
-students can demonstrate the interrelatedness of their varied learning
+The capstone project introduces students to the career planning process,
+helping them to identify career options and assess opportunities. This project
+includes career exploration activities, a description of future goals, and an
+academic and experiential action plan, as well as projects, papers, and other
+work that demonstrate specific skill development. The students will enter
+their materials using Moodle and developing a LinkedIn site. By
+interconnecting important facets of their education and experiential learning,
+students can demonstrate the relationships between their varied learning
 experiences.
 
