@@ -3,6 +3,7 @@ import requests
 import glob
 import urllib.parse as urlparse
 from bs4 import BeautifulSoup
+from html2text import html2text
 
 
 def fetch_all():
@@ -46,6 +47,8 @@ def fetch_all():
 
 def extract_requirements():
     for filename in glob.iglob('./*-*/*.html'):
+        if '.req' in filename:
+            continue
         print(filename)
 
         with open(filename, 'r', encoding='utf-8') as infile:
@@ -60,10 +63,20 @@ def extract_requirements():
 
         el = el[0]
 
+        for a in el.select('a[href^="/search"]'):
+            a.unwrap()
+
+        el.smooth()
+
         output = el.prettify()
 
         with open(filename.replace('.html', '.req.html'), 'w', encoding='utf-8') as outfile:
             outfile.write(output)
+
+        mdified = html2text(output)
+
+        with open(filename.replace('.html', '.req.md'), 'w', encoding='utf-8') as outfile:
+            outfile.write(mdified)
 
 
 if __name__ == '__main__':
