@@ -33,10 +33,12 @@ def fetch_all():
         )
 
         for href in hrefs:
+            name = href.split('/')[-2]
+
+            href = '/'.join([url, name])
             print(href)
 
             r = requests.get(href)
-            name = href.split('/')[-2]
 
             with (folder / f"{name}.html").open('w', encoding='utf-8') as outfile:
                 outfile.write(r.text)
