@@ -1,4 +1,4 @@
-<div class="tab_content" id="requirementstextcontainer">
+<div class="tab_content" id="requirementstextcontainer" role="tabpanel">
  <a name="requirementstext">
  </a>
  <p>
@@ -7,11 +7,27 @@
   </span>
  </p>
  <table class="sc_courselist" width="100%">
+  <caption class="hidden noscript">
+   Course List
+  </caption>
   <colgroup>
    <col class="codecol"/>
    <col class="titlecol"/>
    <col align="char" char="." class="hourscol"/>
   </colgroup>
+  <thead>
+   <tr class="hidden noscript">
+    <th scope="col">
+     Code
+    </th>
+    <th scope="col">
+     Title
+    </th>
+    <th class="hourscol" scope="col">
+     Credits
+    </th>
+   </tr>
+  </thead>
   <tbody>
    <tr class="even areaheader firstrow">
     <td colspan="2">
@@ -65,15 +81,19 @@
       CSCI 251
      </a>
      <br/>
-     &amp;
-     <a class="bubblelink code" href="/search/?P=CSCI 252" onclick="return showCourse(this, 'CSCI 252');" title="CSCI 252">
-      CSCI 252
-     </a>
+     <span class="blockindent" style="margin-left:20px;">
+      &amp;
+      <a class="bubblelink code" href="/search/?P=CSCI 252" onclick="return showCourse(this, 'CSCI 252');" title="CSCI 252">
+       CSCI 252
+      </a>
+     </span>
     </td>
     <td>
      Software Design and Implementation
      <br/>
-     and Software Design and Implementation Lab (0.25)
+     <span class="blockindent" style="margin-left:20px;">
+      and Software Design and Implementation Lab (0.25)
+     </span>
     </td>
     <td class="hourscol">
      1.25
@@ -97,7 +117,7 @@
      </div>
     </td>
     <td>
-     Topics in Mathematics
+     Topics in Mathematics (certain sections)
     </td>
     <td class="hourscol">
     </td>
@@ -166,30 +186,57 @@
     </td>
    </tr>
    <tr class="odd">
+    <td colspan="2">
+     <span class="courselistcomment">
+      Select one of the following:
+     </span>
+    </td>
+    <td class="hourscol">
+    </td>
+   </tr>
+   <tr class="even">
     <td class="codecol">
-     <a class="bubblelink code" href="/search/?P=CSCI 276" onclick="return showCourse(this, 'CSCI 276');" title="CSCI 276">
-      CSCI 276
-     </a>
+     <div style="margin-left: 20px;">
+      <a class="bubblelink code" href="/search/?P=CSCI 276" onclick="return showCourse(this, 'CSCI 276');" title="CSCI 276">
+       CSCI 276
+      </a>
+     </div>
     </td>
     <td>
      Programming Languages
     </td>
     <td class="hourscol">
-     1.00
     </td>
    </tr>
-   <tr class="orclass odd">
-    <td class="codecol orclass">
-     or
-     <a class="bubblelink code" href="/search/?P=CSCI 333" onclick="return showCourse(this, 'CSCI 333');" title="CSCI 333">
-      CSCI 333
-     </a>
+   <tr class="odd">
+    <td class="codecol">
+     <div style="margin-left: 20px;">
+      <a class="bubblelink code" href="/search/?P=CSCI 333" onclick="return showCourse(this, 'CSCI 333');" title="CSCI 333">
+       CSCI 333
+      </a>
+     </div>
     </td>
-    <td colspan="2">
+    <td>
      Theory of Computation
+    </td>
+    <td class="hourscol">
     </td>
    </tr>
    <tr class="even">
+    <td class="codecol">
+     <div style="margin-left: 20px;">
+      <a class="bubblelink code" href="/search/?P=CSCI 336" onclick="return showCourse(this, 'CSCI 336');" title="CSCI 336">
+       CSCI 336
+      </a>
+     </div>
+    </td>
+    <td>
+     Logic Programming
+    </td>
+    <td class="hourscol">
+    </td>
+   </tr>
+   <tr class="odd">
     <td colspan="2">
      <span class="courselistcomment">
       Select one of the following:
@@ -199,7 +246,7 @@
      1.00
     </td>
    </tr>
-   <tr class="odd">
+   <tr class="even">
     <td class="codecol">
      <div style="margin-left: 20px;">
       <a class="bubblelink code" href="/search/?P=CSCI 273" onclick="return showCourse(this, 'CSCI 273');" title="CSCI 273">
@@ -213,7 +260,7 @@
     <td class="hourscol">
     </td>
    </tr>
-   <tr class="even">
+   <tr class="odd">
     <td class="codecol">
      <div style="margin-left: 20px;">
       <a class="bubblelink code" href="/search/?P=CSCI 284" onclick="return showCourse(this, 'CSCI 284');" title="CSCI 284">
@@ -227,7 +274,7 @@
     <td class="hourscol">
     </td>
    </tr>
-   <tr class="odd">
+   <tr class="even">
     <td class="codecol">
      <div style="margin-left: 20px;">
       <a class="bubblelink code" href="/search/?P=CSCI 300" onclick="return showCourse(this, 'CSCI 300');" title="CSCI 300">
@@ -241,7 +288,7 @@
     <td class="hourscol">
     </td>
    </tr>
-   <tr class="even areaheader">
+   <tr class="odd areaheader">
     <td colspan="2">
      <span class="courselistcomment areaheader">
       Electives and capstone
@@ -250,7 +297,7 @@
     <td class="hourscol">
     </td>
    </tr>
-   <tr class="odd">
+   <tr class="even">
     <td class="codecol">
      <a class="bubblelink code" href="/search/?P=CSCI 390" onclick="return showCourse(this, 'CSCI 390');" title="CSCI 390">
       CSCI 390
@@ -263,10 +310,10 @@
      1.00
     </td>
    </tr>
-   <tr class="even lastrow">
+   <tr class="odd lastrow">
     <td colspan="2">
      <span class="courselistcomment">
-      Two approved electives (including possibly
+      Two approved electives (possibly including
       <a class="bubblelink code" href="/search/?P=ID 259" onclick="return showCourse(this, 'ID 259');" title="ID 259">
        ID 259
       </a>
@@ -282,7 +329,7 @@
      Total Credits
     </td>
     <td class="hourscol">
-     10.25
+     9.25
     </td>
    </tr>
   </tbody>
