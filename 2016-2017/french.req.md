@@ -3,10 +3,9 @@ Requirements for the Graduation Major
 The graduation major consists of a minimum of eight (8) courses in French
 above FREN 112, as follows:
 
-Code  |  Title  |  Credits  
----|---|---  
 Two 250-level courses, at least one of which must be taught by a St. Olaf
 instructor  |  2.00  
+---|---  
 Two 270-level courses, at least one of which must be taught by a St. Olaf
 instructor  |  2.00  
 Two 300-level courses taken on-campus and taught by a St. Olaf instructor  |
@@ -75,10 +74,9 @@ Department chair.
 
 ##  Requirements for a French Major with K-12 Teaching Licensure
 
-Code  |  Title  |  Credits  
----|---|---  
 Eight courses in French above FREN 112 (two 250-level; two 270-level; two
 300-level French courses)  |  8.00  
+---|---  
   
 Of the eight courses, one must be an immersion course of the following:
 

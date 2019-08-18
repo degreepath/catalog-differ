@@ -1,8 +1,7 @@
 The Japanese major consists of nine courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Requirements  |  
+---|---  
 I. Core Language Courses  1  |  
 JAPAN 231  |  Intermediate Japanese I  |  1.00  
 JAPAN 232  |  Intermediate Japanese II  |  1.00  

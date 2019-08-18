@@ -8,9 +8,8 @@ American politics and public policy, comparative politics, international
 relations, and political theory. Level III courses do not count for subfield
 distribution.
 
-Code  |  Title  |  Credits  
----|---|---  
 American Politics and Public Policy  |  
+---|---  
 PSCI 111  |  American Politics  |  1.00  
 PSCI 204  |  The New Hampshire Primary and U.S. Presidential Politics  |  1.00  
 PSCI 211  |  Media and Politics  |  1.00  

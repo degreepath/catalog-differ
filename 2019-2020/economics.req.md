@@ -2,9 +2,8 @@
 
 Majors in economics must meet the following minimum requirements:
 
-Code  |  Title  |  Credits  
----|---|---  
 Core courses:  1  |  3.00-4.00  
+---|---  
   
 ECON 261
 
@@ -86,9 +85,8 @@ provide a structured program of study beyond the major, so that students will
 expand their understanding of the international economy, and be better
 prepared for careers in the private and public sectors.
 
-Code  |  Title  |  Credits  
----|---|---  
 ECON 382  |  International Economics  |  1.00  
+---|---|---  
 Choose two of the following:  |  2.00  
   
 ECON 210
@@ -116,9 +114,8 @@ The purpose of the management emphasis is to provide a structured program of
 study beyond the economics major to better prepare students for immediate
 careers in the private and public sectors of our economy.
 
-Code  |  Title  |  Credits  
----|---|---  
 MGMT 225  |  Principles of Accounting  |  1.00  
+---|---|---  
 MGMT 237  |  Managerial Accounting  |  1.00  
 MGMT 251  |  Management  |  1.00  
 MGMT 383  |  Management Policy and Strategy  |  1.00  
@@ -151,9 +148,8 @@ The purpose of the finance area of emphasis is to provide a structured program
 of study beyond the economics major to better prepare students for immediate
 careers in the private and public sectors of our economy.
 
-Code  |  Title  |  Credits  
----|---|---  
 MGMT 225  |  Principles of Accounting  |  1.00  
+---|---|---  
 MGMT 237  |  Managerial Accounting  |  1.00  
 MGMT 281  |  Corporate Finance  |  1.00  
 MGMT 380  |  Investments  |  1.00  

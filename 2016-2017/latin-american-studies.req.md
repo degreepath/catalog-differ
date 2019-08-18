@@ -3,9 +3,8 @@
 The requirements for the completion of a Latin American studies major consist
 of nine courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Core course  |  
+---|---  
 HIST 193  |  Modern Latin America  |  1.00  
 or PSCI 264  |  Latin American Politics  
 Required courses in Spanish  |  
@@ -72,9 +71,8 @@ major in that it does not require course work in Spanish.
 The requirements for the completion of the Latin American studies
 concentration consist of a minimum of five approved courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Core course  |  
+---|---  
 HIST 193  |  Modern Latin America  |  1.00  
 or PSCI 264  |  Latin American Politics  
 Electives  |  

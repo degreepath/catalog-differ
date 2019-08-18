@@ -1,8 +1,7 @@
 History majors are required to take nine courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 One level II major seminar  |  
+---|---  
 Three courses at level III  |  
 No specific level I coursework is required for the major, but students may
 count up to three level I courses (but no more than two seminars) toward the

@@ -7,9 +7,8 @@ Students with AP, IB, PSEO, or significant college-level experience in physics
 may seek advanced placement - to start in a course beyond PHYS 130 - by
 consulting with the department chair.
 
-Code  |  Title  |  Credits  
----|---|---  
 PHYS 130  |  Analytical Physics I  |  1.00  
+---|---|---  
 PHYS 131  |  Analytical Physics II  |  1.00  
 PHYS 232  |  Analytical Physics III  |  1.00  
 PHYS 244  

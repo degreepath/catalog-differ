@@ -7,9 +7,8 @@ closely with an advisor in the philosophy department.
 
 ##  Regular Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Nine courses in philosophy, including:  3  |  9.00  
+---|---  
   
 PHIL 235
 
@@ -57,9 +56,8 @@ inquiry.
 A contract major involves a contract drawn up between the student and the
 Department of Philosophy. The contract combines the following:
 
-Code  |  Title  |  Credits  
----|---|---  
 Seven courses in philosophy, including:  |  7.00  
+---|---  
   
 PHIL 235
 

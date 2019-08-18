@@ -1,8 +1,7 @@
 ##  Requirements for a Graduation Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Introductory Sequence  |  
+---|---  
 Select one of the following options:  |  
   
 Option A:
@@ -96,9 +95,8 @@ American Chemical Society (ACS) through its Committee on Professional
 Training. Prospective majors in chemistry who desire the "ACS Major" will
 complete the following courses:
 
-Code  |  Title  |  Credits  
----|---|---  
 Chemistry  |  
+---|---  
 One of the three first-year options (see above)  |  
 CHEM 247  |  Organic Chemistry I  |  1.00  
 CHEM 248  |  Organic Chemistry II  |  1.00  
@@ -132,9 +130,8 @@ Typically selected from MATH 220, MATH 226, MATH 230, and STAT 212.
 In addition, ACS majors must complete one or more advanced course from the
 following:
 
-Code  |  Title  |  Credits  
----|---|---  
 CHEM 252  |  Organometallic Chemistry  |  1.00  
+---|---|---  
 CHEM 260  |  Medicinal Chemistry in Jamaica: An International Perspective
 (abroad)  |  1.00  
 CHEM 280  |  Organic Analysis and Theory  |  1.00  
@@ -155,9 +152,8 @@ Additional laboratory hours must be obtained by completing at least 1.25
 credits from the following (summer research can substitute for one of these
 experiences):
 
-Code  |  Title  |  Credits  
----|---|---  
 CHEM 280  |  Organic Analysis and Theory  |  1.00  
+---|---|---  
 CHEM 373  |  Experimental Biochemistry (0.25)  |  0.25  
 CHEM 374  |  Advanced Synthesis Laboratory (0.25)  |  0.25  
 CHEM 375  |  Advanced Laboratory (0.25)  |  0.25  

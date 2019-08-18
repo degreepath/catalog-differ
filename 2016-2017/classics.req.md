@@ -1,8 +1,7 @@
 ##  Requirements for the Greek Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Seven Greek courses  1  |  7.00  
+---|---  
 One classics course  |  1.00  
 One ancient Greek history course  |  1.00  
 Total Credits  |  9  
@@ -15,9 +14,8 @@ courses in Greek
   
 ##  Requirements for the Latin Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Seven Latin courses  1  |  7.00  
+---|---  
 One classics course  |  1.00  
 One ancient Roman history course  |  1.00  
 Total Credits  |  9  
@@ -30,9 +28,8 @@ courses in Latin
   
 ##  Requirements for the Classics Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Six Latin or Greek courses  1  |  6.00  
+---|---  
 Three courses in the other language  |  3.00  
 One classics course  |  1.00  
 One ancient history course  |  1.00  
@@ -46,9 +43,8 @@ option of taking five courses in that language
   
 ##  Requirements for the Latin Major with K-12 Teaching License
 
-Code  |  Title  |  Credits  
----|---|---  
 Seven Latin courses  1  |  7.00  
+---|---  
 One ancient Roman history course  |  1.00  
 EDUC 349  |  Teaching of Latin, K-12  |  1.00  
 All other requirements of the K-12 teaching licensure program in Latin  |  

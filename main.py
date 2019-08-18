@@ -75,10 +75,10 @@ def extract_requirements():
         for e in el.select('[style]'):
             del e['style']
 
-        for e in el.select('span, thead, tbody, strong, em, b, i'):
+        for e in el.select('span, tbody, strong, em, b, i'):
             e.unwrap()
 
-        for e in el.select('caption, colgroup'):
+        for e in el.select('thead, caption, colgroup'):
             e.decompose()
 
         el.smooth()

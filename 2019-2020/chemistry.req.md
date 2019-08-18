@@ -1,8 +1,7 @@
 ##  Requirements for a Graduation Major
 
-Code  |  Title  |  Credits  
----|---|---  
 |  
+---|---  
 Chemistry Department Seminars  |  
 Attendance at 12 departmental seminars after declaration of major  |  
 Introductory Sequence  |  
@@ -101,9 +100,8 @@ American Chemical Society (ACS) through its Committee on Professional
 Training. Prospective majors in chemistry who desire the "ACS Major" will
 complete the following courses:
 
-Code  |  Title  |  Credits  
----|---|---  
 Chemistry Department Seminars  |  
+---|---  
 Attendance at 12 departmental seminars after declaration of major  |  
 Chemistry  |  
 One of the four first-year options (see above)  |  
@@ -133,9 +131,8 @@ Typically selected from MATH 220, MATH 226, MATH 230, and STAT 212.
 In addition, ACS majors must complete one or more advanced course from the
 following:
 
-Code  |  Title  |  Credits  
----|---|---  
 CHEM 252  |  Organometallic Chemistry  |  1.00  
+---|---|---  
 CHEM 280  |  Organic Analysis and Theory  |  1.00  
 CHEM 298  |  Independent Study  1  |  1.00  
 CHEM 360  |  Medicinal Chemistry  |  1.00  
@@ -153,9 +150,8 @@ Additional laboratory hours must be obtained by completing at least 1.25
 credits from the following (summer research can substitute for one of these
 experiences):
 
-Code  |  Title  |  Credits  
----|---|---  
 CHEM 280  |  Organic Analysis and Theory  |  1.00  
+---|---|---  
 CHEM 297  |  Independent Research (0.25, 0.50, 1.00)  |  1.00  
 CHEM 373  |  Experimental Biochemistry (0.25)  |  0.25  
 CHEM 375  |  Advanced Laboratory (0.25)  |  0.25  

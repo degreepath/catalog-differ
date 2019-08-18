@@ -8,9 +8,8 @@ to be awarded.
 
 ###  Licensure Track
 
-Code  |  Title  |  Credits  
----|---|---  
 Concentration Core Courses  |  2.5  
+---|---  
   
 EDUC 290
 
@@ -96,9 +95,8 @@ Total Credits  |  5.5
   
 ###  Non-licensure Track
 
-Code  |  Title  |  Credits  
----|---|---  
 Concentration Core Courses  |  2.50  
+---|---  
   
 EDUC 260
 
@@ -184,9 +182,8 @@ Total Credits  |  5.5
   
 ###  TEFL Certificate Track
 
-Code  |  Title  |  Credits  
----|---|---  
 Core Courses  |  2.50  
+---|---  
   
 EDUC 245
 
@@ -354,9 +351,8 @@ this link on the Education Department website: [
 http://wp.stolaf.edu/education/licenses/
 ](http://wp.stolaf.edu/education/licenses/)
 
-Code  |  Title  |  Credits  
----|---|---  
 First Year  |  
+---|---  
 EDUC 170  |  Urban Schools and Communities (off-campus) (recommended elective
 course; offered during Interim)  1  |  1.00  
 Informational sessions are offered during Week One orientation and in April

@@ -7,9 +7,8 @@ requirement.
 Only one full-course equivalent (1.00-credit course) taken S/U may count
 toward the minimum requirements for the major.
 
-Code  |  Title  |  Credits  
----|---|---  
 THEAT 130  |  Introduction to Acting  |  1.00  
+---|---|---  
 THEAT 140  |  Introduction to Design for Performance  |  1.00  
 THEAT 180  |  Text and Performance  |  1.00  
 THEAT 232  |  Stage Direction  |  1.00  

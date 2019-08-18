@@ -19,9 +19,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -96,9 +95,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -143,9 +141,8 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music-handbook/) .  
   
-Code  |  Title  |  Credits  
----|---|---  
 Composition Emphasis  |  
+---|---  
 MUSIC 225  |  Music in the Electronic Medium  |  1.00  
 MUSIC 324  |  Composition II: Orchestration  |  1.00  
 MUSPF 326 Composition Lesson: 4 semesters (0.25 each)  |  1.00  
@@ -178,9 +175,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -225,9 +221,8 @@ Music-Majors.pdf)
 See [ music handbook ](https://wp.stolaf.edu/music-handbook/) [ .
 ](http://wp.stolaf.edu/music/recital-attendance-requirements/)  
   
-Code  |  Title  |  Credits  
----|---|---  
 Musicology Emphasis  |  
+---|---  
 Two additional 34x musicology courses  |  2.00  
 Select one of the following:  |  1.00  
   
@@ -274,9 +269,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -321,9 +315,8 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music-handbook/) .  
   
-Code  |  Title  |  Credits  
----|---|---  
 Theory Emphasis  |  
+---|---  
 MUSIC 312  |  Counterpoint  |  1.00  
 MUSIC 313  |  Analysis of Tonal Music  |  1.00  
 MUSIC 314  |  Analysis of Post-Tonal Music  |  1.00  
@@ -373,9 +366,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -425,9 +417,8 @@ See [ music handbook ](https://wp.stolaf.edu/music-handbook/) .
   
 #####  Additional Music Courses for Voice
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
+---|---|---  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 261  |  Piano Class III (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 262  |  Piano Class IV (0.25) (minimum grade of B-)  1  |  0.25  
@@ -469,9 +460,8 @@ student would then be required to add 1.00 credits to the major for a total of
   
 #####  Additional Music Courses for Strings
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
+---|---|---  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 261  |  Piano Class III (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters at 0.25 each)  |
@@ -492,9 +482,8 @@ additional music electives.
   
 #####  Additional Music Courses for Piano
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 270  |  Advanced Keyboard Skills (minimum grade of B-)  |  0.25  
+---|---|---  
 MUSIC 283  |  Piano Literature (0.50)  |  0.50  
 MUSIC 293  |  Keyboard Pedagogy (0.50)  |  0.50  
 Select 2.75 additional credits from Level II or Level II music electives (can
@@ -503,9 +492,8 @@ Total Credits  |  4
   
 #####  Additional Music Courses for Winds, Brass, Percussion
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
+---|---|---  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 261  |  Piano Class III (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.50  
@@ -525,9 +513,8 @@ additional music electives.
   
 #####  Additional Music Courses for Organ
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 270  |  Advanced Keyboard Skills (minimum grade of B-)  |  0.25  
+---|---|---  
 MUSIC 293  |  Keyboard Pedagogy (0.50)  |  0.50  
 MUSIC 298  |  Independent Study (Organ Literature)  |  1.00  
 Select 2.25 additional credits from Level II or Level II music electives (can
@@ -542,9 +529,8 @@ Collaborative Keyboard
 
 This emphasis can be added only to a B.M. Performance major in organ or piano.
 
-Code  |  Title  |  Credits  
----|---|---  
 Additional Music Courses  |  
+---|---  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.50  
 MUSIC 281  |  Vocal Solo Literature I (0.25)  |  0.25  
 MUSIC 282  |  Vocal Solo Literature II (0.25)  |  0.25  
@@ -628,9 +614,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -730,9 +715,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -830,9 +814,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -950,9 +933,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -1104,9 +1086,8 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  
@@ -1249,9 +1230,8 @@ Entrance-to-All-Music-Majors-1.pdf)
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 114  |  Musicianship: Tonality  |  1.00  

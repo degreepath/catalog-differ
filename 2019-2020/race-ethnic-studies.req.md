@@ -1,8 +1,7 @@
 ##  Requirements for the Major
 
-Code  |  Title  |  Credits  
----|---|---  
 RACE 121  |  Introduction to Race and Ethnic Studies  |  1.00  
+---|---|---  
 or RACE 122  |  Introduction to Race and Ethnic Studies  
 Select a minimum of seven other approved courses taken in at least three
 departments or programs.  1  |  7.00  
@@ -22,9 +21,8 @@ another one from a department represented in the program.
 
 ##  Requirements for the Concentration
 
-Code  |  Title  |  Credits  
----|---|---  
 RACE 121  |  Introduction to Race and Ethnic Studies  |  1.00  
+---|---|---  
 or RACE 122  |  Introduction to Race and Ethnic Studies  
 Select four other approved courses taken in at least two departments or
 programs.  |  4.00  

@@ -1,6 +1,5 @@
-Code  |  Title  |  Credits  
----|---|---  
 Language-Intensive Courses (Theory)  |  6.00  
+---|---  
 DANCE 100  |  Introduction to Dance  |  1.00  
 DANCE 124  |  World Dance Traditions  |  1.00  
 DANCE 150  |  Movement, the Camera, and the Creative Process  |  1.00  

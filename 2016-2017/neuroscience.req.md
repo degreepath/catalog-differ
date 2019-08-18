@@ -1,6 +1,5 @@
-Code  |  Title  |  Credits  
----|---|---  
 Core courses (taken in either order):  |  
+---|---  
 PSYCH 238  |  Biopsychology  |  1.00  
 PSYCH 238 introduces students to the fundamental principles underlying the
 relationship between the brain and behavior, with an emphasis on the systems

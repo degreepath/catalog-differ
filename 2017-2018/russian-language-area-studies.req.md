@@ -1,8 +1,7 @@
 ##  Requirements for the Major in Russian Language
 
-Code  |  Title  |  Credits  
----|---|---  
 RUSSN 111  |  Beginning Russian I  |  1.00  
+---|---|---  
 RUSSN 112  |  Beginning Russian II  |  1.00  
 RUSSN 231  |  Intermediate Russian I  |  1.00  
 RUSSN 232  |  Intermediate Russian II  |  1.00  
@@ -14,9 +13,8 @@ senior year  |  2.00
   
 ##  Requirements for the Major in Russian Area Studies
 
-Code  |  Title  |  Credits  
----|---|---  
 Russian language courses  1  |  
+---|---  
 RUSSN 111  |  Beginning Russian I  |  1.00  
 RUSSN 112  |  Beginning Russian II  |  1.00  
 RUSSN 231  |  Intermediate Russian I  |  1.00  

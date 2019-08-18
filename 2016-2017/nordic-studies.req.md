@@ -2,9 +2,8 @@ The Nordic studies concentration consists of five courses. At least two of the
 five courses must have a focus on at least one Nordic country other than
 Norway.
 
-Code  |  Title  |  Credits  
----|---|---  
 One Norwegian language course beyond FOL-N:  |  
+---|---  
 NORW 232  |  Intermediate Norwegian II (or above)  1  |  1.00  
 Select one or two other courses from Norwegian department offerings selected
 from the following:  |  1.00-2.00  

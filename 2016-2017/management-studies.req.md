@@ -16,9 +16,8 @@ course and [ an approved course from another department on campus
 Electives-11-15.pdf) or a study abroad program. Students must earn a grade of
 C or better in all five courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Core Courses  |  
+---|---  
 ECON 121  |  Principles of Economics  |  1.00  
 MGMT 225  |  Principles of Accounting  |  1.00  
 MGMT 251  |  Management  |  1.00  

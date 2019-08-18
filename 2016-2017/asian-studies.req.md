@@ -3,9 +3,8 @@
 For the Asian studies major, a student must complete 10 courses (9.25
 credits):
 
-Code  |  Title  |  Credits  
----|---|---  
 Two courses in Chinese or Japanese above 112 or its equivalent  |  2.00  
+---|---  
 ASIAN 275  |  Interdisciplinary Approaches to Asia (0.25)  |  0.25  
 Senior Seminar:  |  
 ASIAN 399  |  Seminar for Asian Studies Majors  |  1.00  
@@ -32,9 +31,8 @@ Total Credits  |  9.25
 Students who fulfill the language requirement through proficiency testing in
 an Asian language must take 9 courses (8.25 credits):
 
-Code  |  Title  |  Credits  
----|---|---  
 ASIAN 275  |  Interdisciplinary Approaches to Asia (0.25)  |  0.25  
+---|---|---  
 Senior Seminar:  |  
 ASIAN 399  |  Seminar for Asian Studies Majors  |  1.00  
 or ASIAN 397  |  Seminar: Human Rights/Asian Context  

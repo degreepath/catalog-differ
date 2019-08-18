@@ -1,8 +1,7 @@
 The Chinese major consists of nine courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Core language courses  1  |  
+---|---  
 CHIN 231  |  Intermediate Chinese I  |  1.00  
 CHIN 232  |  Intermediate Chinese II  |  1.00  
 CHIN 301  |  Third-Year Chinese I  |  1.00  

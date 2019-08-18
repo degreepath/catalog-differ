@@ -32,9 +32,8 @@ cultural content from one or more German-speaking countries:
 
 ###  Courses taught in English
 
-Code  |  Title  |  Credits  
----|---|---  
 GERM 147  |  Fairy Tales and Folklore (in English)  |  1.00  
+---|---|---  
 GERM 249  |  German Cinema (in English)  |  1.00  
 GERM 263  |  Topics in German Arts (in English)  |  1.00  
 GERM 266  |  Urbanization in Germany (in English)  |  1.00  
@@ -42,9 +41,8 @@ GERM 266  |  Urbanization in Germany (in English)  |  1.00
 ###  Examples of courses outside the department (with major focus on German
 cultural content)
 
-Code  |  Title  |  Credits  
----|---|---  
 ART 252  |  Art 1880-1945 "The Shock of the New"  |  1.00  
+---|---|---  
 ART 271  |  Gothic Art  |  1.00  
 HIST 224  |  Modern Germany  |  1.00  
 MUSIC 342  |  Music of the Baroque Era  |  1.00  

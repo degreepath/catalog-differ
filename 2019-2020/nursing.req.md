@@ -89,10 +89,9 @@ completion of a Certified Nursing Assistant/Nursing Assistant Registered
 program prior to beginning NURS 211. Students must meet all college
 requirements for graduation, as well as complete eight prerequisite courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Prerequisite Courses (to be completed before beginning nursing courses
 numbered 3XX)  |  
+---|---  
 BIO 143  |  Human Anatomy and Physiology: Cells and Tissues  |  1.00  
 BIO 243  |  Human Anatomy and Physiology: Organs and Organ Systems  |  1.00  
 ID 210  |  Pathopharmacology  |  1.00  

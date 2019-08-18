@@ -1,6 +1,5 @@
-Code  |  Title  |  Credits  
----|---|---  
 NORW 111  |  Beginning Norwegian I  |  1.00  
+---|---|---  
 NORW 112  |  Beginning Norwegian II  |  1.00  
 NORW 231  |  Intermediate Norwegian I  |  1.00  
 NORW 232  |  Intermediate Norwegian II  |  1.00  

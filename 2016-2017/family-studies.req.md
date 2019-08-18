@@ -1,9 +1,8 @@
 Recommended preparation: introductory courses in social sciences, biology, and
 statistics
 
-Code  |  Title  |  Credits  
----|---|---  
 Required department courses  1  |  
+---|---  
 FAMST 232  |  Introduction to Family Studies  |  1.00  
 FAMST 242  |  Family Relationships  |  1.00  
 FAMST 391  |  Senior Seminar: Special Topics  |  1.00  

@@ -5,9 +5,8 @@ his or her concentration if the student can show and the director concurs that
 the course includes an integrative component related to mathematical and/or
 computational biology.
 
-Code  |  Title  |  Credits  
----|---|---  
 Mathematical Biology Core Course  |  
+---|---  
 This course presents the essential modeling techniques of formulation,
 implementation, validation, and analysis and applies these tools to a wide
 variety of biological systems and disciplines.  |  

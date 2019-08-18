@@ -2,9 +2,8 @@ Concentrators are encouraged to participate in an experiential learning
 opportunity, such as those available with the [ Center for Interdisciplinary
 Research ](http://wp.stolaf.edu/cir/) .
 
-Code  |  Title  |  Credits  
----|---|---  
 Required Foundation  |  
+---|---  
 STAT 272  |  Statistical Modeling  |  1.00  
 STAT 316  |  Advanced Statistical Modeling  1  |  1.00  
 Select a prerequisite for the required foundation of the following:  2  |
@@ -101,9 +100,8 @@ disciplines.
 Note: For students considering graduate school in statistics or a closely
 related field, the following courses are recommended:
 
-Code  |  Title  |  Credits  
----|---|---  
 MATH 126  |  Calculus II  |  1.00  
+---|---|---  
 or MATH 128  |  Honors Calculus II  
 MATH 220  |  Elementary Linear Algebra  |  1.00  
 MATH 226  |  Multivariable Calculus  |  1.00  

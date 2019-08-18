@@ -36,9 +36,8 @@ prerequisite and required courses to progress in the major. Details are
 specified in the program manual available from faculty or the department
 website.
 
-Code  |  Title  |  Credits  
----|---|---  
 Prerequisite Courses Required for the Major  |  
+---|---  
 SOAN 121  |  Introduction to Sociology  1  |  1.00  
 PSYCH 125  |  Principles of Psychology  |  1.00  
 PSYCH 241  |  Developmental Psychology  |  1.00  

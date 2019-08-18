@@ -19,9 +19,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -163,9 +162,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -287,9 +285,8 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive Graduation Requirements (General Education)  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -452,9 +449,8 @@ major-entrance-and-continuance-information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BA degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -600,9 +596,8 @@ requirements/)
   
 ######  Additional Music Courses for Vocal
 
-Code  |  Title  |  Credits  
----|---|---  
 EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
+---|---|---  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 Select one of the following options:  |  .25  
   
@@ -639,9 +634,8 @@ Total Credits  |  2
   
 ####  Additional Music Courses for Instrumental
 
-Code  |  Title  |  Credits  
----|---|---  
 EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
+---|---|---  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 MUSIC 221  |  Instrumental Literature and Arranging  |  0.5  
 MUSIC 166  |  Brass Techniques (0.25)  |  0.25  
@@ -686,9 +680,8 @@ information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -812,9 +805,8 @@ requirements/)
   
 ######  Additional Music Courses for Voice
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 263  |  Lyric Diction I (0.25)  |  0.25  
+---|---|---  
 MUSIC 264  |  Lyric Diction II (0.25)  |  0.25  
 MUSIC 281  |  Vocal Solo Literature I (0.25)  |  0.25  
 MUSIC 282  |  Vocal Solo Literature II (0.25)  |  0.25  
@@ -824,36 +816,32 @@ Total Credits  |  3
   
 ####  Additional Music Courses for String
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 368  |  |  0.5  
+---|---|---  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
 Music electives: 2.0 courses  |  2  
 Total Credits  |  3  
   
 ####  Additional Music Courses for Piano
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 283  |  Piano Literature (0.50)  |  0.5  
+---|---|---  
 MUSIC 361  |  Piano Pedagogy (0.50)  |  0.5  
 Music electives: 2.0 courses  |  2  
 Total Credits  |  3  
   
 ####  Additional Music Courses for Winds, Brass, Percussion
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 298  |  Independent Study (Pedagogy and Literature)  |  1  
+---|---|---  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
 Music electives: 1.5 courses  |  1.5  
 Total Credits  |  3  
   
 ####  Additional Music Courses for Organ
 
-Code  |  Title  |  Credits  
----|---|---  
 MUSIC 298  |  Independent Study ((Pedagogy and Literature))  |  1  
+---|---|---  
 Music electives: 2.0 courses  |  2  
 Total Credits  |  3  
   
@@ -865,9 +853,8 @@ piano only)
 This emphasis can be added only to a BM Performance major in organ or piano or
 a BM Church Music-Organ major.
 
-Code  |  Title  |  Credits  
----|---|---  
 Additional Music Courses  |  
+---|---  
 Collaborative Keyboard:  |  
 MUSIC 281  |  Vocal Solo Literature I (0.25)  |  0.25  
 MUSIC 282  |  Vocal Solo Literature II (0.25)  |  0.25  
@@ -957,9 +944,8 @@ information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -1130,9 +1116,8 @@ information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -1290,9 +1275,8 @@ major-entrance-and-continuance-information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -1444,9 +1428,8 @@ information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  
@@ -1633,9 +1616,8 @@ requirements/) .
   
 ######  Additional Music Courses for Vocal
 
-Code  |  Title  |  Credits  
----|---|---  
 EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
+---|---|---  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 or MUSIC 354  |  Advanced Conducting (0.50)  
@@ -1674,9 +1656,8 @@ Total Credits  |  2.5
   
 ######  Additional Music Courses for Instrumental
 
-Code  |  Title  |  Credits  
----|---|---  
 EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
+---|---|---  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
 or MUSIC 354  |  Advanced Conducting (0.50)  
@@ -1725,9 +1706,8 @@ information/)
 
 ######  Degree Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 General Education  |  
+---|---  
 Comprehensive graduation requirements for all BM degrees  1  |  
 Core Music Courses  |  
 MUSIC 112  |  Theory and Aural Skills I  |  1  

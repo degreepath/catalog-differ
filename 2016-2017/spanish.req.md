@@ -1,8 +1,7 @@
 ##  Requirements for a Graduation Major
 
-Code  |  Title  |  Credits  
----|---|---  
 SPAN 250  |  Gateway to the Spanish-Speaking World  |  1.00  
+---|---|---  
 SPAN 275  |  Exploring Hispanic Literature  |  1.00  
 SPAN 276  |  Spanish as a First and Second Language  |  1.00  
 SPAN 313  |  Literature and Society in Spain  |  1.00  
@@ -25,9 +24,8 @@ not be counted in lieu of any of the courses referred to above.
 
 ##  Requirements for a Spanish Major with K-12 Teaching Licensure
 
-Code  |  Title  |  Credits  
----|---|---  
 SPAN 250  |  Gateway to the Spanish-Speaking World  |  1.00  
+---|---|---  
 SPAN 275  |  Exploring Hispanic Literature  |  1.00  
 SPAN 276  |  Spanish as a First and Second Language  |  1.00  
 SPAN 313  |  Literature and Society in Spain  1  |  1.00  

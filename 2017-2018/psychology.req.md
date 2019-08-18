@@ -6,9 +6,8 @@ The requirements fall into five categories: foundation courses in the major,
 content core courses, level III capstone courses, elective courses in the
 department, and a general education requirement for the major.
 
-Code  |  Title  |  Credits  
----|---|---  
 Foundation Courses in the Major  |  
+---|---  
 PSYCH 125  |  Principles of Psychology  |  1.00  
 PSYCH 230  |  Research Methods in Psychology  |  1.00  
 Content Core of the Major  |  

@@ -1,8 +1,7 @@
 History majors are required to take nine courses distributed as shown below
 
-Code  |  Title  |  Credits  
----|---|---  
 One course (at any level) in each world geographical region:  |  3.00  
+---|---  
   
 Category 1: Africa, Asia, and Latin America
 
@@ -46,9 +45,8 @@ Requirements: 6 courses (5 credits) total, in conjunction with history major
 requirements. All courses referenced below count toward both the major and the
 area of emphasis):
 
-Code  |  Title  |  Credits  
----|---|---  
 HIST 280  |  Intro to Public History  |  1.00  
+---|---|---  
 HIST 294  |  Academic Internship  |  0.50  
 HIST 296  |  History Internship Reflection (0.5) (HIST 294 as prerequisite or
 enrolled concurrently)  |  0.50  

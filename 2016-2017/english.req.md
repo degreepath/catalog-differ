@@ -1,8 +1,7 @@
 ##  Requirements for the Graduation Major
 
-Code  |  Title  |  Credits  
----|---|---  
 Level I  |  1.00  
+---|---  
   
 ENGL 185
 
@@ -244,9 +243,8 @@ literature course.
 ##  Requirements for the Graduation Major Plus Communication Arts/Literature
 (CAL) Teaching Licensure
 
-Code  |  Title  |  Credits  
----|---|---  
 English courses  |  
+---|---  
 ENGL 150  |  The Craft of Creative Writing  |  1.00  
 ENGL 185  |  Literary Studies  |  1.00  
 ENGL 205  |  American Racial and Multicultural Literatures  |  1.00  

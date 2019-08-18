@@ -4,10 +4,9 @@
 
 The graduation major in German consists of a minimum of eight (8) courses*:
 
-Code  |  Title  |  Credits  
----|---|---  
 Two 250-level courses, at least one of which must be taught by a St. Olaf
 instructor  |  2.00  
+---|---  
 Two 270-level courses, at least one of which must be taught by a St. Olaf
 instructor  |  2.00  
 One 300-level course, which must be taken on campus with a St. Olaf instructor
@@ -40,10 +39,9 @@ students)
 
 The German studies concentration consists of a minimum of five (5) courses*:
 
-Code  |  Title  |  Credits  
----|---|---  
 Three (3) courses at the level of German 232 and above, at least two of which
 must be taught by a St. Olaf instructor  |  3.00  
+---|---  
 Two (2) additional courses relevant to German studies (arts, culture,
 economics, history, politics, etc.) taken at St. Olaf or abroad, in German or
 English  |  2.00  
@@ -67,9 +65,8 @@ through the Class of 2021)
 The German studies concentration consists of a minimum of five courses* with
 cultural content from one or more German-speaking countries:
 
-Code  |  Title  |  Credits  
----|---|---  
 Two courses must be in German at the level of 232 or above  |  2.00  
+---|---  
 Three courses taken in either the German or English language and chosen from
 offerings in the St. Olaf German department as well as other departments,
 including art history, history, music, political science, philosophy, and
@@ -95,18 +92,16 @@ German Department.
 
 ###  German Department courses taught in English
 
-Code  |  Title  |  Credits  
----|---|---  
 GERM 147  |  Fairy Tales and Folklore (in English)  |  1.00  
+---|---|---  
 GERM 249  |  German Cinema (in English)  |  1.00  
 GERM 263  |  Topics in German Arts (in English)  |  1.00  
   
 ###  Recent examples of courses outside the department (with major focus on
 German cultural content)
 
-Code  |  Title  |  Credits  
----|---|---  
 ART 252  |  Art 1880-1945 "The Shock of the New"  |  1.00  
+---|---|---  
 EDUC 346  |  Who is My Neighbor? Ethics of Refugee and Immigrant Education  |
 1.00  
 GCON 218  |  The Tradition in Crisis: Dissenters and Defenders  |  1.00  

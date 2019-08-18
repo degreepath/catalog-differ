@@ -7,9 +7,8 @@ of one calculus course.
 
 ##  Major Requirements
 
-Code  |  Title  |  Credits  
----|---|---  
 Biology courses (explained in more detail below this table)  |  
+---|---  
 Foundation course  |  
 At least one course from each of four core categories  |  
 At least one level III biology course  |  
@@ -95,9 +94,8 @@ exceptions:
 In addition to courses designated as biology, the St. Olaf courses in the
 table below can count as biology electives:
 
-Code  |  Title  |  Credits  
----|---|---  
 CHEM 379  |  Biochemistry I  |  1.00  
+---|---|---  
 NEURO 239  |  Cellular and Molecular Neuroscience  |  1.00  
 PSYCH 238  |  Biopsychology  |  1.00  
 ENVST 281  |  Topics in Environmental Studies (when topic includes appropriate

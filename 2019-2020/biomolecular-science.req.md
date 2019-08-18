@@ -1,6 +1,5 @@
-Code  |  Title  |  Credits  
----|---|---  
 The following core courses must be completed:  |  
+---|---  
 BIO 150  |  Evolutionary Foundations of Biodiversity  |  1.00  
 BIO 227  |  Cell Biology  1  |  1.00  
 BIO 233  |  Intermediate Genetics  |  1.00  

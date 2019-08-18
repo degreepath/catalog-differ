@@ -2,9 +2,8 @@
 
 ###  Requirements for the Major
 
-Code  |  Title  |  Credits  
----|---|---  
 ENVST 137  |  Introduction to Environmental Studies  |  1.00  
+---|---|---  
 ENVST 237  |  Integration and Application in Environmental Studies  |  1.00  
 ENVST 399  |  Seminar in Environmental Studies  |  1.00  
 Nine courses in areas of emphasis:  |  9.00  
@@ -28,9 +27,8 @@ additional major in biology or chemistry. Nine courses are required in
 addition to the introductory, integration/application, and capstone courses
 specified above:
 
-Code  |  Title  |  Credits  
----|---|---  
 Three courses from outside your area of emphasis.  |  
+---|---  
 Select one or two social sciences courses from the following:  |  1.50  
   
 ES/PS 201
@@ -273,9 +271,8 @@ the environmental field. In addition to the introductory,
 integrative/application and capstone courses (specified above), students
 select nine additional courses from the following groups:
 
-Code  |  Title  |  Credits  
----|---|---  
 Select three courses from outside your area of emphasis.  1  |  
+---|---  
 Select one or two natural science courses of the following:  |  1.50  
   
 ENVST 123
@@ -546,9 +543,8 @@ explores the notion of nature as a cultural construct. This area of emphasis
 requires nine courses in addition to the introductory,
 integrative/application, and capstone courses.
 
-Code  |  Title  |  Credits  
----|---|---  
 Select three courses from outside your area of emphasis.  1  |  
+---|---  
 Select one or two natural science courses of the following:  |  1.50  
   
 ENVST 123
@@ -776,9 +772,8 @@ chair, a course may not count for more than one requirement in the
 concentration. Successful completion of at least 6 courses with a grade of C
 or better is required.
 
-Code  |  Title  |  Credits  
----|---|---  
 ENVST 137  |  Introduction to Environmental Studies  |  1.00  
+---|---|---  
 ENVST 237  |  Integration and Application in Environmental Studies  |  1.00  
 Select one natural science course of the following:  |  1.00  
   
