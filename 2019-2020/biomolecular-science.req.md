@@ -1,4 +1,4 @@
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 The following core courses must be completed:  |  
 BIO 150  |  Evolutionary Foundations of Biodiversity  |  1.00  

@@ -36,7 +36,7 @@ prerequisite and required courses to progress in the major. Details are
 specified in the program manual available from faculty or the department
 website.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Prerequisite Courses Required for the Major  |  
 SOAN 121  |  Introduction to Sociology  1  |  1.00  

@@ -1,4 +1,4 @@
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 SOAN 291  |  History of Sociological Theory  |  1.00  
 SOAN 292  |  Anthropological Theory  |  1.00  

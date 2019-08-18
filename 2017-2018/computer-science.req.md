@@ -5,7 +5,7 @@ to update the curriculum easily as the field of computer science evolves. Most
 contracts adhere to the guidelines below, which derive from prominent national
 recommendations for undergraduate computer science majors.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Foundation courses  |  
 CSCI 121  |  Principles of Computer Science  |  1.00  

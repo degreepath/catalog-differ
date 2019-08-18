@@ -6,7 +6,7 @@ faculty member and approved by the department chair.
 
 A path through the major as described by a student's IMaP normally includes:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Calculus (two semesters)  |  2.00  
 Linear algebra (one semester)  |  1.00  
@@ -63,7 +63,7 @@ Mathematics majors who intend to teach grades 5-12 mathematics must meet all
 of the normal requirements for the major while including specific courses
 required for State of Minnesota licensure. Their IMaPs must include:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Basic requirements for all majors  |  
 MATH 232  |  Introduction to Mathematical Reasoning  |  1.00  

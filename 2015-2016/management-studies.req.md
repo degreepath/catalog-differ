@@ -32,7 +32,7 @@ MGMT 281  |  Corporate Finance  |  1.00
 MGMT 383  |  Management Policy and Strategy  |  1.00  
 Plus one approved course within your own major (see above link)  |  
   
-###  **Experiential Le** **arnin** **g**
+###  Experiential Learning
 
 This requirement is satisfied by completing two approved experiences in which
 the student applies management or financial principles to real world problems.

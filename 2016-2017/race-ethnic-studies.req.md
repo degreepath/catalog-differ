@@ -1,6 +1,6 @@
 ##  Requirements for the Major
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 RACE 121  |  Introduction to Race and Ethnic Studies  |  1.00  
 or RACE 122  |  Introduction to Race and Ethnic Studies  
@@ -23,7 +23,7 @@ another one from a department represented in the program.
 
 ##  Requirements for the Concentration
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 RACE 121  |  Introduction to Race and Ethnic Studies  |  1.00  
 or RACE 122  |  Introduction to Race and Ethnic Studies  

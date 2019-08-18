@@ -213,7 +213,7 @@ substitute either one of them for ART 153.
 A maximum of two courses in art history taken in off-campus programs may, upon
 approval of the department, be applied to the major.  
   
-**Requirements for an Art History Major in effect through April 2014**
+Requirements for an Art History Major in effect through April 2014
 
 These major requirements are open only to students in the classes of 2016 and
 2017. These students must earn nine credits as follows:
@@ -287,7 +287,7 @@ ART 271
   
 ART 273
 
-|  Religion, Royalty  & Romantics: The Gothic and Gothic Revival  |  
+|  Religion, Royalty & Romantics: The Gothic and Gothic Revival  |  
   
 ART 277
 

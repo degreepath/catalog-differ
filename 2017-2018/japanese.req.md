@@ -1,6 +1,6 @@
 The Japanese major consists of nine courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Requirements  |  
 I. Core Language Courses  1  |  

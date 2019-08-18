@@ -1,6 +1,6 @@
 Students majoring in ancient studies must complete the following:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Fourth semester (or higher) of ancient Greek or Latin  |  1.00  
 One ancient history course  |  1.00  

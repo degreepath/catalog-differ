@@ -32,7 +32,7 @@ Level III seminar courses may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
+Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:
@@ -84,7 +84,7 @@ The two level III seminar courses in philosophy may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
+Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:

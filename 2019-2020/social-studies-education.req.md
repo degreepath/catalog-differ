@@ -12,7 +12,7 @@ either taken off-campus with non St. Olaf faculty or transferred from other
 institutions may be included in the major. Not more than one course graded S/U
 may count toward the major.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 HIST 191  |  Europe from the Reformation to Modern Times  |  1.00  
 HIST 199  |  American History Since 1865  |  1.00  

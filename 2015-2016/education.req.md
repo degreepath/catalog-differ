@@ -409,6 +409,6 @@ Counts as Human Relations requirement
 ---|---  
 2  |
 
-**Their baccalaureate degree from St. Olaf must be completed in advance.** See
-the Education Department or the registrar for guidelines.
+Their baccalaureate degree from St. Olaf must be completed in advance. See the
+Education Department or the registrar for guidelines.
 

@@ -7,7 +7,7 @@ Students with AP, IB, PSEO, or significant college-level experience in physics
 may seek advanced placement - to start in a course beyond PHYS 130 - by
 consulting with the department chair.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 PHYS 130  |  Analytical Physics I  |  1.00  
 PHYS 131  |  Analytical Physics II  |  1.00  
@@ -43,14 +43,14 @@ in their areas of interest.
 
 Specific recommendations by field of study:
 
-**Physics:** To prepare for graduate study in physics, students are advised to
+Physics: To prepare for graduate study in physics, students are advised to
 take Quantum Mechanics (PHYS 376) and Statistical Physics (PHYS 379) and to
 consider additional physics electives or math courses such as complex
 analysis, abstract algebra, probability, statistics, numerical analysis, and
 real analysis. For example, Electronics (PHYS 246) develops skills that are
 useful in many experimental research settings.
 
-**Materials Science:** To prepare for graduate study in materials science,
+Materials Science: To prepare for graduate study in materials science,
 students are advised to take Quantum Mechanics (PHYS 376). In addition,
 students should consider Materials Engineering and Nanoscience (PHYS 362)
 and/or Statistical Physics (PHYS 379) and/or additional physics electives or
@@ -59,13 +59,13 @@ statistics, numerical analysis, and real analysis. For example, Electronics
 (PHYS 246) develops skills that are useful in many experimental research
 settings.
 
-**Civil Engineering:** To prepare for graduate study in civil engineering,
+Civil Engineering: To prepare for graduate study in civil engineering,
 students are advised to consider Engineering Design Practicum (PHYS 360),
 Materials Engineering and Nanoscience (PHYS 362), Electronics (PHYS 246)
 and/or other physics electives, along with appropriate courses in chemistry,
 mathematics, and computer science.
 
-**Electrical Engineering:** To prepare for graduate study in electrical
+Electrical Engineering: To prepare for graduate study in electrical
 engineering, students are advised to take Quantum Mechanics (PHYS 376) and
 Electronics (PHYS 246) and are strongly encouraged to take Statistical Physics
 (PHYS 379). Students should also consider Engineering Design Practicum (PHYS
@@ -73,7 +73,7 @@ Electronics (PHYS 246) and are strongly encouraged to take Statistical Physics
 electives, along with appropriate courses in chemistry, mathematics, and
 computer science.
 
-**Mechanical Engineering:** To prepare for graduate study in mechanical
+Mechanical Engineering: To prepare for graduate study in mechanical
 engineering, students are advised to consider Engineering Design Practicum
 (PHYS 360), Materials Engineering and Nanoscience (PHYS 362), Electronics
 (PHYS 246) and/or other physics electives, along with appropriate courses in
@@ -81,7 +81,7 @@ chemistry, mathematics, and computer science. Quantum Mechanics (PHYS 376) is
 strongly encouraged for students interested in nanoscale technology and
 engineering.
 
-**Other engineering fields:** There are many fields within engineering, both
+Other engineering fields: There are many fields within engineering, both
 within and outside the broad areas of civil, electrical, and mechanical
 engineering. These include acoustical engineering, aerospace engineering,
 biomedical engineering, and geotechnical engineering, to name a few.

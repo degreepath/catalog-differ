@@ -1,7 +1,7 @@
 The film studies concentration consists of five courses, at least three at
 level II or III, including:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 FILM 101  |  Introduction to Film Studies  |  1.00  
 Studies in the history, theory or cultural meaning of film  |  
@@ -38,7 +38,7 @@ consult the program director.
 
 ###  History, Theory, or Cultural Meaning of Film Courses
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ENGL 275  |  Literature and Film  |  1.00  
 GERM 249  |  German Cinema (in English)  |  1.00  
@@ -48,7 +48,7 @@ RUSSN 265  |  Introduction to Russian and Soviet Film (in English translation)
   
 ###  Practical Film Studies Courses
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 104  |  Foundation New Media  |  1.00  
 ART 228  |  Animated Art  |  1.00  
@@ -60,7 +60,7 @@ THEAT 275  |  Writing for Performance  |  1.00
   
 ###  Integrative Film Studies Courses
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ASIAN 156  |  Contemporary China Through Film (in English translation)  |
 1.00  

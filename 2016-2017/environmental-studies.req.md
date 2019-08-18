@@ -2,7 +2,7 @@
 
 ###  Requirements for the Major
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ENVST 137  |  Introduction to Environmental Studies  |  1.00  
 Senior Capstone:  |  
@@ -29,7 +29,7 @@ planning careers in environmental science are strongly urged to consider an
 additional major in biology or chemistry. Ten courses are required in addition
 to the introductory and capstone courses specified above:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Select two social sciences courses of the following:  |  2.00  
   
@@ -254,7 +254,7 @@ the environmental field. In addition to the introductory and capstone courses
 (specified above), students select ten additional courses from the following
 groups:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Select two natural science courses of the following:  1  |  2.00  
   
@@ -507,7 +507,7 @@ this requirement.
 The arts and humanities area of emphasis requires ten courses in addition to
 the introductory and capstone courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Select two natural science courses of the following:  1  |  2.00  
   
@@ -707,7 +707,7 @@ Unless permission is granted by the chair, a course may not count for more
 than one requirement in the concentration. Successful completion of at least 6
 courses with a grade of C or better is required.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ENVST 137  |  Introduction to Environmental Studies  |  1.00  
 Select one natural science course of the following:  |  1.00  

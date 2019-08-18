@@ -19,7 +19,7 @@ all four course selections.
 
 ##  Career Portfolio
 
-**Experiential Learning**
+Experiential Learning
 
 Students must participate in at least one significant experience that provides
 immersion in the biomedical field(s) being considered. This requirement may be
@@ -28,7 +28,7 @@ an experience (paid or unpaid) that is not for credit. In order to select the
 best option(s) for this requirement, students should consult with the program
 director upon initiation of the concentration.
 
-**Career Research Activities**
+Career Research Activities
 
 Please note that the biomedical studies concentration also consists of non-
 course requirements, including participation in some ( [ Piper Center for
@@ -38,7 +38,7 @@ professionals, and career research. Details are available at the [ biomedical
 studies requirements ](http://wp.stolaf.edu/biomed/biomedical-studies-
 concentration-requirements/) web page.
 
-**Senior Capstone**
+Senior Capstone
 
 Students must write a one-page review of how their work in the biomedical
 studies concentration has helped formulate next steps for after graduation

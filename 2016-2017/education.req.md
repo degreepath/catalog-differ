@@ -8,7 +8,7 @@ to be awarded.
 
 ###  Licensure Track
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Concentration Core Courses  |  2.5  
   
@@ -96,7 +96,7 @@ Total Credits  |  5.5
   
 ###  Non-licensure Track
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Concentration Core Courses  |  2.50  
   
@@ -184,7 +184,7 @@ Total Credits  |  5.5
   
 ###  TEFL Certificate Track
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core Courses  |  2.50  
   
@@ -287,7 +287,7 @@ Department faculty for further information and clarification.
 
     * Obtain approval of teacher education application 
 
-    * Earn a **B-** or better in EDUC 290 
+    * Earn a B- or better in EDUC 290 
 
     * Receive rating of "Basic" or better on Disposition Assessments on Field Experience Evaluations 
 
@@ -302,7 +302,7 @@ Department faculty for further information and clarification.
   2. Candidate to Student Teacher: 
     * Maintain a minimum overall and content area GPA of 3.0 
 
-    * Earn a **B-** or better in all education courses 
+    * Earn a B- or better in all education courses 
 
     * Receive rating of "Basic" or better on all Disposition Assesments and Field Experience Evaluations 
 
@@ -321,7 +321,7 @@ Department faculty for further information and clarification.
     * Take all Pedagogy and Content tests 
 
   3. Student Teacher to Minnesota teaching license: 
-    * Earn a **B-** or better in all education courses 
+    * Earn a B- or better in all education courses 
 
     * Receive rating of "Basic" or better on all Disposition Assessments and Field Experience Evaluations 
 
@@ -354,7 +354,7 @@ this link on the Education Department website: [
 http://wp.stolaf.edu/education/licenses/
 ](http://wp.stolaf.edu/education/licenses/)
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 First Year  |  
 EDUC 170  |  Urban Schools and Communities (off-campus) (recommended elective
@@ -423,6 +423,6 @@ Does not count as EDUC interim requirement for licensure
 ---|---  
 2  |
 
-**Their baccalaureate degree from St. Olaf must be completed in advance.** See
-the Education Department or the registrar for guidelines.
+Their baccalaureate degree from St. Olaf must be completed in advance. See the
+Education Department or the registrar for guidelines.
 

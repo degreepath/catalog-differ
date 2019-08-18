@@ -2,7 +2,7 @@
 
 A major in women's and gender studies consists of nine credits:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 WMGST 121  |  Introduction to Women's and Gender Studies  |  1.00  
 WMGST 399  |  Advanced Topics in Women's and Gender Studies (to be taken in
@@ -45,7 +45,7 @@ This process requires a completed contract..
 Majors who entered St. Olaf College before the fall of 2012 may opt to follow
 the requirements for the women's studies major, which are:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 WMGST 121  |  Introduction to Women's and Gender Studies  |  1.00  
 WMGST 399  |  Advanced Topics in Women's and Gender Studies (to be taken in
@@ -81,7 +81,7 @@ Many students enhance their work in a major through an interdisciplinary focus
 on women and gender. A concentration in women’s and gender studies consists
 of:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 WMGST 121  |  Introduction to Women's and Gender Studies  |  1.00  
 Four additional courses, three of which must be at level II or III, and they

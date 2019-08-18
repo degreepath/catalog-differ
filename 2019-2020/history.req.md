@@ -1,7 +1,6 @@
-History majors are required to take **nine courses distributed as shown
-below**
+History majors are required to take nine courses distributed as shown below
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 One course (at any level) in each world geographical region:  |  3.00  
   
@@ -21,8 +20,8 @@ Three Level III seminars  |  3.00
 Two additional courses  |  2.00  
 Total Credits  |  9  
   
-Students may count one St. Olaf course taken outside of the department ****
-toward the major, by application or by successfully completing a course on the
+Students may count one St. Olaf course taken outside of the department toward
+the major, by application or by successfully completing a course on the
 department's pre-approved list. Please see the department website for courses
 and conversations programs that have been pre-approved.
 
@@ -47,7 +46,7 @@ Requirements: 6 courses (5 credits) total, in conjunction with history major
 requirements. All courses referenced below count toward both the major and the
 area of emphasis):
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 HIST 280  |  Intro to Public History  |  1.00  
 HIST 294  |  Academic Internship  |  0.50  

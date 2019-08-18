@@ -1,4 +1,4 @@
-**S/U Policy** : No required course in the major can be taken S/U.
+S/U Policy: No required course in the major can be taken S/U.
 
 Music majors who study off-campus may petition the vice-chair of the
 department for approval of a maximum of two (2) courses, plus performance
@@ -19,7 +19,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -163,7 +163,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -287,7 +287,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -410,7 +410,7 @@ See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/)  
   
-##  ** ** BA with Teaching Credential
+##  BA with Teaching Credential
 
 Please see [ Overview of St. Olaf's Teacher Education Program
 ](/archive/2016-2017/academic-programs/education/) and [ General Requirements
@@ -448,11 +448,11 @@ major-entrance-and-continuance-information/)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BA degrees  1  |  
@@ -600,7 +600,7 @@ requirements/)
   
 ######  Additional Music Courses for Vocal
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
@@ -639,7 +639,7 @@ Total Credits  |  2
   
 ####  Additional Music Courses for Instrumental
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
@@ -654,7 +654,7 @@ Total Credits  |  2.75
   
 ###  Bachelor of Music Degree
 
-##  ** BM in Performance **
+##  BM in Performance
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMPerf13.pdf)
 
@@ -682,11 +682,11 @@ See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Performance program_
+  * students not approved for continuance are no longer in the BM Performance program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -812,7 +812,7 @@ requirements/)
   
 ######  Additional Music Courses for Voice
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 263  |  Lyric Diction I (0.25)  |  0.25  
 MUSIC 264  |  Lyric Diction II (0.25)  |  0.25  
@@ -824,7 +824,7 @@ Total Credits  |  3
   
 ####  Additional Music Courses for String
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 368  |  |  0.5  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
@@ -833,7 +833,7 @@ Total Credits  |  3
   
 ####  Additional Music Courses for Piano
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 283  |  Piano Literature (0.50)  |  0.5  
 MUSIC 361  |  Piano Pedagogy (0.50)  |  0.5  
@@ -842,7 +842,7 @@ Total Credits  |  3
   
 ####  Additional Music Courses for Winds, Brass, Percussion
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 298  |  Independent Study (Pedagogy and Literature)  |  1  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
@@ -851,7 +851,7 @@ Total Credits  |  3
   
 ####  Additional Music Courses for Organ
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 298  |  Independent Study ((Pedagogy and Literature))  |  1  
 Music electives: 2.0 courses  |  2  
@@ -865,7 +865,7 @@ piano only)
 This emphasis can be added only to a BM Performance major in organ or piano or
 a BM Church Music-Organ major.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Additional Music Courses  |  
 Collaborative Keyboard:  |  
@@ -918,7 +918,7 @@ Performance Studies: Principal  |
 minimum semesters full credit solo lessons)  |  1  
 Total Credits  |  3  
   
-###  **Bachelor of Music in Church Music**
+###  Bachelor of Music in Church Music
 
 ##  BM in Church Music, Choral Emphasis
 
@@ -953,11 +953,11 @@ See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during Junior year, fall semester 
-  * _students not approved for continuance are no longer in the BM Church Music program_
+  * students not approved for continuance are no longer in the BM Church Music program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1126,11 +1126,11 @@ See See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Church Music program_
+  * students not approved for continuance are no longer in the BM Church Music program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1259,7 +1259,7 @@ See [ Performance Requirements for Music Majors
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) .  
   
-##  ** BM in Theory-Composition **
+##  BM in Theory-Composition
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMTheoryComp13.pdf)
 
@@ -1286,11 +1286,11 @@ See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
 major-entrance-and-continuance-information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Theory-Composition program_
+  * students not approved for continuance are no longer in the BM Theory-Composition program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1440,11 +1440,11 @@ information/)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1633,7 +1633,7 @@ requirements/) .
   
 ######  Additional Music Courses for Vocal
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 EDUC 358  |  Teaching of Vocal Music in the Secondary School (0.50)  |  0.5  
 MUSIC 252  |  Choral Conducting (0.50)  |  0.5  
@@ -1674,7 +1674,7 @@ Total Credits  |  2.5
   
 ######  Additional Music Courses for Instrumental
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 EDUC 359  |  Teaching of Instrumental Music (0.50)  |  0.5  
 MUSIC 253  |  Instrumental Conducting (0.50)  |  0.5  
@@ -1689,7 +1689,7 @@ MUSIC 164  |  Voice Class (0.25) (or one semester of vocal performance study)
 |  0.25  
 Total Credits  |  3.25  
   
-##  ** BM with Elective Studies **
+##  BM with Elective Studies
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMElective131.pdf)
 
@@ -1721,11 +1721,11 @@ information/)
 information/)
 
   * at the end of third semester in the program, not later than Junior year, spring semester 
-  * _students not approved for continuance are no longer in the BM Elective Studies program_
+  * students not approved for continuance are no longer in the BM Elective Studies program 
 
 ######  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  

@@ -1,4 +1,4 @@
-**S/U Policy** : No required course in the major can be taken S/U.
+S/U Policy: No required course in the major can be taken S/U.
 
 Music majors who study off-campus may petition the chair of the department for
 approval of a maximum of two (2) courses, plus performance studies.
@@ -19,7 +19,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -95,7 +95,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -142,7 +142,7 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) .  
   
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Composition Emphasis  |  
 MUSIC 225  |  Music in the Electronic Medium  |  1  
@@ -156,7 +156,7 @@ at least 3 compositions previously submitted for Level III composition courses
 to the Music Office by May 1 of the senior year.  |  
 Total Credits  |  3  
   
-##  **B.A. with Musicology Emphasis (beginning fall 2017)**
+##  B.A. with Musicology Emphasis (beginning fall 2017)
 
 [ Worksheet
 ](https://wp.stolaf.edu/music/files/2017/02/BAMusicMusicologyEmph0217.pdf)
@@ -177,7 +177,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -224,7 +224,7 @@ Music-Majors.pdf)
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) [
 . ](http://wp.stolaf.edu/music/recital-attendance-requirements/)  
   
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Musicology Emphasis  |  
 Two additional 34x musicology courses  |  2  
@@ -273,7 +273,7 @@ See [ Music Admissions and Scholarship Information
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive Graduation Requirements (General Education)  1  |  
@@ -319,7 +319,7 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) .  
   
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Theory Emphasis  |  
 MUSIC 312  |  Counterpoint  |  1.00  
@@ -332,9 +332,9 @@ Office by May 1 of the senior year. One of these must be revised with faculty
 supervision to demonstrate the student's best workin music analysis.  |  
 Total Credits  |  3  
   
-##  Bachelor of Music Degree ** **
+##  Bachelor of Music Degree
 
-##  ** B.M. in Performance (beginning fall 2017) **
+##  B.M. in Performance (beginning fall 2017)
 
 Worksheets: [ Brass, Woodwind, Percussion
 ](https://wp.stolaf.edu/music/files/2017/02/BMPerfBrassWWPerc0217.pdf) ; [
@@ -367,11 +367,11 @@ See [ Music Major Continuance Information
 Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Performance program_
+  * students not approved for continuance are no longer in the BM Performance program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -423,7 +423,7 @@ See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/)
   
 #####  Additional Music Courses for Voice
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
@@ -467,7 +467,7 @@ student would then be required to add 1.0 credits to the major for a total of
   
 #####  Additional Music Courses for Strings
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
@@ -490,7 +490,7 @@ additional music electives.
   
 #####  Additional Music Courses for Piano
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 270  |  Advanced Keyboard Skills (minimum grade of B-)  |  0.25  
 MUSIC 283  |  Piano Literature (0.50)  |  0.5  
@@ -501,7 +501,7 @@ Total Credits  |  4
   
 #####  Additional Music Courses for Winds, Brass, Percussion
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 161  |  Piano Class I (0.25) (minimum grade of B-)  1  |  0.25  
 MUSIC 162  |  Piano Class II (0.25) (minimum grade of B-)  1  |  0.25  
@@ -523,7 +523,7 @@ additional music electives.
   
 #####  Additional Music Courses for Organ
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MUSIC 270  |  Advanced Keyboard Skills (minimum grade of B-)  |  0.25  
 MUSIC 293  |  Keyboard Pedagogy (0.50)  |  0.50  
@@ -540,7 +540,7 @@ Collaborative Keyboard
 
 This emphasis can be added only to a B.M. Performance major in organ or piano.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Additional Music Courses  |  
 MUSIC 275  |  Instrumental Chamber Music (0.25) (2 semesters)  |  0.5  
@@ -586,7 +586,7 @@ MUSPF 106 Additional semester of collaborative keyboard performance study
 |  
 Total Credits  |  3  
   
-##  **B.M. in Church Music - Choral (beginning fall 2017)**
+##  B.M. in Church Music - Choral (beginning fall 2017)
 
 [ Worksheet
 ](https://wp.stolaf.edu/music/files/2017/02/BMChurchChoral0217.pdf)
@@ -622,11 +622,11 @@ See [ Music Major Continuance Information
 Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally during Junior year, fall semester 
-  * _students not approved for continuance are no longer in the B.M. Church Music program_
+  * students not approved for continuance are no longer in the B.M. Church Music program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -686,7 +686,7 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) .  
   
-##  **B.M. in Church Music - Organ (beginning fall 2017)**
+##  B.M. in Church Music - Organ (beginning fall 2017)
 
 [ Worksheet
 ](https://wp.stolaf.edu/music/files/2017/02/BMChurchOrgan0217-1.pdf)
@@ -722,11 +722,11 @@ See See [ Music Major Continuance Information
 Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Church Music program_
+  * students not approved for continuance are no longer in the BM Church Music program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -792,7 +792,7 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) .  
   
-##  ** B.M. in Composition (beginning fall 2017) **
+##  B.M. in Composition (beginning fall 2017)
 
 [ Worksheet ](https://wp.stolaf.edu/music/files/2017/02/BMComposition0217.pdf)
 
@@ -821,11 +821,11 @@ See [ Continuance Information
 Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Composition program_
+  * students not approved for continuance are no longer in the BM Composition program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -941,11 +941,11 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1094,11 +1094,11 @@ Continuance-in-the-Bachelor-of-Music-Major-1-1.pdf)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  
@@ -1205,7 +1205,7 @@ Music-Majors.pdf)
 
 See [ music handbook ](https://wp.stolaf.edu/music/music-students-handbook/) .  
   
-##  ** B.M. with Elective Studies (beginning fall 2017) **
+##  B.M. with Elective Studies (beginning fall 2017)
 
 [ Worksheet
 ](https://wp.stolaf.edu/music/files/2017/02/BMElectiveStudies0217.pdf)
@@ -1238,11 +1238,11 @@ Entrance-to-All-Music-Majors-1.pdf)
 Entrance-to-All-Music-Majors-1.pdf)
 
   * at the end of third semester in the program, not later than Junior year, spring semester 
-  * _students not approved for continuance are no longer in the BM Elective Studies program_
+  * students not approved for continuance are no longer in the BM Elective Studies program 
 
 #####  Degree Requirements
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General Education  |  
 Comprehensive graduation requirements for all BM degrees  1  |  

@@ -1,7 +1,7 @@
 The statistics and data science concentration consists of a minimum of four
 (4) courses, as follows:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Required Core Courses:  |  
 STAT 272  |  Statistical Modeling  |  1.00  
@@ -97,7 +97,7 @@ disciplines.
 Note: For students considering graduate school in statistics or a closely
 related field, the following courses are recommended:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MATH 126  |  Calculus II  |  1.00  
 or MATH 128  |  Honors Calculus II  
@@ -136,7 +136,7 @@ disciplines.
 Note: For students considering graduate school in statistics or a closely
 related field, the following courses are recommended:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 MATH 126  |  Calculus II  |  1.00  
 or MATH 128  |  Honors Calculus II  

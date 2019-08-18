@@ -15,7 +15,7 @@ course and an approved course from another department on campus (see Courses
 tab for list of approved electives) or a study abroad program. Students must
 earn a grade of C or better in all five courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core Courses  |  
 ECON 121  |  Principles of Economics  |  1.00  
@@ -34,7 +34,7 @@ MGMT 383  |  Management Policy and Strategy  |  1.00
 Plus one approved course outside of Economics and Management Studies (see
 above link)  |  
   
-###  **Experiential Le** **arnin** **g**
+###  Experiential Learning
 
 This requirement is satisfied by completing two approved experiences in which
 the student applies management or financial principles to real world problems.

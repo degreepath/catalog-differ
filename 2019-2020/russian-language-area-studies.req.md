@@ -1,6 +1,6 @@
 ##  Requirements for the Major in Russian Language
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 RUSSN 111  |  Beginning Russian I  |  1.00  
 RUSSN 112  |  Beginning Russian II  |  1.00  
@@ -15,7 +15,7 @@ Total Credits  |  9
   
 ##  Requirements for the Major in Russian Area Studies
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Russian language courses  1  |  
 RUSSN 111  |  Beginning Russian I  |  1.00  

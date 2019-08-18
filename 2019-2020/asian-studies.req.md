@@ -2,7 +2,7 @@
 
 For the Asian studies major, a student must complete 9 courses (9 credits):
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Two courses in Chinese or Japanese above 112 or its equivalent  |  2.00  
 Senior Seminar:  |  
@@ -30,7 +30,7 @@ Total Credits  |  9
 Students who fulfill the language requirement through proficiency testing in
 an Asian language must take 8 courses (8 credits):
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Senior Seminar:  |  
 ASIAN 399  |  Seminar for Asian Studies Majors  |  1.00  
@@ -83,7 +83,7 @@ An Asian studies concentration consists of six courses focused on Asia:
 
 ###  China Studies Concentration
 
-_Available only to students entering before fall 2017 (classes of 2017-2020)_
+Available only to students entering before fall 2017 (classes of 2017-2020)
 
 A China studies concentration consists of six courses:
 
@@ -93,7 +93,7 @@ A China studies concentration consists of six courses:
 
 ###  Japan Studies Concentration
 
-_Available only to students entering before fall 2017 (classes of 2017-2020)_
+Available only to students entering before fall 2017 (classes of 2017-2020)
 
 A Japan studies concentration consists of six courses:
 

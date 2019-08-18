@@ -45,14 +45,14 @@ and Integrated Chem/Bio II: Thermodynamics and Kinetics with Bio Relevance  |
   
 ###  Foundation Course
 
-The biology major begins with BIO 150 _._ This course explores the
-evolutionary and genetic foundations of life's biodiversity, and establishes
-the laboratory and scientific communication skills upon which subsequent
-courses build. AP or IB credit does not provide the equivalent of this
-foundation course; students with AP or IB credit instead receive one 100-level
-elective credit in the major. Students planning to major in biology should
-take this foundation course first; students who decide to switch to a biology
-major should take this foundation course at the time of deciding their major.
+The biology major begins with BIO 150. This course explores the evolutionary
+and genetic foundations of life's biodiversity, and establishes the laboratory
+and scientific communication skills upon which subsequent courses build. AP or
+IB credit does not provide the equivalent of this foundation course; students
+with AP or IB credit instead receive one 100-level elective credit in the
+major. Students planning to major in biology should take this foundation
+course first; students who decide to switch to a biology major should take
+this foundation course at the time of deciding their major.
 
 ###  Core Categories
 
@@ -62,12 +62,12 @@ organization, students may take their upper-level biology courses in any order
 providing that prerequisites are met. Please consult the course descriptions
 to see the prerequisites for each course.
 
-  1. **Genetics.** Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Through a course in this category, students will explore gene structure, inheritance, and expression. Through genetics, students discover the ways in which the field of genetics is interdisciplinary, research-based, and relevant to the world today. **** Course: BIO 233 
+  1. Genetics. Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Through a course in this category, students will explore gene structure, inheritance, and expression. Through genetics, students discover the ways in which the field of genetics is interdisciplinary, research-based, and relevant to the world today. Course: BIO 233 
 
-  2. **Cell Biology.** Cells are the basic units of life, and understanding the structure and function of cells, and how they are studied, is central to understanding modern biology. Through a course in this category, students will obtain a comprehensive overview of cellular structure and function, for example cellular compartments, macromolecular structures, and life processes such as energy and material flux, cell division, and control mechanisms. Courses: either BIO 227 or CH/BI 227 (taken as part of the year-long CH/BI sequence) 
+  2. Cell Biology. Cells are the basic units of life, and understanding the structure and function of cells, and how they are studied, is central to understanding modern biology. Through a course in this category, students will obtain a comprehensive overview of cellular structure and function, for example cellular compartments, macromolecular structures, and life processes such as energy and material flux, cell division, and control mechanisms. Courses: either BIO 227 or CH/BI 227 (taken as part of the year-long CH/BI sequence) 
 
-  3. **Comparative Organismal Biology.** Courses in this category study life at the tissue, organ system, and individual levels of organization. Students will broaden their knowledge of a group of organisms (e.g., plants) or of a universal biological phenomenon (e.g., reproduction). Courses in this category approach the content through comparisons across multiple taxa. Courses: BIO 242, BIO 247, BIO 248, BIO 251, BIO 252, BIO 266, BIO 275, or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
-  4. **Ecology.** Ecology is the study of the interactions between organisms and their environments. These interactions are studied at levels of biological organization from individuals to populations, communities, ecosystems, landscapes, and the entire biosphere. Through ecology, students can better understand interconnections in the natural world, and become more aware of their role in sustaining the biodiversity and ecosystem services that benefit all life on earth. Courses: BIO 261 or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
+  3. Comparative Organismal Biology. Courses in this category study life at the tissue, organ system, and individual levels of organization. Students will broaden their knowledge of a group of organisms (e.g., plants) or of a universal biological phenomenon (e.g., reproduction). Courses in this category approach the content through comparisons across multiple taxa. Courses: BIO 242, BIO 247, BIO 248, BIO 251, BIO 252, BIO 266, BIO 275, or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
+  4. Ecology. Ecology is the study of the interactions between organisms and their environments. These interactions are studied at levels of biological organization from individuals to populations, communities, ecosystems, landscapes, and the entire biosphere. Through ecology, students can better understand interconnections in the natural world, and become more aware of their role in sustaining the biodiversity and ecosystem services that benefit all life on earth. Courses: BIO 261 or participation in the [ Environmental Science in Australia ](http://wp.stolaf.edu/environmental-studies/environmental-science-in-australia-2/) semester (but this program cannot count for both the Comparative Organismal and the Ecology core requirements) 
 
 ###  Level III Biology Course
 

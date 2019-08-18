@@ -1,6 +1,6 @@
 The concentration requires the completion of five to six courses:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 PSCI 121  |  International Relations  |  1.00  
 Any one course from the following list of complementary disciplines:  |  1.00  

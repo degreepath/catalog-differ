@@ -1,6 +1,6 @@
 The Chinese major consists of nine courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core language courses  1  |  
 CHIN 231  |  Intermediate Chinese I  |  1.00  
@@ -29,8 +29,8 @@ language and culture).
 The following courses currently fulfill this requirement: CHIN 320 Special
 Topics in Chinese, CHIN 351 Chinese Language and Society through the Media,
 CHIN 360 Professional Chinese, or the equivalent of a CHIN 320 or above course
-taken during _Term in China_ at ECNU and/or other approved study abroad
-language programs.  
+taken during Term in China at ECNU and/or other approved study abroad language
+programs.  
   
 3  |
 

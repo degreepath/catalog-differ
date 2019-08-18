@@ -15,14 +15,13 @@ program director by April 15 of their senior year.
 ##  Media Internship
 
 Students pursuing the media studies concentration enroll in and complete a
-_**credit-bearing** _ , academic internship in a media-related field, e.g.,
-film, television, video, radio, Internet, newspaper, magazine, book
-publishing, journalism, public relations, marketing, advertising, or graphic
-design. The internship may be undertaken at any time during a program of
-study. To secure academic credit for a summer internship, students must
-register for summer session II by June 1. Students are responsible for
-securing the internship placement and for consulting with the program director
-and director of academic internships in the [ Piper Center for Vocation and
-Career ](http://wp.stolaf.edu/pipercenter/) for additional information and
-guidance.
+credit-bearing, academic internship in a media-related field, e.g., film,
+television, video, radio, Internet, newspaper, magazine, book publishing,
+journalism, public relations, marketing, advertising, or graphic design. The
+internship may be undertaken at any time during a program of study. To secure
+academic credit for a summer internship, students must register for summer
+session II by June 1. Students are responsible for securing the internship
+placement and for consulting with the program director and director of
+academic internships in the [ Piper Center for Vocation and Career
+](http://wp.stolaf.edu/pipercenter/) for additional information and guidance.
 

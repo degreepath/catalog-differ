@@ -1,7 +1,7 @@
 Recommended preparation: introductory courses in social sciences, biology, and
 statistics
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Required department courses  1  |  
 FAMST 232  |  Introduction to Family Studies  |  1.00  
@@ -77,13 +77,13 @@ during the senior year (including the previous summer.) It is designed to
 ensure that concentrators participate in an experience that applies basic
 family knowledge (theories, frameworks, concepts) to real families in a
 setting beyond the classroom. It must be approved by a faculty member in the
-Department of Social Work and Family Studies **prior** to enrollment and
-entered into the Department GoogleDoc. The experience and concomitant learning
-is presented as a graded assignment for a public audience in the senior
-seminar FAMST 391. Through the experience, students demonstrate attainment of
-intended learning outcomes for family studies.
+Department of Social Work and Family Studies prior to enrollment and entered
+into the Department GoogleDoc. The experience and concomitant learning is
+presented as a graded assignment for a public audience in the senior seminar
+FAMST 391. Through the experience, students demonstrate attainment of intended
+learning outcomes for family studies.
 
-**Guidelines for the experiential component:**
+Guidelines for the experiential component:
 
 Includes a minimum of 40 hours devoted to direct experience with families
 (more than one family);
@@ -93,7 +93,7 @@ Includes a minimum of 40 hours devoted to direct experience with families
   3. Can be submitted for distinction in a major, if it meets that department's guidelines for distinction; and 
   4. Must be approved by a faculty member in the Department of Social Work and Family Studies prior to enrollment. 
 
-The experience _may_ be:
+The experience may be:
 
   * A project in a senior year course, or work with families in a social work practicum or nursing clinical; or 
   * An independent research project with family interaction (FAMST 394); or 

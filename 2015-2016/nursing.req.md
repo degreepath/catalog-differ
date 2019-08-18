@@ -1,4 +1,4 @@
-**Admission and Progression**
+Admission and Progression
 
 Students are encouraged to express an interest in the nursing major upon
 application for admission to St. Olaf College. Enrollment in the program is
@@ -9,16 +9,16 @@ faculty as academic advisors.
 Students must apply for admission to the nursing major during the fall of the
 sophomore year. Application information is available from the department chair
 or website. Admission criteria include cumulative grade point average, grades
-in prerequisite courses, essay, interview, and student status. _Students
+in prerequisite courses, essay, interview, and student status. Students
 needing accommodations for the essay or interview and who have a documented
 disability for which accommodations have been provided by the Academic Support
 Center (ASC), need to contact Suzanne Kiehne, the AAA for the Department of
-Nursing. Accommodations will only be provided after_ _a_ _letter from the ASC
-is submitted_ _to the Department of Nursing chair and with sufficient lead-
-time to arrange accommodations prior to the scheduled_ _essay or interview._
-Students will be notified of their conditional acceptance into the major by a
-letter from the nursing department chair during the January Interim of the
-sophomore year. Nursing courses begin in the spring of the sophomore year.
+Nursing. Accommodations will only be provided after a letter from the ASC is
+submitted to the Department of Nursing chair and with sufficient lead-time to
+arrange accommodations prior to the scheduled essay or interview. Students
+will be notified of their conditional acceptance into the major by a letter
+from the nursing department chair during the January Interim of the sophomore
+year. Nursing courses begin in the spring of the sophomore year.
 
 Conditional acceptance into the nursing major will become final if students
 meet the following criteria at the end of the sophomore year: a minimum

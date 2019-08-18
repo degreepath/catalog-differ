@@ -1,4 +1,4 @@
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Language-Intensive Courses (Theory)  |  6.00  
 DANCE 100  |  Introduction to Dance  |  1.00  

@@ -69,11 +69,17 @@ def extract_requirements():
         for e in el.select('[class]'):
             del e['class']
 
+        for e in el.select('[role]'):
+            del e['role']
+
         for e in el.select('[style]'):
             del e['style']
 
-        for e in el.select('span'):
+        for e in el.select('span, thead, tbody, strong, em, b, i'):
             e.unwrap()
+
+        for e in el.select('caption, colgroup'):
+            e.decompose()
 
         el.smooth()
 

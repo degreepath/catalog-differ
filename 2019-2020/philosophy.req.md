@@ -7,7 +7,7 @@ closely with an advisor in the philosophy department.
 
 ##  Regular Major
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Nine courses in philosophy, including:  3  |  9.00  
   
@@ -33,7 +33,7 @@ Level III seminar courses may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
+Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:
@@ -57,7 +57,7 @@ inquiry.
 A contract major involves a contract drawn up between the student and the
 Department of Philosophy. The contract combines the following:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Seven courses in philosophy, including:  |  7.00  
   
@@ -86,7 +86,7 @@ The two level III seminar courses in philosophy may not be taken S/U
 ---|---  
 2  |
 
-**Policy Concerning PHIL 398 Independent Research (IR)** (Adopted 2/12/08)
+Policy Concerning PHIL 398 Independent Research (IR) (Adopted 2/12/08)
 
 In special circumstances, an IR course may be substituted for a level III
 seminar. The circumstances are as follows:

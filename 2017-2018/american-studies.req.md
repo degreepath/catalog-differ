@@ -1,7 +1,7 @@
 In consultation with an advisor, students construct nine-course majors that
 normally include the following:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 AMST 100  |  American Culture: Interdisciplinary Perspectives  |  1.00  
 One level II American Studies topics course  |  1.00  

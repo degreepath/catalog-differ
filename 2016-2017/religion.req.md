@@ -2,7 +2,7 @@ The religion major consists of eight courses and requires both broad exposure
 to major approaches to studying religion and concentrated study in some aspect
 of religion. The requirements are organized in five parts as follows:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 General education courses in religion:  |  
 REL 121  |  Bible in Culture and Community (BTS-B)  |  1.00  

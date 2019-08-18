@@ -1,7 +1,7 @@
 Students majoring in exercise science complete eight core courses and two
 electives. The courses include:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core courses  |  
 BIO 143  |  Human Anatomy and Physiology: Cells and Tissues  |  1.00  

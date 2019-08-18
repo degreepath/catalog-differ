@@ -1,4 +1,4 @@
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 NORW 111  |  Beginning Norwegian I  |  1.00  
 NORW 112  |  Beginning Norwegian II  |  1.00  

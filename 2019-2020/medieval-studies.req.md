@@ -1,6 +1,6 @@
 Every student majoring in medieval studies must complete the following:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Fourth semester (or higher) of Latin  |  1.00  
 One medieval history course  |  1.00  

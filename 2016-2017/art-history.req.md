@@ -1,8 +1,8 @@
-##  **Requirements for a Studio Art Major**
+##  Requirements for a Studio Art Major
 
 Students majoring in studio art must earn a minimum of ten credits.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 102  |  Foundation Two-Dimensional Media (Art 106: Drawing from Nature in
 the Bahamas can be taken instead of Art 102)  1  |  1.00  
@@ -27,7 +27,7 @@ history courses taken.
 
 ####  Two-Dimensional Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Drawing  |  
 ART 225  |  Architectural Design I  |  1.00  
@@ -44,7 +44,7 @@ ART 236  |  Graphic Design  1  |  1.00
   
 ####  Three-Dimensional Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Ceramics  |  
 ART 207  |  Ceramics  |  1.00  
@@ -55,7 +55,7 @@ ART 224  |  Sculpture/Direct Metal  |  1.00
   
 ####  New Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Photography  |  
 ART 205  |  Photography  |  1.00  
@@ -87,7 +87,7 @@ earn nine credits as listed below. Members of the classes of 2016 and 2017
 have the choice to fulfill these major requirements or those from the old
 major listed below.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 153  |  Introduction to Art History  1  |  1.00  
 ART 350  |  The Methods of Art History  |  1.00  
@@ -142,7 +142,7 @@ ART 271
   
 ART 273
 
-|  Religion, Royalty  & Romantics: The Gothic and Gothic Revival  |  
+|  Religion, Royalty & Romantics: The Gothic and Gothic Revival  |  
 Courses that focus on European and American art created after 1700CE  |  
   
 ART 251
@@ -219,12 +219,12 @@ substitute either one of them for ART 153.
 A maximum of two courses in art history taken in off-campus programs may, upon
 approval of the department, be applied to the major.  
   
-**Requirements for an Art History Major in effect through April 2014**
+Requirements for an Art History Major in effect through April 2014
 
 These major requirements are open only to students in the classes of 2016 and
 2017. These students must earn nine credits as follows:
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 150  1  |  1.00  
 ART 151  1  |  1.00  
@@ -294,7 +294,7 @@ ART 271
   
 ART 273
 
-|  Religion, Royalty  & Romantics: The Gothic and Gothic Revival  |  
+|  Religion, Royalty & Romantics: The Gothic and Gothic Revival  |  
   
 ART 277
 

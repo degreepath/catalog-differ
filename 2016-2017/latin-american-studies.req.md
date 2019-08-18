@@ -3,7 +3,7 @@
 The requirements for the completion of a Latin American studies major consist
 of nine courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core course  |  
 HIST 193  |  Modern Latin America  |  1.00  
@@ -56,7 +56,7 @@ courses approved by the director of Latin American studies
   * A maximum of three courses that focus on Latinos in the United States may count toward the major. 
   * Both core courses, HIST 193 and PSCI 264, may be included in the major. 
   * Either SOAN 264 or RACE 121 may be included in the major, but not both . 
-  * LAMST 333 is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester in which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
+  * LAMST 333 is taught in alternate years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester in which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
 
 Students should contact the Latin American studies director as early as
 possible to plan a major.
@@ -72,7 +72,7 @@ major in that it does not require course work in Spanish.
 The requirements for the completion of the Latin American studies
 concentration consist of a minimum of five approved courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core course  |  
 HIST 193  |  Modern Latin America  |  1.00  
@@ -93,5 +93,5 @@ Total Credits  |  5
   * Both core courses, HIST 193 and PSCI 264, may be included in the concentration. 
   * Either SOAN 264 or RACE 121 may be included in the concentration, but not both. 
   * Only 270-level Spanish courses with a Latin American or U.S. Latino focus can be counted toward the concentration. These include SPAN 272, SPAN 273, and SPAN 274 (when taught with a Latin American focus). 
-  * LAMST 333 is taught in _alternate_ years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester is which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
+  * LAMST 333 is taught in alternate years, and is ideally taken in the junior or senior year. Students planning to study abroad during the semester is which the course is taught should in their junior year petition the Latin American studies director to take an alternative course or independent study to fulfill this requirement during their senior year. 
 

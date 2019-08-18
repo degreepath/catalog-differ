@@ -80,7 +80,7 @@ during the senior year (including the previous summer.) It is designed to
 ensure that concentrators participate in an experience that applies basic
 family knowledge (theories, frameworks, concepts) to real families in a
 setting beyond the classroom. It must be approved by a faculty member in the
-Department of Social Work and Family Studies **prior** to enrollment. The
+Department of Social Work and Family Studies prior to enrollment. The
 experience and concomitant learning is presented as a graded assignment for a
 public audience in the senior seminar FAMST 391. Through the experience,
 students demonstrate attainment of intended learning outcomes for family
@@ -94,7 +94,7 @@ Guidelines for the experiential component:
   * Can be submitted for distinction in a major, if it meets that department's guidelines for distinction. 
   * Must be approved by a faculty member in the Department of Social Work and Family Studies prior to enrollment. 
 
-The experience _may_ be:
+The experience may be:
 
   * A project in a senior year course, or work with families in a social work practicum or nursing clinical; or 
   * An independent research project with family interaction (FAMST 396); or 

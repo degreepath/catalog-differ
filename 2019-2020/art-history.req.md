@@ -1,8 +1,8 @@
-##  **Requirements for a Studio Art Major**
+##  Requirements for a Studio Art Major
 
 Students majoring in studio art must earn a minimum of ten credits.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 102  |  Foundation Two-Dimensional Media (Art 106: Drawing from Nature in
 the Bahamas can be taken instead of Art 102)  1  |  1.00  
@@ -27,7 +27,7 @@ history courses taken.
 
 ####  Two-Dimensional Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Drawing  |  
 ART 225  |  Architectural Design I  |  1.00  
@@ -43,7 +43,7 @@ ART 236  |  Graphic Design  1  |  1.00
   
 ####  Three-Dimensional Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Ceramics  |  
 ART 207  |  Ceramics  |  1.00  
@@ -54,7 +54,7 @@ ART 224  |  Sculpture/Direct Metal  |  1.00
   
 ####  New Media
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Photography  |  
 ART 205  |  Photography  |  1.00  
@@ -73,16 +73,16 @@ ART 236  |  Graphic Design  1  |  1.00
   
 ---|---  
   
-**Majors must participate in two juried shows. To fulfill the the requirements
+Majors must participate in two juried shows. To fulfill the the requirements
 of the studio art major and studio art education licensure, each student must
 either enter our student juried show in spring semester twice, or enter our
 student juried show once and one other non-class related exhibition on or off
 campus. Students unable to meet this requirement must speak with their advisor
-or the department chair.**
+or the department chair.
 
 ##  Requirements for an Art History Major
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 ART 153  |  Introduction to Art History  1  |  1.00  
 ART 350  |  The Methods of Art History  |  1.00  
@@ -139,7 +139,7 @@ ART 271
   
 ART 273
 
-|  Religion, Royalty  & Romantics: The Gothic and Gothic Revival  |  
+|  Religion, Royalty & Romantics: The Gothic and Gothic Revival  |  
 Courses that focus on European and American art created after 1700 CE  |  
   
 ART 251

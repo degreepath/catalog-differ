@@ -28,13 +28,13 @@ admission may apply for admission to the nursing major during the fall of the
 sophomore year. Application information is [ available here. ](Application_-
 _Current_Students.pdf)
 
-_Students needing accommodations for the essay or interview and who have a
+Students needing accommodations for the essay or interview and who have a
 documented disability for which accommodations have been provided by the
 Academic Support Center (ASC) need to contact Mary Beth Kuehn, Department
 Chair and Assistant Professor of Nursing. Accommodations will only be provided
 after a letter from the ASC is submitted to the Department of Nursing chair
 and with sufficient lead time to arrange accommodations prior to the scheduled
-essay or interview._
+essay or interview.
 
 ##  Information for All Students Applying to the Nursing Program
 
@@ -89,7 +89,7 @@ completion of a Certified Nursing Assistant/Nursing Assistant Registered
 program prior to beginning NURS 211. Students must meet all college
 requirements for graduation, as well as complete eight prerequisite courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Prerequisite Courses (to be completed before beginning nursing courses
 numbered 3XX)  |  

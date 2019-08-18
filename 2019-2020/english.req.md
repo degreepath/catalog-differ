@@ -1,6 +1,6 @@
 ##  Requirements for the Graduation Major
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Level I  |  1.00  
   
@@ -207,9 +207,9 @@ Select six electives  2  |  6.00
 Total Credits  |  10  
 1  |
 
-**1800 requirement:** Among all courses taken at level II (category-specific
-and elective), one must be in literature before 1800; one must be in
-literature after 1800  
+1800 requirement: Among all courses taken at level II (category-specific and
+elective), one must be in literature before 1800; one must be in literature
+after 1800  
   
 ---|---  
 2  |
@@ -220,7 +220,7 @@ literature course.
 ##  Requirements for the Graduation Major Plus Communication Arts/Literature
 (CAL) Teaching Licensure
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 English courses  |  
 ENGL 150  |  The Craft of Creative Writing  |  1.00  

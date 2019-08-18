@@ -1,6 +1,6 @@
 History majors are required to take nine courses.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 One level II major seminar  |  
 Three courses at level III  |  

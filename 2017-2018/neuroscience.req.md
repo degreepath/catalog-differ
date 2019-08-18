@@ -1,4 +1,4 @@
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Core courses (taken in either order):  |  
 PSYCH 238  |  Biopsychology  |  1.00  

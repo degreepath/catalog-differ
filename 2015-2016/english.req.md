@@ -233,9 +233,9 @@ Select six electives  2  |  6.00
 Total Credits  |  9  
 1  |
 
-**1800 requirement:** Among all courses taken at level II (category-specific
-and elective), one must be in literature before 1800; one must be in
-literature after 1800  
+1800 requirement: Among all courses taken at level II (category-specific and
+elective), one must be in literature before 1800; one must be in literature
+after 1800  
   
 ---|---  
 2  |

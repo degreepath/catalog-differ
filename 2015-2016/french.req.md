@@ -1,4 +1,4 @@
-**Requirements for the Graduation Major**
+Requirements for the Graduation Major
 
 All French majors are urged to study in France or in another Francophone
 country. This is particularly important for French teaching majors.

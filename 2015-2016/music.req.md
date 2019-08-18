@@ -1,4 +1,4 @@
-**S/U Policy** : No required course in the major can be taken S/U.
+S/U Policy: No required course in the major can be taken S/U.
 
 Music majors who study off-campus may petition the vice-chair of the
 department for approval of a maximum of two (2) courses, plus performance
@@ -386,7 +386,7 @@ See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/)  
   
-##  ** ** BA with Teaching Credential
+##  BA with Teaching Credential
 
 Please see [ Overview of St. Olaf's Teacher Education Program
 ](/archive/2015-2016/academic-programs/education/) and [ General Requirements
@@ -424,7 +424,7 @@ major-entrance-and-continuance-information/)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 ######  Degree Requirements
 
@@ -600,7 +600,7 @@ Total Credits  |  2.25
   
 ###  Bachelor of Music Degree
 
-##  ** BM in Performance **
+##  BM in Performance
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMPerf13.pdf)
 
@@ -628,7 +628,7 @@ See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Performance program_
+  * students not approved for continuance are no longer in the BM Performance program 
 
 ######  Degree Requirements
 
@@ -825,7 +825,7 @@ See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Performance program_
+  * students not approved for continuance are no longer in the BM Performance program 
 
 ######  Degree Requirements
 
@@ -959,7 +959,7 @@ See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) [ . ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/)  
   
-###  **Bachelor of Music in Church Music**
+###  Bachelor of Music in Church Music
 
 ##  BM in Church Music, Choral Emphasis
 
@@ -994,7 +994,7 @@ See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during Junior year, fall semester 
-  * _students not approved for continuance are no longer in the BM Church Music program_
+  * students not approved for continuance are no longer in the BM Church Music program 
 
 ######  Degree Requirements
 
@@ -1167,7 +1167,7 @@ See See [ Music Major Entrance and Continuance Information
 information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Church Music program_
+  * students not approved for continuance are no longer in the BM Church Music program 
 
 ######  Degree Requirements
 
@@ -1299,7 +1299,7 @@ See [ Performance Requirements for Music Majors
 See [ music handbook ](http://wp.stolaf.edu/music/recital-attendance-
 requirements/) .  
   
-##  ** BM in Theory-Composition **
+##  BM in Theory-Composition
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMTheoryComp13.pdf)
 
@@ -1326,7 +1326,7 @@ See [ Entrance and Continuance Information ](http://wp.stolaf.edu/music/music-
 major-entrance-and-continuance-information/)
 
   * generally during third semester in the program 
-  * _students not approved for continuance are no longer in the BM Theory-Composition program_
+  * students not approved for continuance are no longer in the BM Theory-Composition program 
 
 ######  Degree Requirements
 
@@ -1465,7 +1465,7 @@ information/)
 
   * generally in junior year, second semester 
   * juried recital performance, academic review, possible interview/conference 
-  * _students not approved for continuance are no longer in the Teacher Education Program_
+  * students not approved for continuance are no longer in the Teacher Education Program 
 
 ######  Degree Requirements
 
@@ -1682,7 +1682,7 @@ MUSIC 169  |  Woodwind Techiques (0.25)  |  0.25
 MUSIC 164  |  Voice Class (0.25) (or one semester of vocal performance study)
 |  0.25  
   
-##  ** BM with Elective Studies **
+##  BM with Elective Studies
 
 [ Worksheet ](http://wp.stolaf.edu/music/files/2013/06/SA_BMElective131.pdf)
 
@@ -1714,7 +1714,7 @@ information/)
 information/)
 
   * at the end of third semester in the program, not later than Junior year, spring semester 
-  * _students not approved for continuance are no longer in the BM Elective Studies program_
+  * students not approved for continuance are no longer in the BM Elective Studies program 
 
 ######  Degree Requirements
 

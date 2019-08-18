@@ -1,7 +1,7 @@
 The neuroscience concentration requires six courses: two foundation courses,
 three electives (two with lab), and one seminar.
 
-Course List  Code  |  Title  |  Credits  
+Code  |  Title  |  Credits  
 ---|---|---  
 Foundation courses (taken in either order):  |  
 PSYCH 238  |  Biopsychology  |  1.00  
